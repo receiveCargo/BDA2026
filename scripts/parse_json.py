@@ -5,8 +5,8 @@ import re
 
 # TODO: remove duplicates
 
-input_folder = "data"
-output_csv = "output/json_data.csv"
+input_folder = "../data"
+output_csv = "data/input/csv/json_data.csv"
 
 fieldnames = [
     "Filename",
@@ -56,6 +56,10 @@ with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
         filepath = os.path.join(input_folder, filename)
         with open(filepath, "r", encoding="utf-8") as f:
             html = f.read()
+        
+        if "Myyty Nettiauton kautta" in html:
+            print("{} sold, skipping".format(filename))
+            continue
 
         data = extract_product_json(html)
         if not data:
