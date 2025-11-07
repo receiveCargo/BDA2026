@@ -57,13 +57,17 @@ with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
         with open(filepath, "r", encoding="utf-8") as f:
             html = f.read()
         
+        if "Poistettu myynnistä" in html:
+            print("{} not for sale anymore".format(filename))
+            continue
+
         if "Myyty Nettiauton kautta" in html:
-            print("{} sold, skipping".format(filename))
+            print("{} sold".format(filename))
             continue
 
         data = extract_product_json(html)
         if not data:
-            print(f"No productInfo JSON found in {filename}")
+            print("{} has no productInfo JSON".format(filename))
             continue
 
         product = data.get("productInfo", {})
@@ -77,9 +81,13 @@ with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
         if "fuelConsumption" in product:
             row["fuelConsumptionCombined"] = product["fuelConsumption"].get("fuelConsumptionCombined", "")
 
+        if int(row["basePrice"]) < 1000:
+            print("{} base price less than 1000€".format(filename))
+            continue
+
         count+=1
         writer.writerow(row)
         if count%1000==0:
-            print(f"Parsed {count} files")
+            print("Parsed {} files".format(count))
 
 print(f"\n{count} rows written to '{output_csv}'")
