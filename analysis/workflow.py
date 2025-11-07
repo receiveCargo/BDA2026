@@ -7,22 +7,20 @@ with open("analysis/model.stan", "r") as f:
     simple_model_code = f.read()
 
 def optimized_bayesian_workflow(csv_file, sample_size=5000):
-    """
-    Optimized workflow for large datasets
-    """
     # Load data
     df = pd.read_csv(csv_file)
     
     # Prepare data efficiently
     df_clean = df.dropna(subset=['basePrice', 'productionDate', 'mileageFromOdometer'])
-    df_clean = df_clean[df_clean['basePrice'] > 0]
-    
+    df_clean = df_clean[df_clean['basePrice'] > 1000]
+    df_clean = df_clean[df_clean['mileageFromOdometer'] > 1000]
+
     # Sample if dataset is large
     if len(df_clean) > sample_size:
         df_clean = df_clean.sample(n=sample_size, random_state=42)
     
-    current_year = 2024
-    df_clean['age'] = current_year - df_clean['productionDate']
+    current_year = 2025
+    df_clean['age'] = abs(current_year - df_clean['productionDate'])
     
     stan_data = {
         'N': len(df_clean),
@@ -31,7 +29,6 @@ def optimized_bayesian_workflow(csv_file, sample_size=5000):
         'log_price': np.log(df_clean['basePrice'].values.astype(float))
     }
     
-    # Fit with optimized settings
     print("Fitting simplified model...")
     posterior = stan.build(simple_model_code, data=stan_data)
     fit = posterior.sample(num_chains=2, num_samples=800, num_warmup=300)
