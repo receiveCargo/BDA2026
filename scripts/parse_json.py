@@ -5,6 +5,7 @@ import re
 
 # TODO: remove duplicates
 # TODO: create a separate .csv for listings that have been sold
+# TODO: detect cars that are not road legal
 
 input_folder = "../data"
 output_csv = "data/input/csv/json_data.csv"

@@ -1,93 +1,62 @@
 import pandas as pd
-import numpy as np
 import stan
+import numpy as np
 import webbrowser
 
-with open("analysis/model.stan", "r") as f:
-    simple_model_code = f.read()
+# TODO: create dataset of sold cars with scripts/parse_json.py and utilize it in analysis
+# TODO: fix broken filters (basePrice sometimes less than 1000€, sold listing appear in outputs)
 
-def optimized_bayesian_workflow(csv_file, sample_size=5000):
-    # Load data
-    df = pd.read_csv(csv_file)
-    
-    # Prepare data efficiently
-    df_clean = df.dropna(subset=['basePrice', 'productionDate', 'mileageFromOdometer'])
-    df_clean = df_clean[df_clean['basePrice'] > 1000]
-    df_clean = df_clean[df_clean['mileageFromOdometer'] > 1000]
+# Load and prepare data
+df = pd.read_csv('data/input/csv/json_data.csv').dropna(subset=['vehicleModel', 'productionDate','mileageFromOdometer','basePrice'])
+df = df[df.mileageFromOdometer > 1000]
+df = df[df.basePrice > 1000]
 
-    # Sample if dataset is large
-    if len(df_clean) > sample_size:
-        df_clean = df_clean.sample(n=sample_size, random_state=42)
+# Analyze each vehicle model with more than 200 entries
+for model in df.vehicleModel.unique():
+    subset = df[df.vehicleModel == model]
+    if len(subset) < 200: continue
     
-    current_year = 2025
-    df_clean['age'] = abs(current_year - df_clean['productionDate'])
+    # Prepare data
+    X = np.column_stack([subset.productionDate, subset.mileageFromOdometer])
+    y = subset.basePrice.values
     
-    stan_data = {
-        'N': len(df_clean),
-        'age': df_clean['age'].values.astype(float),
-        'mileage': df_clean['mileageFromOdometer'].values.astype(float),
-        'log_price': np.log(df_clean['basePrice'].values.astype(float))
-    }
+    # Bayesian regression with stan
+    with open('analysis/model.stan', 'r') as f:
+        model_code = f.read()
     
-    print("Fitting simplified model...")
-    posterior = stan.build(simple_model_code, data=stan_data)
-    fit = posterior.sample(num_chains=2, num_samples=800, num_warmup=300)
+    fit = stan.build(model_code, data={
+        'N': len(X), 'date': X[:,0], 'mileage': X[:,1], 
+        'price': y, 'K': 5
+    })
+    samples = fit.sample(num_chains=3, num_samples=50)
     
-    return fit, df_clean
+    # Extract posterior means
+    alpha_mean = np.mean(samples['alpha'])
+    beta_mean = np.mean(samples['beta'], axis=1)
+    
+ 
+    # Find undervalued cars (negative residuals)
+    y_hat = alpha_mean + np.dot(X, beta_mean[:2])
+    residuals = y - y_hat
+    undervalued_indices = residuals.argsort()[:2]
+    undervalued = subset.iloc[undervalued_indices]
+    
+    print(f"\nUndervalued {model}:")
+    for i, (index, row) in enumerate(undervalued.iterrows()):
+        actual_price = row['basePrice']
+        predicted_price = y_hat[undervalued_indices[i]]
+        discount = predicted_price - actual_price
+        discount_percent = (discount / predicted_price) * 100
+        
+        print(f"  {row['vehicleBrand']} {row['vehicleModel']} ({row['productionDate']})")
+        print(f"    Mileage: {row['mileageFromOdometer']} km")
+        print(f"    Actual price: €{actual_price:.0f}")
+        print(f"    Predicted price: €{predicted_price:.0f}")
+        print(f"    Discount: €{discount:.0f} ({discount_percent:.1f}% below market)")
+        print()
 
-def detect_undervalued_fast(fit, df_clean, threshold=0.9):
-    """
-    Fast detection of undervalued cars
-    """
-    samples = fit.to_frame()
-    
-    # Extract posterior predictive samples
-    log_price_rep_columns = [col for col in samples.columns if 'log_price_rep' in col]
-    log_price_rep = samples[log_price_rep_columns].values
-    expected_prices = np.exp(log_price_rep)
-    
-    # Calculate probability of being undervalued
-    actual_prices = df_clean['basePrice'].values
-    undervalued_probs = []
-    
-    for i in range(len(actual_prices)):
-        prob_undervalued = np.mean(expected_prices[:, i] > actual_prices[i])
-        undervalued_probs.append(prob_undervalued)
-    
-    df_clean = df_clean.copy()
-    df_clean['undervalued_prob'] = undervalued_probs
-    df_clean['expected_price_mean'] = np.mean(expected_prices, axis=0)
-    df_clean['is_undervalued'] = df_clean['undervalued_prob'] > threshold
-    
-    return df_clean
-
-def fast_undervalued_detection(csv_file, sample_size=3000):
-    """
-    Fast workflow for undervalued car detection
-    """
-    print("Loading data...")
-    print("Using sampled data for speed...")
-    fit, df_clean = optimized_bayesian_workflow(csv_file, sample_size)
-
-    print("Detecting undervalued cars...")
-    results = detect_undervalued_fast(fit, df_clean)
-    
-    undervalued = results[results['is_undervalued']]
-    print(f"Found {len(undervalued)} potentially undervalued cars")
-    
-    return results, undervalued
-
-# Usage
-if __name__ == "__main__":
-    # For quick results
-    results, undervalued = fast_undervalued_detection('data/input/csv/json_data.csv', sample_size=2000)
-    
-    if undervalued is not None:
-        print("\nTop undervalued cars:")
-        for _, car in undervalued.head(10).iterrows():
-            discount = ((car['expected_price_mean'] - car['basePrice']) / car['expected_price_mean']) * 100
-            id=car["Filename"][:-5]
-            link="https://www.nettiauto.com/{}".format(id)
-            print(f"Expected {car['expected_price_mean']}, price {car['basePrice']}")
-            print(f"- {car['vehicleBrand']} {car['vehicleModel']}: {discount:.1f}% below expected. Link: {link}")
-            webbrowser.open(link)
+    '''
+    for id in undervalued['Filename']:
+            url=f"https://nettiauto.com/{id[:-5]}"
+            webbrowser.open(url)
+    '''
