@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import stan
 from sklearn.preprocessing import LabelEncoder
+import webbrowser
 
 def prepare_optimized_data(df, sample_fraction=0.5, min_samples_per_brand=5):
     """
@@ -209,4 +210,6 @@ if __name__ == "__main__":
         for _, car in undervalued.head(10).iterrows():
             discount = ((car['expected_price_mean'] - car['basePrice']) / car['expected_price_mean']) * 100
             id=car["Filename"][:-5]
-            print(f"- {car['vehicleBrand']} {car['vehicleModel']}: {discount:.1f}% below expected. Link: https://www.nettiauto.com/{id}")
+            link="https://www.nettiauto.com/{}".format(id)
+            print(f"- {car['vehicleBrand']} {car['vehicleModel']}: {discount:.1f}% below expected. Link: {link}")
+            webbrowser.open(link)
