@@ -4,6 +4,7 @@ import os
 import re
 
 # TODO: remove duplicates
+# TODO: create a separate .csv for listings that have been sold
 
 input_folder = "../data"
 output_csv = "data/input/csv/json_data.csv"
@@ -57,7 +58,7 @@ with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
         with open(filepath, "r", encoding="utf-8") as f:
             html = f.read()
         
-        if "Poistettu myynnistä" in html:
+        if "Poistettu myynnistä" in html or "Myyty" in html:
             print("{} not for sale anymore".format(filename))
             continue
 
