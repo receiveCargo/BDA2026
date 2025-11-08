@@ -1,17 +1,26 @@
 data {
-  int<lower=0> N;
-  vector[N] date;
-  vector[N] mileage;
-  vector[N] price;
-  int<lower=0> K;
+  int<lower=0> N;           // number of observations
+  int<lower=0> K;           // number of predictors
+  matrix[N, K] X;           // predictor matrix
+  vector[N] y;              // response vector
 }
 parameters {
-  real alpha;
-  vector[K] beta;
-  real<lower=0> sigma;
+  vector[K] beta;           // coefficients
+  real alpha;               // intercept
+  real<lower=0> sigma;      // error scale
 }
 model {
-  price ~ normal(alpha + beta[1] * date + beta[2] * mileage + 
-                beta[3] * date .* mileage + beta[4] * square(date) + 
-                beta[5] * square(mileage), sigma);
+  // Priors
+  beta ~ normal(0, 10);
+  alpha ~ normal(0, 10);
+  sigma ~ cauchy(0, 5);
+  
+  // Likelihood
+  y ~ normal(alpha + X * beta, sigma);
+}
+generated quantities {
+  vector[N] y_rep;          // posterior predictive distribution
+  for (i in 1:N) {
+    y_rep[i] = normal_rng(alpha + X[i] * beta, sigma);
+  }
 }
