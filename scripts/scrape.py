@@ -3,9 +3,9 @@ import time
 from pathlib import Path
 
 scraper = cloudscraper.create_scraper()
-id=15366280
+id=15357901
 while id>0:
-	path="data/html/{}.html".format(id)
+	path="../data/{}.html".format(id)
 	if not Path(path).is_file():
 		url = 'https://www.nettiauto.com/{}'.format(id)
 		response = scraper.get(url)

@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 import os
 
 # Use this to generate plots from the .csv
@@ -23,7 +24,10 @@ def plot_price(variable, data_points_required, input, output):
         if len(group) <= data_points_required:
             continue
         plt.figure(figsize=(10, 6))
+        fit = np.poly1d(np.polyfit(group[variable], group['basePrice'], 4))
+        space = np.linspace(min(group[variable]), max(group[variable]), 100)
         plt.scatter(group[variable], group['basePrice'], alpha=0.7, edgecolors='w', s=50)    
+        plt.plot(space, fit(space))
         brand, model, variant = name
         
         plt.title(f'{brand} {model} {variant} (n={len(group)})')
