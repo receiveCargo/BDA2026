@@ -1,0 +1,1027 @@
+Filename,vehicleBrand,vehicleModel,vehicleVariant,vehicleType,registrationNumber,productionDate,mileageFromOdometer,vehicleTransmission,fuelType,drivetrain,basePrice,fuelConsumptionCombined,emissionsCO2,companyName,companyLocation,sellerType,locationCity,locationRegion
+15366253.html,Mercedes-Benz,200,Sedan,Car,BLE-862,1989,430000,Manual,Petrol,Rear wheel,1500,0.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15373720.html,Mitsubishi,Lancer,Station Wagon,Car,BMI-953,2007,191000,Manual,Petrol,Front wheel,2100,0.0,166,,,Seller,Iisalmi,Pohjois-Savo
+15361241.html,Nissan,Primera,Station Wagon,Car,GGM-657,2005,332000,Manual,Petrol,Front wheel,1000,0.0,173,,,Seller,Helsinki,Uusimaa
+15360296.html,Volkswagen,Touareg,All-terrain SUV,Car,BKY-832,2008,279500,Automatic,Diesel,Four wheel,2790,0.0,,,,Seller,Porvoo,Uusimaa
+15360230.html,Jeep,Patriot,All-terrain SUV,Car,GHP-959,2009,252314,Automatic,Petrol,Four wheel,1999,10.0,214,,,Seller,Nokia,Pirkanmaa
+15375359.html,Ford,Focus,Station Wagon,Car,GNT-237,2020,66000,Automatic,Diesel,Front wheel,17500,3.9,138,,,Seller,Pirkkala,Pirkanmaa
+15360956.html,Hyundai,Terracan,All-terrain SUV,Car,FGM-993,2004,316000,Automatic,Diesel,Four wheel,1900,0.0,241,,,Seller,Kauhajoki,Etelä-Pohjanmaa
+15370031.html,Toyota,Avensis,Station Wagon,Car,OTG-522,2004,302000,Manual,Petrol,Front wheel,1790,0.0,173,,,Seller,Kajaani,Kainuu
+15363557.html,Fiat,Punto,Hatchback,Car,GHG-960,2008,171000,Manual,Petrol,Front wheel,1750,5.5,136,,,Seller,Kerava,Uusimaa
+15376071.html,Toyota,Corolla Verso,Station Wagon,Car,VBG-261,2003,178000,Manual,Petrol,Front wheel,1390,0.0,,,,Seller,Mäntsälä,Uusimaa
+15370604.html,Peugeot,208,Hatchback,Car,LNX-307,2017,151000,Automatic,Petrol,Front wheel,6800,4.2,97,Vaihtokaara Raisio,Raisio,Dealer,Raisio,Varsinais-Suomi
+15368360.html,Honda,Civic,Hatchback,Car,KCG-952,2007,241000,Manual,Petrol,Front wheel,2999,6.6,156,,,Seller,Lapinjärvi,Uusimaa
+15362855.html,Subaru,Legacy,Sedan,Car,HEY-973,2010,147000,Manual,Diesel,Four wheel,9980,6.3,165,Suomen Vaunumesta Oy,Tuusula,Dealer,Tuusula,Uusimaa
+15373580.html,Toyota,Avensis,Station Wagon,Car,VBG-340,2003,347000,Manual,Petrol,Front wheel,1650,0.0,172,,,Seller,Kristiinankaupunki,Pohjanmaa
+15358259.html,Volvo,745,Station Wagon,Car,FBL-620,1991,524660,Manual,Petrol,Rear wheel,1500,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360582.html,Toyota,Corolla,Sedan,Car,ZLF-199,2003,394000,Manual,Diesel,Front wheel,1000,0.0,153,,,Seller,Kuusamo,Pohjois-Pohjanmaa
+15373081.html,Volkswagen,Transporter,Short - Low,Van,FHM-123,2006,396000,Manual,Diesel,Front wheel,3500,0.0,,,,Seller,Pieksämäki,Etelä-Savo
+15361216.html,Mercedes-Benz,C,Sedan,Car,FGE-105,1993,282273,Manual,Petrol,Rear wheel,1350,0.0,,,,Seller,Saarijärvi,Keski-Suomi
+15372844.html,Peugeot,Expert,Long - High,Van,SEZ-779,2009,196994,Manual,Diesel,Front wheel,5200,0.0,191,,,Seller,Kokkola,Keski-Pohjanmaa
+15360299.html,Chevrolet,Chevy Van,Normal,Light truck,CXY-56,2000,340000,Automatic,Diesel,Rear wheel,3950,0.0,,,,Seller,Lahti,Päijät-Häme
+15358416.html,Mazda,B2600,Pickup,Car,OGX-442,1996,345225,Manual,Diesel,Four wheel,2000,0.0,,,,Seller,Sodankylä,Lappi
+15367978.html,Suzuki,Vitara,Hatchback,Car,ERP-770,2021,118000,Manual,Petrol,Four wheel,18700,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15362525.html,Renault,Megane,Station Wagon,Car,KMC-506,2013,174000,Manual,Petrol,Front wheel,3790,0.0,119,Antons Verkstad,Pietarsaari,Dealer,Pietarsaari,Pohjanmaa
+15371698.html,Volkswagen,Golf,Station Wagon,Car,AAY-769,2008,238000,Manual,Petrol,Front wheel,2290,7.4,176,VS-Autotalo Oy,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15361368.html,Mazda,6,Hatchback,Car,SRY-124,2009,241000,Automatic,Petrol,Front wheel,3200,0.0,182,,,Seller,Espoo,Uusimaa
+15375201.html,Volvo,V70,Station Wagon,Car,NGK-869,2002,320000,Automatic,Petrol,Front wheel,3000,0.0,264,,,Seller,Nurmijärvi,Uusimaa
+15371139.html,Nissan,Note,Hatchback,Car,HUG-243,2008,252500,Manual,Petrol,Front wheel,2250,6.6,156,,,Seller,Loviisa,Uusimaa
+15368918.html,Kia,Ceed,Station Wagon,Car,BPA-709,2011,232000,Manual,Petrol,Front wheel,4400,6.0,142,Auto-Karhuset Oy,Nokia,Dealer,Nokia,Pirkanmaa
+15359618.html,Dacia,Duster,All-terrain SUV,Car,YKH-244,2018,79400,Manual,Petrol,Four wheel,16900,0.0,145,,,Seller,Raasepori,Uusimaa
+15368860.html,Volkswagen,Tiguan,All-terrain SUV,Car,GOK-332,2016,220000,Automatic,Diesel,Four wheel,22500,5.7,,,,Seller,Mikkeli,Etelä-Savo
+15361004.html,Ford,Mondeo,Station Wagon,Car,MLE-888,2009,463000,Manual,Diesel,Front wheel,2900,0.0,,,,Seller,Kontiolahti,Pohjois-Karjala
+15364178.html,Volvo,S80,Sedan,Car,NHF-562,2007,489200,Automatic,Diesel,Front wheel,1500,0.0,,,,Seller,Orivesi,Pirkanmaa
+15364002.html,Volkswagen,Golf,Hatchback,Car,KRF-728,2006,162000,Manual,Petrol,Front wheel,4200,0.0,,,,Seller,Pori,Satakunta
+15366276.html,Opel,Astra,Hatchback,Car,ZPP-386,2010,101000,Manual,Petrol,Front wheel,5200,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15358337.html,Citroen,C5,Sedan,Car,FKP-563,2012,265968,Automatic,Petrol,Front wheel,2400,6.8,169,,,Seller,Kauhajoki,Etelä-Pohjanmaa
+15368746.html,Peugeot,106,Hatchback,Car,AYA-321,1999,146000,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Janakkala,Kanta-Häme
+15372376.html,Audi,Q7,All-terrain SUV,Car,ERU-134,2007,416000,Automatic,Diesel,Four wheel,4299,0.0,,,,Seller,Kauhava,Etelä-Pohjanmaa
+15371442.html,Volvo,V50,Station Wagon,Car,IVG-616,2004,222000,Manual,Petrol,Front wheel,3800,8.5,203,Automyynti Blomerus Oy,Orimattila,Dealer,Orimattila,Päijät-Häme
+15367814.html,Volvo,S60,Sedan,Car,VTZ-440,2012,296000,Automatic,Diesel,Front wheel,6890,5.4,142,Etelän Autoliike - Mäntsälä,Mäntsälä,Dealer,Mäntsälä,Uusimaa
+15372163.html,Toyota,Yaris,Other,Car,NGT-472,2006,330270,Manual,Diesel,Front wheel,1300,0.0,119,,,Seller,Inari,Lappi
+15358942.html,Audi,A4,Station Wagon,Car,GJF-808,2006,432000,Manual,Diesel,Front wheel,1600,0.0,,,,Seller,Tampere,Pirkanmaa
+15362411.html,Dodge,600,Sedan,Car,NLH-22,1987,71000,Automatic,Petrol,Front wheel,2800,0.0,,,,Seller,Hollola,Päijät-Häme
+15363452.html,Skoda,Octavia,Station Wagon,Car,GLB-493,2014,345000,Manual,Diesel,Front wheel,1999,0.0,99,,,Seller,Lappeenranta,Etelä-Karjala
+15366580.html,Ford,C-MAX Grand,MPV,Car,FKL-511,2011,245500,Manual,Diesel,Front wheel,3500,6.0,124,,,Seller,Ylistaro,Etelä-Pohjanmaa
+15360311.html,Volkswagen,Golf,Station Wagon,Car,VLG-570,2005,652000,Manual,Diesel,Four wheel,1200,0.0,170,,,Seller,Suomusjärvi,Varsinais-Suomi
+15371864.html,Volkswagen,Transporter,Long - Low,Van,FBZ-700,1996,352000,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Pielavesi,Pohjois-Savo
+15361203.html,Volvo,244,Sedan,Car,TTC-402,1983,204000,Manual,Petrol,Rear wheel,3000,0.0,,,,Seller,Rauma,Satakunta
+15360484.html,Volkswagen,Golf,Station Wagon,Car,FIK-450,2008,33000,Manual,Petrol,Front wheel,8500,0.0,176,,,Seller,Jyväskylä,Keski-Suomi
+15361037.html,Toyota,Land Cruiser,All-terrain SUV,Car,NGT-480,2006,573000,Manual,Diesel,Four wheel,8800,10.0,,,,Seller,Helsinki,Uusimaa
+15365750.html,Volvo,V70,Station Wagon,Car,VXY-153,2009,422200,Manual,Diesel,Front wheel,2900,0.0,157,,,Seller,Nurmijärvi,Uusimaa
+15361564.html,Toyota,Corolla,Hatchback,Car,TFY-131,1992,332200,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Urjala,Pirkanmaa
+15363814.html,Audi,S3,Hatchback,Car,IPI-122,2002,400234,Manual,Petrol,Four wheel,1800,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15373137.html,BMW,523,Sedan,Car,MYI-980,2000,381000,Manual,Petrol,Rear wheel,1500,0.0,225,,,Seller,Nivala,Pohjois-Pohjanmaa
+15364725.html,Cadillac,CTS,Sedan,Car,CNL-416,2012,224280,Automatic,Petrol,Rear wheel,3450,0.0,,,,Seller,Helsinki,Uusimaa
+15359273.html,Mitsubishi,L300,Other,Car,JHI-333,1990,216000,Manual,Diesel,Rear wheel,1280,0.0,,,,Seller,Asikkala,Päijät-Häme
+15363473.html,Chevrolet,Cruze,Sedan,Car,IJL-290,2010,234900,Manual,Diesel,Front wheel,2300,5.5,149,,,Seller,Kotka,Kymenlaakso
+15372971.html,BMW,330,Sedan,Car,LNP-818,2013,218000,Automatic,Diesel,Rear wheel,14000,4.9,129,,,Seller,Porvoo,Uusimaa
+15363052.html,Toyota,Corolla,Station Wagon,Car,RXI-919,2003,192000,Automatic,Petrol,Front wheel,5990,7.9,190,AutoViisikko,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15365162.html,MINI,Cooper,Hatchback,Car,VYU-638,2007,211000,Manual,Petrol,Front wheel,2600,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15363221.html,Opel,Corsa,Hatchback,Car,CKF-719,2016,259000,Manual,Diesel,Front wheel,3850,0.0,100,Nokian Autokulma,Nokia,Dealer,Nokia,Pirkanmaa
+15365712.html,Nissan,Primera,Hatchback,Car,NFI-430,2003,115000,Manual,Petrol,Front wheel,1500,7.0,173,,,Seller,Espoo,Uusimaa
+15358467.html,Volkswagen,Golf,Station Wagon,Car,JIK-643,2011,260000,Automatic,Petrol,Front wheel,2990,6.0,139,SJ auto Oy,Orimattila,Dealer,Orimattila,Päijät-Häme
+15363382.html,Mercedes-Benz,S,Sedan,Car,ZNR-510,2002,410186,Automatic,Diesel,Rear wheel,2200,0.0,,,,Seller,Rovaniemi,Lappi
+15362830.html,Peugeot,308,Hatchback,Car,YHE-363,2008,246000,Manual,Diesel,Front wheel,1299,4.7,125,Jokiauto Oy,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15374395.html,Ford,Focus,Hatchback,Car,YVL-889,2007,218540,Manual,Petrol,Front wheel,1930,0.0,,,,Seller,Lempäälä,Pirkanmaa
+15363854.html,Toyota,Hiace,Other,Car,OIC-185,1998,313541,Manual,Diesel,Rear wheel,4000,0.0,,KAJ-services,Raahe,Dealer,Raahe,Pohjois-Pohjanmaa
+15370950.html,Ford,Transit,Extension cabin,Light truck,SRG-762,2004,378000,Manual,Diesel,Rear wheel,2900,10.0,,,,Seller,Hämeenkyrö,Pirkanmaa
+15368850.html,Chevrolet,Express 2500,Extension cabin,Light truck,JMT-19,1998,410000,Automatic,Diesel,Rear wheel,4300,0.0,,,,Seller,Vantaa,Uusimaa
+15358545.html,Toyota,Corolla,Hatchback,Car,ZLG-290,2004,253000,Manual,Petrol,Front wheel,2490,6.7,159,Pirkanmaan Autocenter Oy,Pirkkala,Dealer,Pirkkala,Pirkanmaa
+15362309.html,BMW,330,Sedan,Car,JJZ-587,2016,155000,Automatic,Petrol,Four wheel,26990,6.2,144,Vaihtoautomaa Keski-Suomi,Muurame,Dealer,Jyväskylä,Keski-Suomi
+15363098.html,Suzuki,Vitara,Hatchback,Car,KNV-873,2016,170000,Automatic,Petrol,Four wheel,15990,5.5,128,Vaihtoautomaa Keski-Suomi,Muurame,Dealer,Jyväskylä,Keski-Suomi
+15371166.html,Toyota,Corolla Verso,MPV,Car,TVY-437,2008,553664,Manual,Diesel,Front wheel,1100,0.0,167,PureBuild Oy,Iitti,Dealer,Iitti,Päijät-Häme
+15363154.html,BMW,M2,Coupé,Car,BVR-960,2018,75000,Automatic,Petrol,Rear wheel,70990,9.8,223,Waloauto Airport,Vantaa,Dealer,Vantaa,Uusimaa
+15359843.html,Mercedes-Benz,E,Sedan,Car,BJG-538,2004,505000,Automatic,Diesel,Rear wheel,2000,0.0,,,,Seller,Haapajärvi,Pohjois-Pohjanmaa
+15367713.html,Toyota,RAV4,All-terrain SUV,Car,ZXI-726,2006,271000,Manual,Petrol,Four wheel,6200,8.5,,,,Seller,Loviisa,Uusimaa
+15362618.html,Mercedes-Benz,C,Sedan,Car,KKF-690,2005,465000,Manual,Diesel,Rear wheel,1000,6.1,161,,,Seller,Pietarsaari,Pohjanmaa
+15365867.html,BMW,315,Sedan,Car,MCC-26,1982,277000,Manual,Petrol,Rear wheel,8500,0.0,,,,Seller,Laukaa,Keski-Suomi
+15366011.html,Volkswagen,Passat,Station Wagon,Car,VMY-202,2007,442190,Manual,Diesel,Front wheel,1400,5.5,,,,Seller,Kyyjärvi,Keski-Suomi
+15372418.html,Nissan,Terrano Turbodiesel,All-terrain SUV,Van,JFO-968,2004,421000,Automatic,Diesel,Four wheel,1550,0.0,,,,Seller,Kuhmo,Kainuu
+15359673.html,Volvo,V60,Station Wagon,Car,YXC-758,2020,116000,Automatic,Hybrid (petrol/electric),Four wheel,30990,2.4,48,Vaihtoautomaa Lempäälä,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15363246.html,Dodge,Ram,Pickup,Light truck,KOC-1,2012,125000,Automatic,Diesel,Four wheel,54890,0.0,,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15358368.html,Toyota,Avensis,Sedan,Car,GEH-248,2000,443000,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Urjala,Pirkanmaa
+15363206.html,Skoda,Enyaq,All-terrain SUV,Car,OZH-403,2021,107000,Automatic,Electric,Rear wheel,27900,0.0,,WS Motors,Aura,Dealer,Aura,Varsinais-Suomi
+15360326.html,Honda,CR-V,All-terrain SUV,Car,SHI-289,2005,314000,Manual,Diesel,Four wheel,3500,7.0,177,,,Seller,Vesanto,Pohjois-Savo
+15367527.html,BMW,X5,All-terrain SUV,Car,NLM-184,2018,157000,Automatic,Hybrid (petrol/electric),Four wheel,25990,0.0,78,Waloauto Airport,Vantaa,Dealer,Vantaa,Uusimaa
+15361103.html,Ford,Focus,Station Wagon,Car,FJG-464,2009,356000,Manual,Petrol,Front wheel,1000,6.5,159,,,Seller,Kurikka,Etelä-Pohjanmaa
+15374391.html,Seat,Ibiza,Hatchback,Car,TUY-133,2009,225000,Manual,Petrol,Front wheel,2300,0.0,149,,,Seller,Oulu,Pohjois-Pohjanmaa
+15359109.html,Mercedes-Benz,S,Sedan,Car,LOI-667,2002,320000,Automatic,Petrol,Rear wheel,4000,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15372542.html,Toyota,Aygo,Hatchback,Car,EMG-292,2007,148000,Manual,Petrol,Front wheel,2890,4.6,109,LappiCars Oy,Rovaniemi,Dealer,Rovaniemi,Lappi
+15374599.html,Toyota,Corolla,Hatchback,Car,YEO-197,2002,324000,Manual,Petrol,Front wheel,1500,0.0,168,,,Seller,Järvenpää,Uusimaa
+15358861.html,Ford,Fiesta,Hatchback,Car,BCZ-840,2008,291123,Manual,Petrol,Front wheel,1350,0.0,147,,,Seller,Riihimäki,Kanta-Häme
+15372884.html,Citroen,DS4,Hatchback,Car,XLZ-156,2011,304000,Manual,Diesel,Front wheel,2300,5.0,122,,,Seller,Pyhäranta,Varsinais-Suomi
+15360563.html,Hyundai,i30,Station Wagon,Car,XLY-428,2009,322000,Manual,Petrol,Front wheel,1290,6.3,150,,,Seller,Mikkeli,Etelä-Savo
+15365326.html,Ford,Transit Custom,Short - High,Van,JLU-407,2013,243000,Manual,Diesel,Front wheel,5800,0.0,,,,Seller,Lohja,Uusimaa
+15374237.html,Hyundai,i30,Hatchback,Car,TYZ-681,2015,121950,Manual,Petrol,Front wheel,8600,5.6,130,,,Seller,Tampere,Pirkanmaa
+15360065.html,Nissan,Almera,Hatchback,Car,BNI-181,2006,289000,Manual,Petrol,Front wheel,1200,0.0,160,,,Seller,Kauniainen,Uusimaa
+15372979.html,BMW,530,Station Wagon,Car,BRR-226,2012,358000,Automatic,Diesel,Rear wheel,9400,0.0,,TeeKoo Autotalot,Kangasala,Dealer,Kangasala,Pirkanmaa
+15373759.html,Mazda,3,Sedan,Car,OKI-883,2007,151000,Manual,Petrol,Front wheel,3500,0.0,162,,,Seller,Hamina,Kymenlaakso
+15361320.html,Citroen,Jumper,Other,Van,HZV-181,2004,183300,Manual,Diesel,Front wheel,1650,0.0,,,,Seller,Masku,Varsinais-Suomi
+15358793.html,Hyundai,i20,Hatchback,Car,VVX-800,2011,74000,Manual,Petrol,Front wheel,5690,5.1,119,Lahden Autokauppa Oy,Lahti,Dealer,Lahti,Päijät-Häme
+15368662.html,Volvo,S40,Sedan,Car,HPG-551,2007,329150,Manual,Petrol,Front wheel,1790,0.0,,,,Seller,Raahe,Pohjois-Pohjanmaa
+15366479.html,Volkswagen,Golf,Station Wagon,Car,KAI-311,2008,404000,Manual,Diesel,Front wheel,1250,0.0,148,Tmi Hannu Sippola,Ylistaro,Dealer,Ylistaro,Etelä-Pohjanmaa
+15373645.html,Peugeot,308,Station Wagon,Car,GLL-290,2008,230000,Manual,Petrol,Front wheel,1999,0.0,169,,,Seller,Pori,Satakunta
+15367668.html,Ford,Transit,Long - Semihigh,Van,OXG-151,2004,321200,Manual,Diesel,Front wheel,2350,0.0,,,,Seller,Lohja,Uusimaa
+15362689.html,Toyota,Corolla,Hatchback,Car,XHI-120,2006,240500,Manual,Petrol,Front wheel,3800,0.0,168,,,Seller,Lempäälä,Pirkanmaa
+15360112.html,BMW,320,Sedan,Car,KXK-522,1997,340000,Manual,Petrol,Rear wheel,5500,8.0,,,,Seller,Vantaa,Uusimaa
+15358776.html,Citroen,C3,Hatchback,Car,GMJ-610,2017,121455,Manual,Petrol,Front wheel,3999,0.0,109,Autokiillotus Vuorinen Hannu,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15370071.html,Nissan,Qashqai,All-terrain SUV,Car,BTM-644,2016,141000,Manual,Petrol,Front wheel,9450,5.6,129,Vaihto-Ettan Oy,Tuusula,Dealer,Tuusula,Uusimaa
+15375052.html,Toyota,Hilux,Pickup,Car,AYK-224,2000,300000,Manual,Diesel,Four wheel,4000,0.0,,,,Seller,Sievi,Pohjois-Pohjanmaa
+15361197.html,Toyota,Corolla,Station Wagon,Car,TEF-923,2003,265000,Manual,Petrol,Front wheel,2100,0.0,,Jouni Liuski,Vantaa,Dealer,Vantaa,Uusimaa
+15373521.html,Opel,Astra,Sedan,Car,BIG-793,1997,268949,Manual,Petrol,Front wheel,1000,8.0,,,,Seller,Raisio,Varsinais-Suomi
+15360365.html,BMW,535,Station Wagon,Car,KMK-569,2007,426000,Automatic,Diesel,Rear wheel,3400,0.0,,,,Seller,Juuka,Pohjois-Karjala
+15370033.html,Peugeot,Boxer,Long - High,Van,UEY-983,2006,227500,Manual,Diesel,Front wheel,2690,0.0,,,,Seller,Muhos,Pohjois-Pohjanmaa
+15360310.html,Volkswagen,Transporter,Other,Van,VZE-215,2017,87175,Manual,Diesel,Front wheel,18000,0.0,162,,,Seller,Kokkola,Keski-Pohjanmaa
+15360974.html,Audi,A3,Hatchback,Car,HXF-400,2005,299000,Manual,Petrol,Front wheel,1850,0.0,,,,Seller,Mustasaari,Pohjanmaa
+15373731.html,Hyundai,H1 Van,Short - Low,Van,LMF-523,2002,399000,Manual,Diesel,Rear wheel,1200,0.0,,,,Seller,Pori,Satakunta
+15360652.html,Mercedes-Benz,E,Station Wagon,Car,TTZ-257,2010,333000,Automatic,Diesel,Rear wheel,8500,0.0,159,,,Seller,Kiiminki,Pohjois-Pohjanmaa
+15359166.html,Chevrolet,Epica,Sedan,Car,XOI-255,2007,267000,Automatic,Petrol,Front wheel,1800,0.0,215,,,Seller,Helsinki,Uusimaa
+15360932.html,Audi,A4,Sedan,Car,OTA-507,2010,195000,Automatic,Petrol,Front wheel,7500,7.5,119,,,Seller,Lahti,Päijät-Häme
+15359082.html,Fiat,Ducato,Long - High,Van,AJE-7,2024,7000,Manual,Diesel,Front wheel,39890,0.0,,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15365976.html,Volvo,740,Station Wagon,Car,FBL-620,1991,520000,Manual,Petrol,Rear wheel,2250,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15361990.html,Lexus,CT,Hatchback,Car,YKB-722,2011,167000,Automatic,Hybrid (petrol/electric),Front wheel,10470,4.1,94,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15363674.html,Ford,Mondeo,Station Wagon,Car,LRI-177,2008,227000,Manual,Petrol,Front wheel,3999,7.2,170,Niinivaaran Auto Oy,Joensuu,Dealer,Joensuu,Pohjois-Karjala
+15361008.html,Ford,Focus,Station Wagon,Car,GIA-968,2008,455500,Manual,Diesel,Front wheel,1300,0.0,114,,,Seller,Kajaani,Kainuu
+15359649.html,Toyota,Supra,Coupé,Car,ZCL-900,1988,310000,Automatic,Petrol,Rear wheel,3500,0.0,,,,Seller,Vantaa,Uusimaa
+15358530.html,Volkswagen,Transporter,Long - Low,Van,UIS-770,2000,312000,Manual,Diesel,Front wheel,2500,0.0,,Samikafix Ky,Salo,Dealer,Salo,Varsinais-Suomi
+15359226.html,Toyota,Avensis,Sedan,Car,LOL-484,2018,53000,Automatic,Petrol,Front wheel,24900,6.1,140,Auto-Kuopio Oy,Kuopio,Dealer,Kuopio,Pohjois-Savo
+15366469.html,Opel,Vectra,Hatchback,Car,IAG-896,2003,308000,Manual,Petrol,Front wheel,1950,0.0,,,,Seller,Tarvasjoki,Varsinais-Suomi
+15367352.html,Honda,Civic,Hatchback,Car,TMG-298,2004,183290,Manual,Petrol,Front wheel,2200,0.0,150,,,Seller,Helsinki,Uusimaa
+15368377.html,Ford,Fiesta,Hatchback,Car,IKS-660,2012,155000,Manual,Petrol,Front wheel,3450,0.0,124,,,Seller,Kaarina,Varsinais-Suomi
+15368571.html,Toyota,Yaris,Hatchback,Car,UUY-786,2006,204000,Manual,Petrol,Front wheel,2000,0.0,141,,,Seller,Liminka,Pohjois-Pohjanmaa
+15364864.html,Renault,Kangoo,Station Wagon,Van,VZG-567,2017,144000,Manual,Diesel,Front wheel,7200,0.0,112,,,Seller,Somero,Varsinais-Suomi
+15365895.html,Ford,Cortina,Sedan,Car,EY-749,1971,,Manual,Petrol,Rear wheel,3500,0.0,,,,Seller,Sysmä,Päijät-Häme
+15362561.html,Toyota,Corolla,Hatchback,Car,XYF-507,2001,189000,Manual,Petrol,Front wheel,2160,0.0,162,Lahden Keskusauto,Lahti,Dealer,Lahti,Päijät-Häme
+15358897.html,Citroen,C3,Hatchback,Car,CMG-711,2019,56000,Manual,Petrol,Front wheel,7990,0.0,110,MenoBil Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15370652.html,Mercedes-Benz,C,Station Wagon,Car,UVZ-226,2010,501000,Automatic,Diesel,Rear wheel,3650,0.0,,,,Seller,Tampere,Pirkanmaa
+15367546.html,Volvo,S60,Sedan,Car,GIL-757,2009,186000,Automatic,Petrol,Front wheel,8490,9.5,226,Visa-Auto Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15371094.html,Opel,Astra,Hatchback,Car,TLG-313,2004,235000,Manual,Petrol,Front wheel,4500,7.7,185,Saka Finland Oy Kouvola,Kouvola,Dealer,Kouvola,Kymenlaakso
+15374735.html,Toyota,Hilux,Pickup,Van,KIP-994,1998,440000,Manual,Diesel,Four wheel,3500,0.0,,,,Seller,Säkylä,Satakunta
+15373260.html,Toyota,Hilux,Pickup,Van,CBY-250,1996,258188,Manual,Diesel,Four wheel,5600,0.0,,,,Seller,Janakkala,Kanta-Häme
+15370877.html,Honda,Jazz,Hatchback,Car,UNZ-437,2007,121000,Manual,Petrol,Front wheel,3500,0.0,134,,,Seller,Turku,Varsinais-Suomi
+15363912.html,Audi,Q7,Station Wagon,Car,NGZ-283,2006,492292,Automatic,Diesel,Four wheel,3450,0.0,282,,,Seller,Hamina,Kymenlaakso
+15365116.html,Toyota,Corolla,Hatchback,Car,HYU-714,2001,244000,Manual,Petrol,Front wheel,2390,0.0,,MJT Palvelu,Raisio,Dealer,Raisio,Varsinais-Suomi
+15359078.html,Fiat,Ducato,Long - High,Van,AJE-2,2024,1900,Manual,Diesel,Front wheel,39890,0.0,,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15376653.html,Volkswagen,Polo,Hatchback,Car,YVS-375,2011,251000,Automatic,Diesel,Front wheel,2000,0.0,112,,,Seller,Kangasala,Pirkanmaa
+15375764.html,Skoda,Octavia,Sedan,Car,KMG-175,2007,326355,Automatic,Diesel,Front wheel,1200,0.0,,,,Seller,Huittinen,Satakunta
+15362524.html,Opel,Insignia,Station Wagon,Car,FMO-809,2017,206000,Automatic,Diesel,Four wheel,11490,6.4,169,Vaihtoautomaa Vantaa,Vantaa,Dealer,Vantaa,Uusimaa
+15375851.html,Mercedes-Benz,230,Station Wagon,Car,KHF-575,1988,536000,Automatic,Petrol,Rear wheel,1600,0.0,,,,Seller,Polvijärvi,Pohjois-Karjala
+15369994.html,Ford,Fiesta Van,Other,Van,CKO-185,2011,223000,Manual,Diesel,Front wheel,2900,0.0,,,,Seller,Aura,Varsinais-Suomi
+15363833.html,Volvo,V70,Station Wagon,Car,MUI-893,2007,377300,Automatic,Diesel,Four wheel,3750,0.0,,,,Seller,Hattula,Kanta-Häme
+15363938.html,Mercedes-Benz,250,Sedan,Car,XVF-506,1993,500000,Manual,Diesel,Rear wheel,1700,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15361707.html,BMW,316,Coupé,Car,TXM-264,1985,241216,Manual,Petrol,Rear wheel,5490,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15360637.html,Toyota,Auris,Station Wagon,Car,BUA-646,2017,179000,Automatic,Petrol,Front wheel,13800,0.0,83,,,Seller,Kirkkonummi,Uusimaa
+15375251.html,Mercedes-Benz,190,Racing vehicle,Car,BEX-910,1987,,Manual,Petrol,Rear wheel,6500,0.0,,,,Seller,Keuruu,Keski-Suomi
+15360854.html,Volkswagen,Transporter,Long - Low,Van,,2004,486645,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15374659.html,Volvo,740,Sedan,Car,KJT-808,1988,433000,Manual,Petrol,Rear wheel,3250,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15370479.html,Toyota,Avensis,Hatchback,Car,TNG-210,2004,298900,Manual,Petrol,Front wheel,1200,0.0,172,,,Seller,Kerava,Uusimaa
+15367662.html,Ford,Focus,Hatchback,Car,ERH-613,2019,41500,Automatic,Petrol,Front wheel,19900,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15363697.html,Toyota,Yaris,Hatchback,Car,VSI-882,2006,184000,Manual,Petrol,Front wheel,3200,0.0,141,,,Seller,Hyvinkää,Uusimaa
+15359091.html,Mercedes-Benz,S,Sedan,Car,ILU-176,2000,289000,Automatic,Petrol,Rear wheel,2890,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15364193.html,Hyundai,Matrix,MPV,Car,SAI-521,2005,218000,Manual,Petrol,Front wheel,1590,8.5,205,Automyynti Saarakkala Oy,Kurikka,Dealer,Kurikka,Etelä-Pohjanmaa
+15374671.html,Volkswagen,Sharan,MPV,Car,LZM-177,2012,524000,Automatic,Diesel,Front wheel,3800,5.7,149,,,Seller,Vaasa,Pohjanmaa
+15360931.html,Toyota,Avensis,Station Wagon,Car,AOG-574,2005,374000,Manual,Petrol,Front wheel,1350,8.0,,,,Seller,Kangasniemi,Etelä-Savo
+15368275.html,Skoda,Felicia,Hatchback,Car,ICI-917,2000,146700,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Vaasa,Pohjanmaa
+15366620.html,Suzuki,Samurai,All-terrain SUV,Car,AIS-465,1998,173000,Manual,Petrol,Four wheel,5500,0.0,,,,Seller,Pyhäjoki,Pohjois-Pohjanmaa
+15360609.html,Toyota,Corolla,Hatchback,Car,GPM-423,1989,118000,Manual,Petrol,Front wheel,5000,0.0,,,,Seller,Hyvinkää,Uusimaa
+15365879.html,Skoda,Octavia,Sedan,Car,OPI-868,2005,128000,Manual,Petrol,Front wheel,3990,7.3,175,Jaremotors Oy,Piikkiö,Dealer,Piikkiö,Varsinais-Suomi
+15359989.html,Fiat,Ducato,Short - Low,Van,SRG-994,2004,176000,Manual,Diesel,Front wheel,2000,0.0,,,,Seller,Laihia,Pohjanmaa
+15360701.html,Toyota,Corolla,Hatchback,Car,FFX-128,2003,276020,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Karstula,Keski-Suomi
+15375283.html,Honda,Jazz,Hatchback,Car,IJK-755,2010,136000,Automatic,Petrol,Front wheel,1800,0.0,128,,,Seller,Punkalaidun,Pirkanmaa
+15360082.html,Volkswagen,Passat,Station Wagon,Car,FLE-847,2011,429000,Automatic,Diesel,Front wheel,3000,0.0,,,,Seller,Laukaa,Keski-Suomi
+15371068.html,Audi,A4,Sedan,Car,FFN-414,2002,298000,Automatic,Petrol,Front wheel,1050,0.0,,,,Seller,Liperi,Pohjois-Karjala
+15359668.html,Suzuki,Swift,Hatchback,Car,YHN-639,2012,140000,Automatic,Petrol,Front wheel,3000,0.0,128,,,Seller,Vantaa,Uusimaa
+15360568.html,Peugeot,407,Station Wagon,Car,YGI-168,2006,255618,Manual,Petrol,Front wheel,1250,0.0,196,,,Seller,Uusikaupunki,Varsinais-Suomi
+15366322.html,Volvo,S60,Sedan,Car,JEL-889,2001,281700,Automatic,Petrol,Front wheel,1990,9.0,223,,,Seller,Akaa,Pirkanmaa
+15368531.html,Kia,Sorento,Station Wagon,Car,HNG-816,2006,390000,Manual,Diesel,Four wheel,1300,0.0,205,,,Seller,Lappeenranta,Etelä-Karjala
+15363855.html,Ford,Focus,Station Wagon,Car,HRY-827,2011,268525,Manual,Petrol,Front wheel,2390,6.7,159,,,Seller,Lahti,Päijät-Häme
+15361741.html,BMW,525,Station Wagon,Car,XOB-171,2011,379555,Automatic,Diesel,Rear wheel,9400,7.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15368599.html,Opel,Astra,Hatchback,Car,LHI-157,2004,264000,Automatic,Petrol,Front wheel,1499,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15362210.html,Mercedes-Benz,CLK,Coupé,Car,HSY-154,2003,399999,Manual,Diesel,Rear wheel,1000,0.0,,,,Seller,Espoo,Uusimaa
+15368903.html,Dodge,Caliber,All-terrain SUV,Car,KHG-146,2007,300543,Manual,Diesel,Front wheel,1450,0.0,160,PureBuild Oy,Iitti,Dealer,Iitti,Päijät-Häme
+15371104.html,Ford,Focus,Station Wagon,Car,ETI-969,2011,168500,Manual,Petrol,Front wheel,5500,0.0,139,,,Seller,Uusikaupunki,Varsinais-Suomi
+15375957.html,Mercedes-Benz,V,MPV,Car,NLO-759,2014,229701,Automatic,Diesel,Rear wheel,28950,5.7,149,,,Seller,Vantaa,Uusimaa
+15367137.html,Honda,Jazz,Hatchback,Car,XXY-405,2011,208000,Manual,Petrol,Front wheel,5390,0.0,129,AKA VAIHTOAUTOKESKUS,Kangasala,Dealer,Kangasala,Pirkanmaa
+15366513.html,Audi,A6,Sedan,Car,JHE-791,2007,400000,Automatic,Diesel,Four wheel,2800,0.0,,,,Seller,Keminmaa,Lappi
+15361292.html,Volkswagen,Jetta,Sedan,Car,XVL-627,2013,268000,Manual,Diesel,Front wheel,2000,0.0,109,,,Seller,Kotka,Kymenlaakso
+15368936.html,Volkswagen,Transporter,Short - Low,Van,VMI-326,2000,411000,Manual,Diesel,Front wheel,2500,0.0,,TK-Motors,Kivijärvi,Dealer,Kivijärvi,Keski-Suomi
+15360388.html,Cadillac,De Ville,Sedan,Car,CZL-16,1997,334000,Automatic,Petrol,Front wheel,1600,0.0,,,,Seller,Helsinki,Uusimaa
+15372981.html,Peugeot,206,Hatchback,Car,HUF-596,2005,297564,Manual,Petrol,Front wheel,1290,0.0,149,,,Seller,Lahti,Päijät-Häme
+15362292.html,Ford,Ranger,Pickup,Van,BTN-985,2009,390000,Manual,Diesel,Four wheel,1000,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15358645.html,Ford,Mondeo,Station Wagon,Car,BPC-722,2011,321000,Automatic,Diesel,Front wheel,5000,0.0,173,,,Seller,Laihia,Pohjanmaa
+15361570.html,Lexus,IS,Sedan,Car,MNU-778,2001,277669,Automatic,Petrol,Rear wheel,2500,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15361043.html,Volvo,S40,Sedan,Car,UBF-248,2008,303000,Manual,Diesel,Front wheel,2440,4.6,129,,,Seller,Kuopio,Pohjois-Savo
+15363839.html,Skoda,Octavia,Station Wagon,Car,SVY-839,2010,364000,Manual,Diesel,Front wheel,2350,5.2,119,,,Seller,Siilinjärvi,Pohjois-Savo
+15360450.html,Skoda,Octavia,Sedan,Car,SVG-284,2004,317000,Manual,Diesel,Front wheel,1000,0.0,,,,Seller,Taivalkoski,Pohjois-Pohjanmaa
+15361660.html,Ford,Transit,MPV,Van,FKE-407,2010,324000,Manual,Diesel,Four wheel,7500,0.0,296,,,Seller,Jyväskylä,Keski-Suomi
+15370533.html,Ford,Fiesta,Hatchback,Car,RVY-222,2004,214000,Manual,Petrol,Front wheel,1100,0.0,,,,Seller,Hollola,Päijät-Häme
+15361545.html,Volkswagen,Caravelle,Long - Semihigh,Van,BYS-432,2000,167000,Manual,Petrol,Front wheel,2400,11.0,,,,Seller,Helsinki,Uusimaa
+15360218.html,Hyundai,Tucson,All-terrain SUV,Car,TEI-609,2005,173000,Manual,Petrol,Four wheel,4000,0.0,194,,,Seller,Kotka,Kymenlaakso
+15359213.html,Saab,9-3,Station Wagon,Car,ZMZ-670,2007,297000,Manual,Petrol,Front wheel,1750,0.0,197,Automyynti Penttilä,Sastamala,Dealer,Sastamala,Pirkanmaa
+15363064.html,Audi,A4,Station Wagon,Car,IZA-152,2009,303000,Automatic,Diesel,Four wheel,5900,0.0,,,,Seller,Lahti,Päijät-Häme
+15373799.html,Mercedes-Benz,ML,All-terrain SUV,Car,KNM-778,2012,391500,Automatic,Diesel,Four wheel,16300,0.0,179,Autotalo Tammer Cars,Tampere,Dealer,Tampere,Pirkanmaa
+15367667.html,Toyota,Yaris,Hatchback,Car,BLY-243,2008,178000,Manual,Petrol,Front wheel,3890,6.0,141,CWR Garage,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15365022.html,Fiat,600,Sedan,Car,ZHL-97,1972,16949,Manual,Petrol,Rear wheel,1200,0.0,,,,Seller,Kauniainen,Uusimaa
+15361366.html,Mitsubishi,Colt,Hatchback,Car,JGE-116,2007,212600,Manual,Petrol,Front wheel,1800,0.0,138,,,Seller,Pietarsaari,Pohjanmaa
+15365949.html,Peugeot,308,Station Wagon,Car,VVZ-542,2011,195000,Manual,Petrol,Front wheel,3990,6.7,155,Kuninkaanportin Auto,Porvoo,Dealer,Porvoo,Uusimaa
+15369514.html,Mercedes-Benz,Sprinter,Middle long - Low,Van,FGG-174,2003,330000,Automatic,Diesel,Rear wheel,3600,0.0,,Autolinja,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15359995.html,Ford,Focus,Station Wagon,Car,JJS-591,2015,172000,Manual,Petrol,Front wheel,5790,4.8,110,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15365665.html,Tesla,Model 3,Sedan,Car,SRH-838,2024,20000,Automatic,Electric,Four wheel,52900,0.0,,AutoCorner,Turku,Dealer,Turku,Varsinais-Suomi
+15360986.html,Chevrolet,Trans Sport,MPV,Car,BZR-112,2002,380000,Automatic,Petrol,Four wheel,1200,0.0,303,,,Seller,Järvenpää,Uusimaa
+15360368.html,Audi,A6,Station Wagon,Car,KPV-990,2005,420000,Automatic,Diesel,Four wheel,1000,0.0,,,,Seller,Kauhava,Etelä-Pohjanmaa
+15358896.html,Volkswagen,Touran,All-terrain SUV,Car,XOF-447,2003,293000,Manual,Petrol,Front wheel,1850,0.0,180,,,Seller,Turku,Varsinais-Suomi
+15364815.html,Opel,Corsa,Hatchback,Car,IXE-138,2008,200160,Manual,Petrol,Front wheel,1250,0.0,146,,,Seller,Tuusula,Uusimaa
+15368623.html,Skoda,Octavia,Station Wagon,Car,ACG-778,2005,478000,Automatic,Diesel,Front wheel,1300,5.5,138,,,Seller,Tampere,Pirkanmaa
+15375702.html,Toyota,Corolla,Sedan,Car,IGV-487,1998,176000,Manual,Petrol,Front wheel,1100,6.8,,,,Seller,Jyväskylä,Keski-Suomi
+15361954.html,Nissan,Note,Hatchback,Car,MKY-439,2008,291363,Manual,Diesel,Front wheel,1750,0.0,135,,,Seller,Riihimäki,Kanta-Häme
+15368658.html,Volkswagen,Passat,Station Wagon,Car,MRY-641,2008,424955,Manual,Diesel,Front wheel,1490,0.0,,,,Seller,Tuusniemi,Pohjois-Savo
+15365311.html,Audi,A5,Coupé,Car,HEZ-930,2009,270000,Automatic,Diesel,Four wheel,9490,6.5,182,,,Seller,Nivala,Pohjois-Pohjanmaa
+15375200.html,Skoda,Roomster,MPV,Car,CIJ-382,2012,250000,Manual,Diesel,Front wheel,1500,0.0,124,,,Seller,Nastola,Päijät-Häme
+15361613.html,Volvo,V50,Station Wagon,Car,,2010,255000,Manual,Diesel,Front wheel,5490,0.0,104,VaihtoauToni Oy,Kangasala,Dealer,Kangasala,Pirkanmaa
+15371705.html,Mercedes-Benz,A,MPV,Car,GHU-811,2005,292,Automatic,Petrol,Front wheel,1500,0.0,172,,,Seller,Tampere,Pirkanmaa
+15369481.html,Ford,Transit,Short - Low,Van,ORY-690,2007,315000,Manual,Diesel,Front wheel,1150,0.0,,,,Seller,Pöytyä,Varsinais-Suomi
+15370254.html,Volvo,V70,Station Wagon,Car,LOV-985,2015,345000,Automatic,Diesel,Front wheel,8790,4.5,119,JVK CARS,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15375349.html,Toyota,RAV4,Other,Van,FPX-673,2003,,Manual,Diesel,Four wheel,1400,0.0,,,,Seller,Säkylä,Satakunta
+15358678.html,Citroen,C5,Station Wagon,Car,MAZ-446,2010,258000,Automatic,Petrol,Front wheel,3850,0.0,179,,,Seller,Kotka,Kymenlaakso
+15360208.html,Skoda,Octavia,Station Wagon,Car,RSU-769,2006,327231,Manual,Petrol,Four wheel,1100,0.0,,,,Seller,Salo,Varsinais-Suomi
+15365183.html,Volvo,S80,Sedan,Car,ZVI-879,2006,287500,Automatic,Petrol,Front wheel,4490,9.7,232,Autopalvelu Markus Soininen Oy,Espoo,Dealer,Espoo,Uusimaa
+15362700.html,Nissan,Primastar,Long - Low,Van,FPI-483,2023,77000,Automatic,Diesel,Front wheel,25890,0.0,,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15360282.html,Toyota,Avensis,Station Wagon,Car,KKF-290,2005,252000,Manual,Petrol,Front wheel,2500,7.4,172,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15370414.html,Volvo,V70,Station Wagon,Car,SNP-766,2011,240111,Manual,Diesel,Front wheel,11500,0.0,,,,Seller,Eurajoki,Satakunta
+15367067.html,Toyota,Corolla,Station Wagon,Car,ZBI-297,2006,371113,Manual,Petrol,Front wheel,2500,0.0,160,,,Seller,Oulu,Pohjois-Pohjanmaa
+15358252.html,Citroen,C3,Hatchback,Car,KMR-258,2014,110948,Manual,Petrol,Front wheel,3990,4.6,107,AutoBike Nurmijärvi,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15361169.html,Toyota,Auris,Hatchback,Car,GJL-873,2011,266100,Manual,Petrol,Front wheel,4800,6.6,153,,,Seller,Kurikka,Etelä-Pohjanmaa
+15360611.html,Fiat,Punto,Hatchback,Car,XPK-488,2004,123000,Manual,Petrol,Front wheel,1390,5.5,136,,,Seller,Rovaniemi,Lappi
+15365906.html,Volvo,S60,Sedan,Car,RPX-674,2008,328000,Automatic,Diesel,Front wheel,3890,7.5,199,GT-Auto Vantaa,Vantaa,Dealer,Vantaa,Uusimaa
+15369815.html,Volkswagen,Touran,MPV,Car,EOG-816,2004,418000,Automatic,Diesel,Front wheel,1200,0.0,,,,Seller,Leppävirta,Pohjois-Savo
+15359458.html,Toyota,Aygo,Hatchback,Car,BTM-220,2015,75800,Manual,Petrol,Front wheel,6300,0.0,95,,,Seller,Kotka,Kymenlaakso
+15359754.html,Audi,A3,Hatchback,Car,,2001,342965,Manual,Petrol,Front wheel,1100,0.0,,,,Seller,Karkkila,Uusimaa
+15358680.html,Fiat,Ducato,Extension cabin,Light truck,KKF-848,2005,292000,Manual,Diesel,Front wheel,5000,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15367445.html,Toyota,Hilux,Pickup,Van,HBR-562,1997,445000,Manual,Diesel,Four wheel,5000,0.0,,,,Seller,Hämeenkyrö,Pirkanmaa
+15369068.html,Seat,Altea XL,MPV,Car,UCZ-425,2007,362000,Manual,Petrol,Front wheel,1290,0.0,,,,Seller,Laukaa,Keski-Suomi
+15366255.html,BMW,316,Sedan,Car,BIX-513,1999,355000,Manual,Petrol,Rear wheel,1950,0.0,187,,,Seller,Hämeenkyrö,Pirkanmaa
+15360136.html,Nissan,Qashqai,All-terrain SUV,Car,YVT-727,2010,191000,Manual,Petrol,Front wheel,6900,7.0,155,VT AUTOSTYLE,Kangasala,Dealer,Kangasala,Pirkanmaa
+15373511.html,Volkswagen,Passat,Sedan,Car,REZ-943,2004,145000,Manual,Petrol,Front wheel,2800,0.0,,,,Seller,Turku,Varsinais-Suomi
+15367842.html,Ford,Fiesta,Hatchback,Car,UNI-885,2004,288000,Manual,Petrol,Front wheel,1090,0.0,154,Auto ja Kone Alanojat,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15366711.html,Ford,F250,Pickup,Light truck,MOB-319,2004,220000,Automatic,Diesel,Four wheel,21990,0.0,,Spectran Oy,Pirkkala,Dealer,Pirkkala,Pirkanmaa
+15369113.html,Opel,Corsa,Hatchback,Car,IMB-554,2015,122000,Manual,Petrol,Front wheel,5200,0.0,106,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360201.html,Audi,A4,Sedan,Car,OEY-777,2001,379000,Manual,Petrol,Four wheel,2500,9.0,221,,,Seller,Heinävesi,Pohjois-Karjala
+15368319.html,Renault,Laguna,Hatchback,Car,VIB-458,1998,162799,Automatic,Petrol,Front wheel,1490,0.0,,,,Seller,Tampere,Pirkanmaa
+15363540.html,Volvo,V50,Station Wagon,Car,FIF-512,2005,354000,Automatic,Petrol,Front wheel,3690,9.6,229,RS-Trade,Tampere,Dealer,Tampere,Pirkanmaa
+15363389.html,Toyota,Hiace,Long - Low,Van,BYE-841,1999,488660,Manual,Diesel,Rear wheel,4000,0.0,,,,Seller,Rovaniemi,Lappi
+15369123.html,Toyota,Avensis,Sedan,Car,XIL-462,1999,286000,Manual,Petrol,Front wheel,1500,0.0,185,,,Seller,Pyhäjärvi,Pohjois-Pohjanmaa
+15362851.html,Mercedes-Benz,E,Sedan,Car,CHR-475,2005,456000,Automatic,Diesel,Rear wheel,1000,0.0,,,,Seller,Kuusamo,Pohjois-Pohjanmaa
+15363718.html,Peugeot,206,Hatchback,Car,ZKG-604,2004,156000,Manual,Petrol,Front wheel,1500,0.0,149,,,Seller,Oulu,Pohjois-Pohjanmaa
+15359349.html,Opel,Insignia,Sedan,Car,LOZ-257,2009,208000,Manual,Petrol,Front wheel,3000,0.0,182,,,Seller,Helsinki,Uusimaa
+15361413.html,Ford,Fiesta,Other,Car,AGB-227,1992,76800,Manual,Petrol,Front wheel,1000,6.0,,,,Seller,Korsnäs,Pohjanmaa
+15366038.html,Mercedes-Benz,Vito,Long - Semihigh,Van,UMY-605,2005,487000,Automatic,Diesel,Rear wheel,2000,0.0,,,,Seller,Salo,Varsinais-Suomi
+15373294.html,Peugeot,307,Hatchback,Car,NGE-303,2004,142219,Manual,Petrol,Front wheel,1700,0.0,169,,,Seller,Hämeenkyrö,Pirkanmaa
+15370623.html,Toyota,Iq,Hatchback,Car,IG-130,2010,,Automatic,Petrol,Front wheel,8900,0.0,109,AUTO PAIKKA,Helsinki,Dealer,Helsinki,Uusimaa
+15374830.html,Mazda,6,Hatchback,Car,NHB-672,2007,264764,Manual,Petrol,Front wheel,1000,0.0,191,,,Seller,Salo,Varsinais-Suomi
+15372944.html,Mitsubishi,Pajero,All-terrain SUV,Car,NTS-79,1989,388192,Manual,Petrol,Four wheel,2800,10.0,,,,Seller,Parikkala,Etelä-Karjala
+15366497.html,Nissan,Navara,Pickup,Van,LPI-169,2005,265000,Manual,Diesel,Four wheel,1500,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15366565.html,Peugeot,307,Hatchback,Car,NFF-752,2003,173000,Manual,Petrol,Front wheel,1499,0.0,169,,,Seller,Lahti,Päijät-Häme
+15363273.html,Volvo,XC70,Station Wagon,Car,AJY-243,2008,,Automatic,Diesel,Four wheel,5900,0.0,,,,Seller,Haukipudas,Pohjois-Pohjanmaa
+15373571.html,BMW,520,Station Wagon,Car,EIF-479,1997,340000,Automatic,Petrol,Rear wheel,2000,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15375320.html,Volvo,V70,Station Wagon,Car,SBZ-459,2003,396163,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Salo,Varsinais-Suomi
+15366812.html,Volvo,V70,Station Wagon,Car,FER-298,2001,466000,Automatic,Petrol,Four wheel,1600,0.0,,,,Seller,Rovaniemi,Lappi
+15362592.html,BMW,520,Sedan,Car,ISV-733,2012,147000,Automatic,Petrol,Rear wheel,12900,0.0,,Vaihtokaara Vantaa Airport,Vantaa,Dealer,Vantaa,Uusimaa
+15365112.html,Mercedes-Benz,E,Sedan,Car,RSN-684,2016,284000,Automatic,Diesel,Rear wheel,19900,4.3,112,RealCars Oy,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15358424.html,Honda,Civic,Hatchback,Car,TMZ-397,2010,188000,Automatic,Petrol,Front wheel,4990,7.3,169,Etelän Autoliike - Porvoo,Porvoo,Dealer,Porvoo,Uusimaa
+15360655.html,Nissan,Qashqai,All-terrain SUV,Car,XRI-190,2007,334000,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15374006.html,Dodge,Ram 2500,Pickup,Light truck,JBY-27,1994,,Automatic,Diesel,Four wheel,3500,0.0,,,,Seller,Kälviä,Keski-Pohjanmaa
+15360397.html,BMW,535,Station Wagon,Car,YJM-931,2010,339500,Automatic,Diesel,Rear wheel,12900,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15372922.html,Audi,A4,Station Wagon,Car,AOG-238,2006,365825,Automatic,Petrol,Front wheel,2000,0.0,,,,Seller,Nurmijärvi,Uusimaa
+15368393.html,Ford,Transit,Long - Semihigh,Van,IJS-242,2011,421000,Manual,Diesel,Front wheel,4950,8.4,222,Pirkanmaan Hyötyautot Oy,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15359686.html,Mercedes-Benz,C,Station Wagon,Car,LYY-396,2004,574235,Manual,Diesel,Rear wheel,1100,0.0,,,,Seller,Kiuruvesi,Pohjois-Savo
+15372628.html,Toyota,Avensis,Sedan,Car,RUF-919,2007,237000,Manual,Petrol,Front wheel,3700,7.2,172,Kelpo Kaara Oy,Kangasala,Dealer,Kangasala,Pirkanmaa
+15358736.html,BMW,320,Station Wagon,Car,TTZ-932,2006,430000,Automatic,Diesel,Rear wheel,1700,0.0,,,,Seller,Juuka,Pohjois-Karjala
+15359088.html,Toyota,Corolla,Hatchback,Car,EIB-786,1997,364740,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Pyhäjärvi,Pohjois-Pohjanmaa
+15359983.html,Tesla,Model Y,All-terrain SUV,Car,LSV-438,2022,60000,Automatic,Electric,Four wheel,38290,0.0,,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15366453.html,Skoda,Octavia,Station Wagon,Car,SOY-237,2007,360190,Manual,Diesel,Front wheel,1500,6.0,,,,Seller,Kajaani,Kainuu
+15365636.html,Volkswagen,Golf,Station Wagon,Car,GHP-548,2007,258000,Automatic,Petrol,Front wheel,4800,7.1,169,JA Kone Oy,Lieksa,Dealer,Lieksa,Pohjois-Karjala
+15359461.html,Mercedes-Benz,CLC,Coupé,Car,OUJ-934,2008,173000,Manual,Petrol,Rear wheel,2000,0.0,,,,Seller,Savonlinna,Etelä-Savo
+15360334.html,Citroen,C1,Hatchback,Car,GJI-285,2011,150061,Manual,Petrol,Front wheel,1790,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15370632.html,Audi,Q7,All-terrain SUV,Car,IOR-245,2009,320000,Automatic,Diesel,Four wheel,10990,9.8,260,Vaihtokaara Hyvinkää,Hyvinkää,Dealer,Hyvinkää,Uusimaa
+15361985.html,Ford,Tourneo Connect,Short - Low,Van,OTI-139,2006,225000,Manual,Petrol,Front wheel,2500,0.0,,,,Seller,Hollola,Päijät-Häme
+15375813.html,Toyota,Yaris,Hatchback,Car,MOE-956,2009,294400,Manual,Diesel,Front wheel,1800,0.0,110,,,Seller,Vantaa,Uusimaa
+15359257.html,Toyota,Corolla,Sedan,Car,EZP-503,2003,335000,Manual,Petrol,Front wheel,2250,0.0,168,,,Seller,Teuva,Etelä-Pohjanmaa
+15360246.html,Mercedes-Benz,Sprinter,Semilong - High,Van,KLF-360,2005,341600,Automatic,Diesel,Rear wheel,4200,0.0,,,,Seller,Karkkila,Uusimaa
+15358430.html,Skoda,Octavia,Sedan,Car,BKG-243,2005,349000,Manual,Petrol,Front wheel,1790,7.3,175,Etelän Autoliike - Porvoo,Porvoo,Dealer,Porvoo,Uusimaa
+15358536.html,BMW,X3,All-terrain SUV,Car,EMY-987,2008,325000,Manual,Diesel,Four wheel,1800,0.0,,,,Seller,Rovaniemi,Lappi
+15365322.html,Ford,Mondeo,Station Wagon,Car,LMH-111,2013,238000,Automatic,Diesel,Front wheel,5990,5.6,149,Visa-Auto Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15372548.html,Mercedes-Benz,C,Sedan,Car,NIC-576,2012,250000,Automatic,Diesel,Four wheel,11000,0.0,144,,,Seller,Mikkeli,Etelä-Savo
+15359938.html,Seat,Exeo ST,Station Wagon,Car,MKX-755,2012,262109,Manual,Diesel,Front wheel,4100,0.0,132,,,Seller,Kokkola,Keski-Pohjanmaa
+15371336.html,Audi,Q7,All-terrain SUV,Car,UUG-877,2008,301000,Automatic,Diesel,Four wheel,9900,0.0,294,,,Seller,Helsinki,Uusimaa
+15373540.html,Volkswagen,Touran,All-terrain SUV,Car,ECF-190,2006,398000,Manual,Diesel,Front wheel,1800,0.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15368734.html,Opel,Insignia,Station Wagon,Car,SLH-863,2013,305000,Manual,Petrol,Front wheel,3500,0.0,134,,,Seller,Jyväskylä,Keski-Suomi
+15361185.html,Skoda,Fabia,Station Wagon,Car,CTE-119,2015,134000,Manual,Petrol,Front wheel,8990,0.0,110,,,Seller,Parainen,Varsinais-Suomi
+15374703.html,Volvo,240,Sedan,Car,YAC-509,1990,388000,Manual,Petrol,Rear wheel,2500,0.0,,,,Seller,Ylöjärvi,Pirkanmaa
+15363922.html,Renault,Clio,Hatchback,Car,MIY-961,1999,140000,Manual,Petrol,Front wheel,1250,0.0,160,,,Seller,Helsinki,Uusimaa
+15374833.html,Mazda,3,Hatchback,Car,XLF-862,2003,223600,Automatic,Petrol,Front wheel,2200,0.0,191,,,Seller,Kaarina,Varsinais-Suomi
+15367507.html,Ford,Transit Custom,Long - Semihigh,Van,ETT-887,2020,93000,Manual,Diesel,Front wheel,19500,0.0,,,,Seller,Espoo,Uusimaa
+15374831.html,Nissan,Primera,Station Wagon,Car,IKI-439,2005,225251,Manual,Petrol,Front wheel,1450,0.0,220,,,Seller,Salo,Varsinais-Suomi
+15365945.html,Jaguar,S-Type,Sedan,Car,IHV-758,2005,216330,Automatic,Diesel,Rear wheel,4000,0.0,,,,Seller,Nokia,Pirkanmaa
+15365482.html,Dacia,Duster,All-terrain SUV,Car,CIL-538,2011,230800,Manual,Diesel,Four wheel,5000,0.0,145,,,Seller,Jyväskylä,Keski-Suomi
+15375366.html,Mercedes-Benz,270,Sedan,Car,GIU-769,2003,,Automatic,Diesel,Rear wheel,3490,5.6,,,,Seller,Evijärvi,Etelä-Pohjanmaa
+15373435.html,Volvo,940,Station Wagon,Car,AGZ-822,1996,403000,Manual,Petrol,Rear wheel,1600,0.0,,,,Seller,Kotka,Kymenlaakso
+15360758.html,Citroen,2CV,Convertible,Car,AZ-55,1955,,Manual,Petrol,Front wheel,3300,0.0,,,,Seller,Porvoo,Uusimaa
+15362065.html,Mercedes-Benz,C,Station Wagon,Car,VVB-900,2012,285000,Automatic,Diesel,Rear wheel,7600,5.2,136,,,Seller,Jyväskylä,Keski-Suomi
+15363092.html,Toyota,Corolla,Sedan,Car,HSI-620,2008,184600,Manual,Petrol,Front wheel,6890,6.9,162,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360371.html,Mazda,3,Hatchback,Car,YHP-769,2011,145000,Automatic,Petrol,Front wheel,8500,7.6,175,,,Seller,Turku,Varsinais-Suomi
+15371019.html,Audi,A6,Sedan,Car,AGZ-769,1996,550000,Automatic,E85/petrol,Four wheel,1450,10.0,,,,Seller,Mikkeli,Etelä-Savo
+15360002.html,Mercedes-Benz,Sprinter,Semilong - High,Van,GJS-298,2008,262000,Manual,Diesel,Rear wheel,4300,0.0,269,,,Seller,Kaustinen,Keski-Pohjanmaa
+15361427.html,Mercedes-Benz,E,Sedan,Car,IMM-150,2014,219000,Automatic,Diesel,Rear wheel,13800,0.0,,,,Seller,Järvenpää,Uusimaa
+15360338.html,Fiat,Scudo,Short - Semihigh,Van,BNI-580,2006,400500,Manual,Diesel,Front wheel,2500,0.0,,,,Seller,Polvijärvi,Pohjois-Karjala
+15371280.html,Opel,Rekord,Coupé,Car,OLD-54,1965,1000,Manual,Petrol,Rear wheel,8500,9.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15366205.html,Mitsubishi,Grandis,MPV,Car,HTG-603,2008,270500,Manual,Petrol,Front wheel,2900,0.0,223,Janne Mäkynen Ky,Töysä,Dealer,Töysä,Etelä-Pohjanmaa
+15363633.html,Saab,9-3,Hatchback,Car,NCX-574,1999,200000,Manual,Petrol,Front wheel,3950,0.0,,Diilix Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15363813.html,Kia,Rio,Hatchback,Car,RPT-111,2012,189000,Manual,Petrol,Front wheel,4900,0.0,119,,,Seller,Vaasa,Pohjanmaa
+15360578.html,Opel,Astra,Station Wagon,Car,ZGG-214,1995,176077,Manual,Petrol,Front wheel,1100,0.0,,,,Seller,Pori,Satakunta
+15359646.html,Audi,A4,Sedan,Car,AYL-411,2000,238000,Manual,Petrol,Front wheel,2590,8.1,194,AutoLinkki Kempele,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15361817.html,Toyota,Avensis,Sedan,Car,SNF-914,2003,295000,Manual,Petrol,Front wheel,2290,0.0,176,,,Seller,Lempäälä,Pirkanmaa
+15360453.html,Volvo,340,Sedan,Car,LJB-275,1985,189000,Manual,Petrol,Rear wheel,2000,0.0,,,,Seller,Rovaniemi,Lappi
+15371383.html,Peugeot,508,Station Wagon,Car,XVM-333,2014,144000,Automatic,Petrol,Front wheel,2200,0.0,165,,,Seller,Ylöjärvi,Pirkanmaa
+15364372.html,Ford,Fiesta,Hatchback,Car,FKY-677,2013,307000,Manual,Petrol,Front wheel,2700,0.0,99,,,Seller,Raahe,Pohjois-Pohjanmaa
+15367099.html,Volvo,XC60,All-terrain SUV,Car,OZM-255,2016,310000,Manual,Diesel,Front wheel,12800,4.5,117,Vaihtokaara Lempäälä,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15358441.html,Toyota,Celica,Hatchback,Car,OXG-317,2004,327000,Manual,Petrol,Front wheel,2200,0.0,185,VK Autopalvelu,Oulu,Dealer,Oulu,Pohjois-Pohjanmaa
+15359731.html,Chevrolet,Corvette,Coupé,Car,CHE-350,1976,,Automatic,Petrol,Rear wheel,6900,0.0,,,,Seller,Turku,Varsinais-Suomi
+15370769.html,Nissan,Leaf,Hatchback,Car,CNC-979,2019,107000,Automatic,Electric,Front wheel,13490,0.0,,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15368812.html,Mercedes-Benz,C,Sedan,Car,UPI-346,2004,490000,Manual,Diesel,Rear wheel,1000,0.0,,,,Seller,Kurikka,Etelä-Pohjanmaa
+15360088.html,Mercedes-Benz,E,Sedan,Car,OXC-790,2016,228000,Automatic,Diesel,Rear wheel,15800,0.0,,,,Seller,Raisio,Varsinais-Suomi
+15361143.html,Skoda,Octavia,Sedan,Car,FHV-651,2007,360296,Automatic,Diesel,Front wheel,1700,0.0,168,,,Seller,Ylöjärvi,Pirkanmaa
+15366339.html,Volkswagen,Transporter,Short - Low,Van,KYF-449,2001,254000,Manual,Diesel,Front wheel,2800,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15374905.html,Nissan,Note,Hatchback,Car,KNX-872,2016,132562,Manual,Petrol,Front wheel,4200,0.0,99,,,Seller,Jyväskylä,Keski-Suomi
+15360877.html,Volvo,V70,Station Wagon,Car,VOG-978,2005,365000,Manual,Petrol,Front wheel,1700,0.0,,,,Seller,Äänekoski,Keski-Suomi
+15366184.html,Toyota,Auris,Hatchback,Car,JIJ-381,2011,176000,Manual,Petrol,Front wheel,5990,6.6,153,,,Seller,Vantaa,Uusimaa
+15363686.html,Peugeot,207,Hatchback,Car,XHY-432,2007,244464,Manual,Petrol,Front wheel,1300,0.0,152,,,Seller,Parainen,Varsinais-Suomi
+15360621.html,Mitsubishi,Pajero,All-terrain SUV,Car,JHE-17,1999,220000,Manual,Petrol,Four wheel,4900,0.0,,,,Seller,Helsinki,Uusimaa
+15363080.html,MINI,One,Hatchback,Car,FJI-947,2009,194702,Manual,Petrol,Front wheel,4800,0.0,128,,,Seller,Paimio,Varsinais-Suomi
+15364765.html,Ford,B-Max,MPV,Car,VXV-377,2016,163000,Manual,Petrol,Front wheel,5980,4.9,114,Autosi,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15359344.html,Honda,Accord,Station Wagon,Car,IKZ-983,2007,355000,Manual,Petrol,Front wheel,2650,8.6,204,AutoLinkki Kempele,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15360788.html,Mercedes-Benz,CE,Coupé,Car,IZE-773,1995,240000,Manual,Petrol,Rear wheel,8000,0.0,,,,Seller,Lohja,Uusimaa
+15360355.html,Hyundai,i20,Hatchback,Car,BMZ-341,2009,99800,Manual,Petrol,Front wheel,3750,0.0,119,,,Seller,Parkano,Pirkanmaa
+15370871.html,Chevrolet,Camaro,Coupé,Car,NBC-3,1981,2000,Automatic,Petrol,Rear wheel,15000,0.0,,,,Seller,Helsinki,Uusimaa
+15360874.html,Toyota,Yaris,Hatchback,Car,ZJE-471,2000,115500,Automatic,Petrol,Front wheel,2650,0.0,,Flex Autokauppa Oy,Helsinki,Dealer,Helsinki,Uusimaa
+15362773.html,Ford,Ranger,Pickup,Van,BTN-985,2009,390000,Manual,Diesel,Four wheel,1000,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15371329.html,Citroen,Jumpy,Short - Semihigh,Van,JGT-788,2006,404000,Manual,Diesel,Front wheel,1950,0.0,,,,Seller,Kiuruvesi,Pohjois-Savo
+15365473.html,Kia,Ceed,Station Wagon,Car,TVY-743,2008,193000,Manual,Petrol,Front wheel,2000,6.5,154,Saka Finland Oy Kouvola,Kouvola,Dealer,Kouvola,Kymenlaakso
+15369203.html,Chevrolet,Express 2500,Other,Light truck,OYX-630,2007,270000,Automatic,Diesel,Rear wheel,24880,0.0,,Autotalo Leppiniemi Oy,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15358719.html,Volkswagen,Transporter,MPV,Car,CJM-894,2015,484000,Manual,Diesel,Front wheel,11500,0.0,184,,,Seller,Kouvola,Kymenlaakso
+15361239.html,Nissan,NV200,Other,Van,LLL-270,2010,281000,Manual,Diesel,Front wheel,2900,5.0,137,,,Seller,Kangasala,Pirkanmaa
+15369323.html,Audi,A6,Station Wagon,Car,JIN-805,2011,264000,Automatic,Diesel,Front wheel,6900,0.0,,,,Seller,Vantaa,Uusimaa
+15368821.html,Nissan,Navara,Pickup,Van,JHM-615,2007,274000,Manual,Diesel,Four wheel,4900,0.0,,,,Seller,Turku,Varsinais-Suomi
+15359064.html,Opel,Insignia,Station Wagon,Car,CHF-512,2009,285000,Manual,Petrol,Front wheel,2500,8.0,186,,,Seller,Hämeenlinna,Kanta-Häme
+15374748.html,Hyundai,i40,Station Wagon,Car,JIU-804,2012,323000,Manual,Petrol,Front wheel,1200,0.0,140,,,Seller,Helsinki,Uusimaa
+15364634.html,Honda,CR-V,MPV,Car,KRS-180,2013,179000,Automatic,Diesel,Four wheel,15900,6.8,180,Savon Autotalo Oy,Kuopio,Dealer,Kuopio,Pohjois-Savo
+15359500.html,Fiat,Punto,Hatchback,Car,GGY-732,2006,191000,Manual,Petrol,Front wheel,1250,6.0,,,,Seller,Rauma,Satakunta
+15359768.html,Audi,Q7,All-terrain SUV,Car,ZNB-426,2012,333000,Automatic,Diesel,Four wheel,13990,7.4,195,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15374954.html,Peugeot,207,Hatchback,Car,HUG-611,2007,209500,Manual,Petrol,Front wheel,1250,6.4,152,,,Seller,Joensuu,Pohjois-Karjala
+15363268.html,Volvo,V50,Station Wagon,Car,OTE-849,2012,275000,Automatic,Diesel,Front wheel,5500,0.0,154,,,Seller,Salo,Varsinais-Suomi
+15362639.html,Volvo,V50,Station Wagon,Car,LMZ-978,2008,160000,Automatic,Diesel,Front wheel,7500,6.0,159,,,Seller,Vantaa,Uusimaa
+15361449.html,Toyota,Corolla,Sedan,Car,EXF-866,2007,556000,Manual,Diesel,Front wheel,1200,0.0,141,,,Seller,Tornio,Lappi
+15361318.html,Volkswagen,Passat,Station Wagon,Car,XNC-743,2013,164860,Automatic,Diesel,Front wheel,10500,0.0,122,,,Seller,Helsinki,Uusimaa
+15371638.html,Mercedes-Benz,C,Sedan,Car,IYA-525,1999,270000,Manual,Petrol,Rear wheel,1200,0.0,,,,Seller,Tammela,Kanta-Häme
+15358596.html,Mercedes-Benz,E,Sedan,Car,EJZ-158,2004,558000,Automatic,Diesel,Rear wheel,2900,0.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15360651.html,Mercedes-Benz,Vito,Other,Van,JGJ-569,2005,379700,Manual,Diesel,Rear wheel,3400,0.0,,,,Seller,Perho,Keski-Pohjanmaa
+15370965.html,Opel,Vectra,Hatchback,Car,EVA-240,2006,307669,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Iisalmi,Pohjois-Savo
+15375098.html,Honda,Accord,Station Wagon,Car,ZRY-648,2009,476544,Manual,Diesel,Front wheel,1890,0.0,157,,,Seller,Nivala,Pohjois-Pohjanmaa
+15363467.html,Volvo,142,Sedan,Car,JBH-915,1967,400000,Manual,Petrol,Rear wheel,1000,0.0,,,,Seller,Oulainen,Pohjois-Pohjanmaa
+15372974.html,Lexus,GS,Sedan,Car,SCG-663,2003,350400,Automatic,Petrol,Rear wheel,3500,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15359827.html,Mitsubishi,L200,Pickup,Van,LZX-311,2001,388408,Manual,Diesel,Four wheel,3500,0.0,,,,Seller,Inari,Lappi
+15370990.html,Toyota,Corolla,Sedan,Car,AJG-303,2005,270500,Manual,Petrol,Front wheel,2300,0.0,168,,,Seller,Porvoo,Uusimaa
+15364873.html,Peugeot,207,Hatchback,Car,SUI-427,2006,138000,Manual,Not available,Front wheel,2990,6.4,152,Autoliike Heinonen,Ylivieska,Dealer,Ylivieska,Pohjois-Pohjanmaa
+15361225.html,BMW,X5,All-terrain SUV,Car,HOI-963,2007,350000,Automatic,Diesel,Four wheel,7500,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15359217.html,Volkswagen,Passat,Station Wagon,Car,OJZ-616,2010,,Manual,Diesel,Four wheel,4590,0.0,159,,,Seller,Kontiolahti,Pohjois-Karjala
+15366847.html,Toyota,Verso-S,MPV,Car,GJP-587,2011,120000,Automatic,Petrol,Front wheel,10500,5.5,117,,,Seller,Laitila,Varsinais-Suomi
+15366027.html,Opel,Vivaro,Long - Low,Van,FMR-702,2018,163000,Manual,Diesel,Front wheel,9890,6.1,159,Cardeal Group,Tampere,Dealer,Ylöjärvi,Pirkanmaa
+15363783.html,BMW,525,Station Wagon,Car,LOA-649,2003,208000,Manual,Petrol,Rear wheel,3900,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15366386.html,Volkswagen,Passat,Station Wagon,Car,EOF-547,2006,275000,Manual,Petrol,Front wheel,1950,8.2,197,,,Seller,Hämeenlinna,Kanta-Häme
+15366107.html,Toyota,Avensis,Sedan,Car,GEP-106,2001,343232,Manual,Petrol,Front wheel,1990,7.1,170,LappiCars Oy,Rovaniemi,Dealer,Rovaniemi,Lappi
+15360005.html,BMW,535,Sedan,Car,BRL-813,2007,404000,Automatic,Diesel,Rear wheel,8800,6.8,182,,,Seller,Pori,Satakunta
+15363652.html,Toyota,Hiace,Other,Van,TYU-203,2003,330000,Manual,Diesel,Rear wheel,4200,0.0,,,,Seller,Piikkiö,Varsinais-Suomi
+15362503.html,Nissan,Qashqai,All-terrain SUV,Car,ILR-183,2014,398000,Manual,Diesel,Front wheel,4450,3.8,99,5V-Auto,Raisio,Dealer,Raisio,Varsinais-Suomi
+15374908.html,Toyota,Avensis,Station Wagon,Car,VIV-472,2000,470666,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15371317.html,Skoda,Octavia,Station Wagon,Car,ICZ-275,2007,400000,Manual,Diesel,Front wheel,1300,6.5,,,,Seller,Tampere,Pirkanmaa
+15368768.html,Audi,100,Sedan,Car,YEJ-235,1989,480000,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15358969.html,Hyundai,i30,Station Wagon,Car,ZKV-305,2016,195296,Manual,Petrol,Front wheel,3250,8.5,133,,,Seller,Kuopio,Pohjois-Savo
+15359557.html,Peugeot,Boxer,Other,Van,BNY-689,2009,200170,Manual,Diesel,Front wheel,3150,0.0,240,,,Seller,Kuortane,Etelä-Pohjanmaa
+15372199.html,Saab,900,Sedan,Car,VNC-195,1983,221898,Manual,Petrol,Front wheel,3200,0.0,,,,Seller,Janakkala,Kanta-Häme
+15359917.html,Volvo,S40,Sedan,Car,OLZ-219,2010,300520,Manual,Diesel,Front wheel,1950,3.8,104,,,Seller,Ulvila,Satakunta
+15366708.html,Honda,Civic,Sedan,Car,IVG-671,2004,,Manual,Petrol,Front wheel,1500,0.0,153,,,Seller,Pori,Satakunta
+15361422.html,Toyota,Avensis,Sedan,Car,LPG-844,2004,210600,Manual,Petrol,Front wheel,3500,0.0,171,,,Seller,Tampere,Pirkanmaa
+15359486.html,Volkswagen,Golf,Hatchback,Car,CIX-741,2012,147980,Automatic,Petrol,Front wheel,6700,5.3,123,,,Seller,Espoo,Uusimaa
+15361014.html,Volvo,940,Station Wagon,Car,CBM-929,1994,521000,Automatic,Petrol,Rear wheel,2500,0.0,,,,Seller,Janakkala,Kanta-Häme
+15365889.html,Volkswagen,Golf,Hatchback,Car,YGA-325,2006,270000,Manual,Petrol,Front wheel,2190,6.9,166,Vaihtokaara Raisio,Raisio,Dealer,Raisio,Varsinais-Suomi
+15363880.html,Kia,Ceed,Station Wagon,Car,TEZ-328,2010,170000,Manual,Petrol,Front wheel,3950,0.0,135,Antons Verkstad,Pietarsaari,Dealer,Pietarsaari,Pohjanmaa
+15370600.html,Opel,Astra,Hatchback,Car,IKI-371,2005,289200,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Kangasala,Pirkanmaa
+15367845.html,Ford,Transit,Short - Low,Van,VYJ-147,2001,437000,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Savonlinna,Etelä-Savo
+15361560.html,Honda,Jazz,Hatchback,Car,JHR-769,2011,237222,Automatic,Petrol,Front wheel,4100,5.4,125,,,Seller,Porvoo,Uusimaa
+15364063.html,Kia,Xceed,Hatchback,Car,ZNP-174,2022,50000,Automatic,Petrol,Front wheel,24500,0.0,140,,,Seller,Vantaa,Uusimaa
+15369759.html,Audi,A4,Sedan,Car,CZH-478,2007,250000,Automatic,Petrol,Front wheel,3800,0.0,,Only 10 Oy,Hyvinkää,Dealer,Hyvinkää,Uusimaa
+15365667.html,Volvo,V70,Station Wagon,Car,,2000,367000,Automatic,Petrol,Front wheel,1100,9.1,,,,Seller,Tampere,Pirkanmaa
+15368685.html,Volvo,V70,Station Wagon,Car,NGV-684,2006,523800,Automatic,Diesel,Front wheel,2600,6.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15362786.html,Honda,CR-V,All-terrain SUV,Car,RHI-685,2009,305000,Manual,Diesel,Four wheel,6900,6.5,173,AutoLinkki Kempele,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15363700.html,Audi,A3,Hatchback,Car,HUZ-337,2005,246000,Manual,Petrol,Front wheel,3490,7.2,173,JVK CARS,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15364101.html,Volvo,V70,Station Wagon,Car,RHF-438,2005,672305,Automatic,Diesel,Front wheel,1000,0.0,,,,Seller,Tornio,Lappi
+15363879.html,Volkswagen,Transporter,Other,Van,EXI-907,2011,170000,Manual,Diesel,Front wheel,11900,0.0,190,,,Seller,Uusikaupunki,Varsinais-Suomi
+15373693.html,Peugeot,106,Racing vehicle,Car,BIH-297,2000,100,Manual,Petrol,Front wheel,7500,0.0,,,,Seller,Lappeenranta,Etelä-Karjala
+15366617.html,Citroen,Berlingo,MPV,Car,LUG-433,2004,327000,Manual,Petrol,Front wheel,1400,0.0,,,,Seller,Ylöjärvi,Pirkanmaa
+15368415.html,Opel,Grandland X,All-terrain SUV,Car,CKX-382,2018,91000,Automatic,Diesel,Front wheel,13500,0.0,,,,Seller,Lieksa,Pohjois-Karjala
+15360146.html,Ford,Mondeo,Hatchback,Car,EXK-759,2004,361461,Manual,Petrol,Front wheel,1290,0.0,,,,Seller,Hyvinkää,Uusimaa
+15370238.html,Toyota,Corolla,Sedan,Car,UEI-172,2008,239000,Manual,Petrol,Front wheel,3000,0.0,158,,,Seller,Oulunsalo,Pohjois-Pohjanmaa
+15371387.html,Toyota,Corolla,Hatchback,Car,CYB-561,2004,360000,Manual,Petrol,Front wheel,1890,6.7,159,Autovälitys Peltoniemi Oy,Kajaani,Dealer,Kajaani,Kainuu
+15367774.html,Honda,CR-V,All-terrain SUV,Car,VMY-419,2008,181000,Automatic,Petrol,Four wheel,13490,8.2,195,Vaihtoautomaa Lempäälä,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15362599.html,Peugeot,Expert,Long - Low,Van,FFK-697,2003,298900,Manual,Diesel,Front wheel,1800,0.0,,,,Seller,Punkalaidun,Pirkanmaa
+15367733.html,Mazda,6,Station Wagon,Car,IHM-605,2008,230000,Manual,Petrol,Front wheel,3900,0.0,171,,,Seller,Savonlinna,Etelä-Savo
+15359058.html,Audi,A3,Hatchback,Car,GEX-884,2001,128044,Automatic,Petrol,Front wheel,1800,0.0,,,,Seller,Mikkeli,Etelä-Savo
+15375101.html,Volkswagen,Polo,Hatchback,Car,SKI-429,2005,142000,Manual,Petrol,Front wheel,2100,0.0,,,,Seller,Raasepori,Uusimaa
+15368700.html,Citroen,AX,Racing vehicle,Car,BJR-739,1988,183716,Manual,Petrol,Front wheel,1280,0.0,,,,Seller,Kontiolahti,Pohjois-Karjala
+15360713.html,Citroen,Berlingo,Short - Low,Van,HVG-212,2007,111065,Manual,Diesel,Front wheel,2900,0.0,,,,Seller,Espoo,Uusimaa
+15374354.html,BMW,528,Sedan,Car,SXI-295,1998,408000,Manual,Petrol,Rear wheel,3300,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15363818.html,Mercedes-Benz,SL,Convertible,Car,CTU-11,1974,406832,Automatic,Petrol,Rear wheel,11900,0.0,,,,Seller,Helsinki,Uusimaa
+15360816.html,Mercedes-Benz,190,Sedan,Car,AYX-236,1992,280000,Manual,Diesel,Rear wheel,4500,5.0,,,,Seller,Lahti,Päijät-Häme
+15359004.html,BMW,320,Station Wagon,Car,ZKG-741,2004,460000,Manual,Diesel,Rear wheel,1700,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15370275.html,Saab,9-5,Sedan,Car,BSG-821,2006,138000,Manual,Petrol,Front wheel,5000,0.0,214,,,Seller,Tyrnävä,Pohjois-Pohjanmaa
+15366105.html,Nissan,X-Trail,All-terrain SUV,Car,YFT-659,2005,4120,Manual,Petrol,Four wheel,2300,0.0,,,,Seller,Ylitornio,Lappi
+15375190.html,Skoda,Roomster,MPV,Car,CZO-908,2007,98208,Manual,Petrol,Front wheel,5000,0.0,,,,Seller,Heinola,Päijät-Häme
+15374716.html,Mercedes-Benz,C,Sedan,Car,KLF-968,1994,214369,Automatic,Petrol,Rear wheel,1500,0.0,,,,Seller,Joroinen,Pohjois-Savo
+15363543.html,Volvo,V70,Station Wagon,Car,ABG-809,2002,523105,Manual,Diesel,Front wheel,1000,0.0,,,,Seller,Hankasalmi,Keski-Suomi
+15368299.html,Audi,A3,Hatchback,Car,BMZ-531,2009,207000,Manual,Petrol,Front wheel,5790,6.1,143,Saimaan Autopiste,Mikkeli,Dealer,Mikkeli,Etelä-Savo
+15360435.html,Volkswagen,Golf,Station Wagon,Car,IMZ-351,2008,315000,Automatic,Petrol,Front wheel,2450,0.0,169,,,Seller,Janakkala,Kanta-Häme
+15358901.html,Volkswagen,Crafter,Extra long,Light truck,BON-693,2008,320000,Manual,Diesel,Rear wheel,9000,0.0,,,,Seller,Iisalmi,Pohjois-Savo
+15373896.html,Volvo,740,Station Wagon,Car,OYP-645,1990,471850,Manual,Petrol,Rear wheel,2200,90.0,,,,Seller,Hyvinkää,Uusimaa
+15360421.html,Volvo,V70,Station Wagon,Car,JGC-773,2005,585321,Automatic,Diesel,Front wheel,1400,0.0,,,,Seller,Lapinlahti,Pohjois-Savo
+15360023.html,Chevrolet,Chevy Van,Long - High,Light truck,JKT-54,2000,337056,Automatic,Diesel,Rear wheel,6500,0.0,,,,Seller,Hämeenkyrö,Pirkanmaa
+15374266.html,Volvo,V50,Station Wagon,Car,USI-753,2005,369000,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15371593.html,Opel,Commodore,Coupé,Car,JPV-22,1968,123,Automatic,Petrol,Rear wheel,2500,0.0,,,,Seller,Rovaniemi,Lappi
+15359188.html,Toyota,C-HR,Hatchback,Car,FRL-347,2020,82704,Automatic,Hybrid (petrol/electric),Front wheel,25750,0.0,,Oulun DM-Auto Oy,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15371136.html,Nissan,Note,Hatchback,Car,OKZ-144,2010,177500,Manual,Petrol,Front wheel,1499,0.0,139,,,Seller,Tampere,Pirkanmaa
+15368449.html,Volkswagen,Passat,Station Wagon,Car,EOB-706,2017,446000,Automatic,Diesel,Front wheel,6280,0.0,104,,,Seller,Espoo,Uusimaa
+15371892.html,Toyota,Aygo,Hatchback,Car,IHU-460,2008,178150,Manual,Petrol,Front wheel,1990,0.0,108,,,Seller,Lohja,Uusimaa
+15365983.html,Toyota,RAV4,All-terrain SUV,Car,MOE-275,2022,55000,Automatic,Petrol,Front wheel,36500,0.0,,,,Seller,Forssa,Kanta-Häme
+15362529.html,Volkswagen,Golf,Station Wagon,Car,NGN-839,2005,285000,Manual,Petrol,Front wheel,1900,0.0,168,Raatix Oy,Iisalmi,Dealer,Iisalmi,Pohjois-Savo
+15362315.html,Nissan,Qashqai,Station Wagon,Car,HTI-640,2007,322000,Manual,Diesel,Front wheel,1000,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15361788.html,Toyota,Camry,Sedan,Car,LGG-667,1992,,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Lapua,Etelä-Pohjanmaa
+15368240.html,Toyota,Corolla,Sedan,Car,FGJ-479,2004,413000,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Pori,Satakunta
+15361166.html,Toyota,Verso,MPV,Car,JIS-112,2012,337000,Manual,Diesel,Front wheel,2900,0.0,139,,,Seller,Kuopio,Pohjois-Savo
+15359052.html,Skoda,Octavia,Station Wagon,Car,BUH-613,2015,296000,Automatic,Diesel,Four wheel,10380,5.1,134,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15361017.html,Toyota,Corolla,Hatchback,Car,UCY-584,2005,257000,Manual,Petrol,Front wheel,2690,0.0,168,,,Seller,Vaasa,Pohjanmaa
+15365911.html,Seat,Leon,Hatchback,Car,KEZ-315,2005,245000,Manual,Petrol,Front wheel,6500,0.0,,,,Seller,Laukaa,Keski-Suomi
+15360251.html,Skoda,Octavia,Station Wagon,Car,HVY-469,2011,372000,Manual,Diesel,Front wheel,2800,0.0,119,,,Seller,Pello,Lappi
+15358734.html,Tesla,Model 3,Sedan,Car,GOO-837,2021,130000,Automatic,Electric,Four wheel,26470,0.0,,Autolähde Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15367691.html,Toyota,Avensis,Station Wagon,Car,IHV-140,2009,307000,Manual,Diesel,Front wheel,4690,5.4,142,Oulun DM-Auto Oy,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15373504.html,Smart,Forfour,Station Wagon,Car,HUZ-749,2004,179500,Automatic,Petrol,Front wheel,2450,0.0,,,,Seller,Pöytyä,Varsinais-Suomi
+15373986.html,Toyota,Corolla,Hatchback,Car,OJI-927,2005,235000,Manual,Petrol,Front wheel,2700,0.0,168,,,Seller,Jyväskylä,Keski-Suomi
+15359238.html,Toyota,Corolla,Sedan,Car,FCI-540,1997,335000,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Hyvinkää,Uusimaa
+15366259.html,Mercedes-Benz,200,Coupé,Car,XPS-909,2002,136000,Manual,Petrol,Rear wheel,1500,0.0,,,,Seller,Savonlinna,Etelä-Savo
+15359332.html,Toyota,Yaris,Hatchback,Car,LLG-307,2003,299356,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Lohja,Uusimaa
+15364941.html,Volvo,XC60,All-terrain SUV,Car,ETO-509,2021,157000,Automatic,Hybrid (petrol/electric),Four wheel,28900,2.8,56,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15363742.html,Mercedes-Benz,C,Station Wagon,Car,XVP-805,2011,466598,Automatic,Diesel,Rear wheel,4900,0.0,,,,Seller,Akaa,Pirkanmaa
+15363679.html,Volkswagen,Transporter,Other,Van,ESY-310,2012,295000,Manual,Diesel,Front wheel,8650,0.0,193,,,Seller,Kokkola,Keski-Pohjanmaa
+15358957.html,BMW,X3,Station Wagon,Car,IOB-478,2004,268000,Automatic,Petrol,Four wheel,2000,0.0,,,,Seller,Tampere,Pirkanmaa
+15366185.html,Audi,A3,Hatchback,Car,TYO-755,2001,184400,Manual,Petrol,Front wheel,1200,0.0,,RoiCar Oy,Rovaniemi,Dealer,Rovaniemi,Lappi
+15362308.html,Tesla,Model S,Sedan,Car,RSB-415,2015,239500,Automatic,Electric,Four wheel,19500,0.0,,,,Seller,Vantaa,Uusimaa
+15361094.html,Audi,A4,Station Wagon,Car,FJP-827,2010,350000,Automatic,Diesel,Front wheel,1000,0.0,155,,,Seller,Kempele,Pohjois-Pohjanmaa
+15363772.html,Volkswagen,Golf,Hatchback,Car,BTY-298,2009,251000,Manual,Petrol,Front wheel,2800,7.1,144,,,Seller,Tampere,Pirkanmaa
+15363243.html,Volvo,740,Sedan,Car,SSF-399,1989,,Manual,Petrol,Rear wheel,1900,25.0,,,,Seller,Tuusula,Uusimaa
+15368061.html,Fiat,Stilo,Station Wagon,Car,RVF-787,2006,172720,Manual,Petrol,Front wheel,1700,0.0,,,,Seller,Asikkala,Päijät-Häme
+15363341.html,Audi,A6 Allroad,Station Wagon,Car,KPO-159,2011,430000,Automatic,Diesel,Four wheel,2000,7.0,,,,Seller,Halsua,Keski-Pohjanmaa
+15359283.html,Toyota,Avensis,Station Wagon,Car,XPI-725,2007,235500,Manual,Petrol,Front wheel,4000,0.0,,,,Seller,Hyvinkää,Uusimaa
+15358480.html,Fiat,600,Hatchback,Car,VGP-99,1965,60000,Manual,Petrol,Rear wheel,3500,0.0,,,,Seller,Virrat,Pirkanmaa
+15363409.html,BMW,320,Station Wagon,Car,VCZ-786,2009,345700,Manual,Diesel,Rear wheel,2800,0.0,130,,,Seller,Joutseno,Etelä-Karjala
+15365145.html,Volvo,740,Sedan,Car,EKU-170,1989,466000,Manual,Petrol,Rear wheel,3100,0.0,,,,Seller,Vantaa,Uusimaa
+15365670.html,Kia,Sorento,All-terrain SUV,Car,GKJ-506,2011,300925,Automatic,Diesel,Front wheel,4490,0.0,194,,,Seller,Orimattila,Päijät-Häme
+15360564.html,BMW,528,Sedan,Car,YLO-755,2000,310500,Automatic,Petrol,Rear wheel,3200,0.0,,,,Seller,Juankoski,Pohjois-Savo
+15359920.html,Peugeot,508,Sedan,Car,ILA-626,2013,209000,Manual,Diesel,Front wheel,3950,4.4,114,5V-Auto,Raisio,Dealer,Raisio,Varsinais-Suomi
+15368883.html,Volkswagen,Transporter,Long - Low,Van,MGU-937,1996,401572,Manual,Diesel,Front wheel,2000,0.0,,,,Seller,Juuka,Pohjois-Karjala
+15360726.html,Nissan,NV200,Other,Van,ZJH-656,2010,243000,Manual,Diesel,Front wheel,2800,0.0,137,,,Seller,Utajärvi,Pohjois-Pohjanmaa
+15369350.html,Volkswagen,Jetta,Sedan,Car,KPS-271,2011,219000,Manual,Diesel,Front wheel,3900,4.2,109,Länsimoottori Oy,Pöytyä,Dealer,Pöytyä,Varsinais-Suomi
+15365726.html,Mercedes-Benz,ML,All-terrain SUV,Car,XNZ-193,2007,306000,Automatic,Diesel,Four wheel,8950,0.0,,Akaan Auto-Center Oy,Akaa,Dealer,Akaa,Pirkanmaa
+15372415.html,Volkswagen,Golf,Station Wagon,Car,UYU-157,2014,192000,Automatic,Petrol,Front wheel,9490,5.0,116,Visa-Auto Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15359724.html,Chevrolet,Cruze,Sedan,Car,BOH-758,2010,199000,Automatic,Diesel,Front wheel,2990,5.6,177,Car Company Lahti,Lahti,Dealer,Lahti,Päijät-Häme
+15366639.html,Toyota,RAV4,All-terrain SUV,Car,VXC-578,2007,411400,Manual,Diesel,Four wheel,2750,0.0,,,,Seller,Helsinki,Uusimaa
+15368409.html,Honda,Accord,Sedan,Car,ZMG-810,2004,341000,Manual,Petrol,Front wheel,1150,0.0,190,,,Seller,Lahti,Päijät-Häme
+15359284.html,Opel,Astra,Station Wagon,Car,XMP-219,2010,192000,Manual,Petrol,Front wheel,3290,0.0,158,Automyynti Rautiainen Oy,Saarijärvi,Dealer,Saarijärvi,Keski-Suomi
+15361249.html,Ford,Fiesta,Hatchback,Car,IJN-835,2009,165000,Manual,Petrol,Front wheel,3150,0.0,133,,,Seller,Laukaa,Keski-Suomi
+15366099.html,Ford,Fiesta,Hatchback,Car,ZKJ-613,2014,215000,Manual,Petrol,Front wheel,3100,0.0,99,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15363925.html,Audi,A6,Station Wagon,Car,FPL-146,2008,357041,Automatic,Diesel,Four wheel,3300,0.0,227,,,Seller,Oulu,Pohjois-Pohjanmaa
+15363717.html,Volkswagen,Passat,Station Wagon,Car,YVR-714,2010,255000,Automatic,Petrol,Front wheel,4390,6.0,139,JVK CARS,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15371338.html,Mercedes-Benz,Sprinter,Long - High,Van,XXX-555,2007,361000,Automatic,Diesel,Rear wheel,14900,0.0,,Automyynti Auto28,Kerava,Dealer,Helsinki,Uusimaa
+15366200.html,Citroen,C3,Hatchback,Car,AOF-519,2005,133000,Manual,Petrol,Front wheel,1175,0.0,148,,,Seller,Helsinki,Uusimaa
+15360001.html,Mercedes-Benz,CE,Coupé,Car,GFY-121,1989,306500,Automatic,Petrol,Rear wheel,3650,0.0,,,,Seller,Nokia,Pirkanmaa
+15360357.html,BMW,530,Station Wagon,Car,SLU-166,2008,305000,Automatic,Diesel,Four wheel,6900,0.0,,,,Seller,Vantaa,Uusimaa
+15373658.html,Mercedes-Benz,GLK,All-terrain SUV,Car,EOZ-148,2012,288000,Automatic,Diesel,Four wheel,12500,0.0,,,,Seller,Outokumpu,Pohjois-Karjala
+15360705.html,Nissan,Micra,Hatchback,Car,EYI-667,2001,179000,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15367325.html,MINI,Cooper,Hatchback,Car,OKZ-260,2010,213456,Automatic,Diesel,Front wheel,4600,0.0,134,,,Seller,Hyvinkää,Uusimaa
+15359167.html,Volvo,S40,Sedan,Car,VYR-633,2011,250000,Manual,Diesel,Front wheel,2200,0.0,104,,,Seller,Tuusula,Uusimaa
+15359044.html,Hyundai,i30,Hatchback,Car,SNE-641,2012,53000,Manual,Petrol,Front wheel,6500,0.0,118,,,Seller,Vantaa,Uusimaa
+15363819.html,Ford,Transit,Middle long - Low,Van,JMZ-402,2000,315000,Manual,Diesel,Front wheel,2400,0.0,,,,Seller,Nurmijärvi,Uusimaa
+15363009.html,Volvo,V40,Station Wagon,Car,UYH-693,2002,364000,Automatic,Petrol,Front wheel,1200,9.1,217,,,Seller,Sodankylä,Lappi
+15363304.html,Citroen,C4,Hatchback,Car,VUG-337,2004,194000,Manual,Diesel,Front wheel,1600,0.0,,,,Seller,Parkano,Pirkanmaa
+15360573.html,Ford,F150,Extension cabin,Car,SOR-376,2010,208500,Automatic,Petrol,Four wheel,22650,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15363811.html,Toyota,Avensis,Sedan,Car,XOR-532,2007,202000,Manual,Petrol,Front wheel,4700,0.0,,,,Seller,Keitele,Pohjois-Savo
+15364862.html,Kia,Rio,Hatchback,Car,BTK-147,2016,97500,Manual,Petrol,Front wheel,5300,0.0,109,,,Seller,Helsinki,Uusimaa
+15360223.html,BMW,320,Station Wagon,Car,FJN-820,2005,436300,Manual,Diesel,Rear wheel,1900,0.0,158,,,Seller,Nivala,Pohjois-Pohjanmaa
+15367249.html,Nissan,Almera,Hatchback,Car,GGM-146,2006,192000,Manual,Petrol,Front wheel,2450,0.0,160,Akaan Auto-Center Oy,Akaa,Dealer,Akaa,Pirkanmaa
+15364429.html,Toyota,Hiace,Short - Low,Van,HPZ-939,2004,470000,Manual,Diesel,Four wheel,2700,0.0,,,,Seller,Helsinki,Uusimaa
+15367358.html,Volvo,XC70,Station Wagon,Car,VJF-231,2002,470500,Automatic,Petrol,Four wheel,2450,0.0,,Tarita Salojensaari,Tampere,Dealer,Tampere,Pirkanmaa
+15367101.html,Hyundai,Tucson,All-terrain SUV,Car,UAI-872,2006,318330,Manual,Diesel,Four wheel,1050,0.0,,,,Seller,Sotkamo,Kainuu
+15368000.html,Nissan,King Cab,Pickup,Car,CFC-791,2001,391000,Manual,Diesel,Four wheel,5990,0.0,,,,Seller,Janakkala,Kanta-Häme
+15362768.html,Kia,Sportage,All-terrain SUV,Car,ULZ-800,2007,286331,Manual,Petrol,Four wheel,4450,0.0,,Veljekset Vaihtoauto Fager Oy,Harjavalta,Dealer,Harjavalta,Satakunta
+15366223.html,Volvo,242,Coupé,Car,ULA-509,1979,,Manual,Petrol,Rear wheel,1500,13.0,123,,,Seller,Varpaisjärvi,Pohjois-Savo
+15365024.html,Volkswagen,Bora,Sedan,Car,ERZ-872,2000,263116,Automatic,Petrol,Front wheel,1800,0.0,,,,Seller,Vantaa,Uusimaa
+15374832.html,Citroen,Berlingo,MPV,Car,HHF-606,2000,278000,Manual,Petrol,Front wheel,1250,0.0,,,,Seller,Liperi,Pohjois-Karjala
+15366420.html,Skoda,Felicia,Station Wagon,Car,HYF-421,1999,110000,Manual,Petrol,Front wheel,1600,6.0,,,,Seller,Nurmijärvi,Uusimaa
+15362952.html,Honda,Civic,Racing vehicle,Car,AAG-382,2005,10000,Manual,Petrol,Front wheel,8500,0.0,,,,Seller,Laitila,Varsinais-Suomi
+15368555.html,Volkswagen,Golf,Station Wagon,Car,IXB-303,2008,199000,Manual,Petrol,Front wheel,5400,7.1,169,Saka Finland Oy Herttoniemi Helsinki,Helsinki,Dealer,Helsinki,Uusimaa
+15366475.html,Ford,Transit Connect,MPV,Van,VXR-728,2015,242000,Manual,Diesel,Front wheel,8000,6.2,128,,,Seller,Ilmajoki,Etelä-Pohjanmaa
+15365507.html,Audi,A3,Hatchback,Car,HPF-976,2006,290000,Manual,Petrol,Front wheel,2050,0.0,,,,Seller,Rauma,Satakunta
+15373370.html,Toyota,Hilux,Pickup,Car,KML-412,2013,126000,Manual,Diesel,Four wheel,28500,0.0,,,,Seller,Polvijärvi,Pohjois-Karjala
+15366136.html,Toyota,Yaris,Hatchback,Car,SYG-705,2000,287164,Manual,Petrol,Front wheel,1500,0.0,144,,,Seller,Turku,Varsinais-Suomi
+15359366.html,Audi,A6,Station Wagon,Car,MZJ-798,2012,375000,Automatic,Diesel,Four wheel,9890,5.9,156,AutoQ Oy,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15359114.html,BMW,530,Station Wagon,Car,OXX-443,2010,316000,Automatic,Diesel,Rear wheel,11790,0.0,,BilBox Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15362115.html,Toyota,Yaris,Hatchback,Car,MKM-810,2011,181314,Manual,Petrol,Front wheel,4290,0.0,120,,,Seller,Oulu,Pohjois-Pohjanmaa
+15376087.html,Nissan,Note,MPV,Car,FKM-257,2011,57500,Manual,Petrol,Front wheel,7900,0.0,,,,Seller,Turku,Varsinais-Suomi
+15360626.html,Toyota,Corolla,Hatchback,Car,VLG-743,2006,283000,Manual,Petrol,Front wheel,1390,0.0,168,,,Seller,Varkaus,Pohjois-Savo
+15367308.html,Volvo,S60,Sedan,Car,BPI-601,2001,336000,Automatic,Petrol,Front wheel,1000,0.0,,,,Seller,Kangasala,Pirkanmaa
+15364939.html,Opel,Zafira,MPV,Car,FHJ-524,2006,216000,Manual,Petrol,Front wheel,1299,8.0,197,,,Seller,Masku,Varsinais-Suomi
+15371876.html,Honda,Civic,Hatchback,Car,KAZ-166,2003,329000,Manual,Petrol,Front wheel,1000,0.0,159,,,Seller,Säkylä,Satakunta
+15361157.html,Mercedes-Benz,A,MPV,Car,MOG-893,2005,271000,Automatic,Petrol,Front wheel,1450,0.0,157,,,Seller,Kauhajoki,Etelä-Pohjanmaa
+15362358.html,Volkswagen,Transporter,MPV,Car,NGH-865,2005,225000,Manual,Diesel,Four wheel,7000,0.0,,,,Seller,Lieto,Varsinais-Suomi
+15365138.html,Volkswagen,Golf,Hatchback,Car,LPV-205,2021,68000,Automatic,Hybrid (petrol/electric),Front wheel,19900,5.5,120,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15366681.html,Nissan,Micra,Hatchback,Car,FFM-128,2002,119281,Manual,Petrol,Front wheel,1550,0.0,,,,Seller,Espoo,Uusimaa
+15364628.html,Peugeot,307,Hatchback,Car,HZN-299,2003,104500,Manual,Petrol,Front wheel,1900,0.0,169,,,Seller,Turku,Varsinais-Suomi
+15363482.html,Mercedes-Benz,Vito,Middle long - Low,Van,XMG-785,2005,395000,Manual,Diesel,Rear wheel,2150,0.0,,,,Seller,Pori,Satakunta
+15368945.html,Mercedes-Benz,Sprinter,Other,Van,BVA-333,2014,363000,Manual,Diesel,Rear wheel,6800,0.0,,,,Seller,Kotka,Kymenlaakso
+15367920.html,Kia,Ceed,Station Wagon,Car,MBZ-405,2010,259182,Manual,Diesel,Front wheel,1700,0.0,119,,,Seller,Kontiolahti,Pohjois-Karjala
+15374157.html,Kia,Ceed,Hatchback,Car,GIH-861,2010,271000,Manual,Petrol,Front wheel,1500,0.0,139,,,Seller,Helsinki,Uusimaa
+15366395.html,Opel,Astra,Station Wagon,Car,YFZ-308,2005,245000,Manual,Petrol,Front wheel,2000,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15363287.html,Volkswagen,Passat,Station Wagon,Car,KPS-475,2002,388000,Manual,Diesel,Four wheel,3200,0.0,,,,Seller,Vantaa,Uusimaa
+15361450.html,Mercedes-Benz,C,Sedan,Car,ULI-770,2003,315584,Automatic,Petrol,Rear wheel,2350,0.0,202,,,Seller,Pukkila,Uusimaa
+15360631.html,Mercedes-Benz,C,Sedan,Car,CJS-541,2003,499093,Automatic,Diesel,Rear wheel,1600,6.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15374298.html,Honda,Jazz,Hatchback,Car,LZV-529,2012,46996,Manual,Petrol,Front wheel,8750,0.0,126,,,Seller,Sievi,Pohjois-Pohjanmaa
+15360853.html,Peugeot,207,Hatchback,Car,IKE-265,2010,261878,Manual,Diesel,Front wheel,1480,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15361719.html,Subaru,Outback,Station Wagon,Car,HAZ-581,2008,370000,Manual,Diesel,Four wheel,2000,0.0,153,,,Seller,Iisalmi,Pohjois-Savo
+15358915.html,BMW,530,Station Wagon,Car,KPA-300,2005,385000,Automatic,Diesel,Rear wheel,4500,7.2,,,,Seller,Kajaani,Kainuu
+15363995.html,Mercedes-Benz,C,Sedan,Car,HBI-989,2002,186000,Manual,Petrol,Rear wheel,2290,0.0,,,,Seller,Mänttä-Vilppula,Pirkanmaa
+15375505.html,Skoda,Yeti,All-terrain SUV,Car,NJO-648,2015,285700,Automatic,Diesel,Four wheel,7000,0.0,164,,,Seller,Tuusula,Uusimaa
+15362282.html,Citroen,C4,Sedan,Car,YXT-406,2024,15000,Automatic,Petrol,Front wheel,26490,6.2,128,Salon Autotalo,Salo,Dealer,Salo,Varsinais-Suomi
+15364578.html,Toyota,Iq,Hatchback,Car,RPM-630,2011,164820,Manual,Petrol,Front wheel,1800,5.0,99,,,Seller,Espoo,Uusimaa
+15369986.html,Mercedes-Benz,A,Station Wagon,Car,NII-389,2005,277000,Manual,Diesel,Front wheel,2400,5.2,137,AutoMussalo Oy,Hollola,Dealer,Hollola,Päijät-Häme
+15359707.html,Volkswagen,Touran,MPV,Car,GFZ-115,2004,364600,Manual,Diesel,Front wheel,1100,0.0,,,,Seller,Lieto,Varsinais-Suomi
+15365003.html,Kia,Cerato,Sedan,Car,FHJ-636,2005,144539,Manual,Petrol,Front wheel,1300,0.0,165,,,Seller,Ulvila,Satakunta
+15359880.html,Mercedes-Benz,300,Sedan,Car,EZS-889,1992,589505,Automatic,Diesel,Rear wheel,1630,0.0,,,,Seller,Kankaanpää,Satakunta
+15361447.html,Volkswagen,Transporter,Other,Van,GFR-396,2004,332000,Manual,Diesel,Front wheel,3200,0.0,,,,Seller,Turku,Varsinais-Suomi
+15365287.html,Chevrolet,Chevy Van,Long - High,Van,JKR-57,2000,459000,Automatic,Diesel,Rear wheel,9500,0.0,,Mikalta Autot,Lahti,Dealer,Lahti,Päijät-Häme
+15359391.html,Kia,Ceed,Station Wagon,Car,AJZ-200,2008,376630,Manual,Petrol,Front wheel,1000,0.0,154,,,Seller,Hämeenkyrö,Pirkanmaa
+15363959.html,Skoda,Fabia,Hatchback,Car,ORF-590,2002,107897,Manual,Petrol,Front wheel,2200,0.0,168,,,Seller,Vantaa,Uusimaa
+15370638.html,Honda,FR-V,MPV,Car,NHK-365,2008,126000,Automatic,Petrol,Front wheel,8790,8.1,190,Garage35,Kangasala,Dealer,Kangasala,Pirkanmaa
+15367567.html,Volkswagen,Golf,Station Wagon,Car,NIJ-506,2012,243000,Manual,Petrol,Front wheel,3200,0.0,139,,,Seller,Kuopio,Pohjois-Savo
+15361007.html,Nissan,Almera,Sedan,Car,TKG-257,2004,229000,Manual,Petrol,Front wheel,1690,0.0,160,,,Seller,Veteli,Keski-Pohjanmaa
+15366129.html,Toyota,Auris,Station Wagon,Car,SNA-651,2016,104000,Automatic,Hybrid (petrol/electric),Front wheel,16390,3.6,83,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15372707.html,Volkswagen,Golf,Station Wagon,Car,NFL-545,2003,132415,Automatic,Petrol,Front wheel,1900,0.0,,,,Seller,Kalajoki,Pohjois-Pohjanmaa
+15366444.html,Audi,A4,Station Wagon,Car,IHU-881,2009,230000,Manual,Petrol,Four wheel,9800,0.0,176,,,Seller,Rovaniemi,Lappi
+15361330.html,Volkswagen,Golf,Station Wagon,Car,INY-948,2006,244000,Manual,Petrol,Front wheel,1900,0.0,168,,,Seller,Vaasa,Pohjanmaa
+15366602.html,Ford,Focus,Hatchback,Car,EHY-608,2009,360000,Manual,Petrol,Front wheel,2000,0.0,159,EliteCars Oy,Vaasa,Dealer,Vaasa,Pohjanmaa
+15375575.html,Volvo,V70,Station Wagon,Car,VNZ-120,2013,499494,Automatic,Diesel,Front wheel,2900,0.0,149,,,Seller,Kalajoki,Pohjois-Pohjanmaa
+15369127.html,Ford,Transit,Other,Van,BPC-297,2011,490000,Manual,Diesel,Front wheel,1500,0.0,216,,,Seller,Laihia,Pohjanmaa
+15365624.html,Nissan,X-Trail,All-terrain SUV,Car,GHR-545,2008,248600,Manual,Petrol,Four wheel,5500,8.0,208,,,Seller,Joroinen,Pohjois-Savo
+15362423.html,BMW,330,Station Wagon,Car,XNV-834,2013,415000,Automatic,Diesel,Four wheel,12900,5.4,142,Rahoitustie,Lappeenranta,Dealer,Kokkola,Keski-Pohjanmaa
+15359016.html,Toyota,Corolla,Hatchback,Car,OOG-630,2003,236700,Manual,Petrol,Front wheel,2650,7.0,168,,,Seller,Jyväskylä,Keski-Suomi
+15366144.html,Mercedes-Benz,Sprinter,Middle long - Low,Light truck,ROY-880,2000,428000,Manual,Diesel,Rear wheel,2000,0.0,,,,Seller,Padasjoki,Päijät-Häme
+15368408.html,Ford,Mondeo,Station Wagon,Car,LMN-361,2008,449226,Manual,Diesel,Front wheel,2500,5.0,156,,,Seller,Simo,Lappi
+15364373.html,Volvo,Amazon,Sedan,Car,BUY-44,1967,42743,Manual,Petrol,Rear wheel,3850,0.0,,,,Seller,Helsinki,Uusimaa
+15363757.html,Skoda,Octavia,Station Wagon,Car,FJT-733,2010,360000,Manual,Diesel,Front wheel,1200,0.0,145,,,Seller,Leppävirta,Pohjois-Savo
+15367522.html,Nissan,Micra,Hatchback,Car,HHI-295,2007,189000,Manual,Petrol,Front wheel,1750,0.0,,,,Seller,Lempäälä,Pirkanmaa
+15370043.html,Volkswagen,Polo,Hatchback,Car,VBG-615,2004,246,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15375644.html,Toyota,Corolla,Sedan,Car,BAY-795,2008,57200,Manual,Petrol,Front wheel,9900,0.0,162,,,Seller,Luumäki,Etelä-Karjala
+15360284.html,BMW,520,Sedan,Car,MSZ-467,2016,243000,Automatic,Diesel,Four wheel,12400,0.0,119,,,Seller,Helsinki,Uusimaa
+15373748.html,Ford,Transit,MPV,Van,FPR-215,2019,123000,Manual,Diesel,Front wheel,16000,0.0,226,,,Seller,Turku,Varsinais-Suomi
+15374259.html,Volvo,V50,Station Wagon,Car,OTB-463,2010,326300,Manual,Diesel,Front wheel,2100,0.0,104,,,Seller,Salo,Varsinais-Suomi
+15362662.html,Saab,9-3,Sedan,Car,KUY-788,2003,305000,Automatic,Petrol,Front wheel,1690,0.0,226,Samikafix Ky,Salo,Dealer,Salo,Varsinais-Suomi
+15366519.html,Mercedes-Benz,E,Sedan,Car,IJM-192,2009,467000,Automatic,Diesel,Rear wheel,4600,0.0,145,,,Seller,Kokkola,Keski-Pohjanmaa
+15359636.html,Ford,Mondeo,Station Wagon,Car,FFV-294,2003,299800,Manual,Petrol,Front wheel,1700,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15374509.html,Fiat,Ducato,Middle long - Low,Van,NJY-669,2012,242000,Manual,Diesel,Front wheel,8950,7.0,185,Auto Itkonen Oy,Turku,Dealer,Turku,Varsinais-Suomi
+15366207.html,Citroen,C2,Hatchback,Car,RTY-574,2004,184000,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Masku,Varsinais-Suomi
+15372101.html,BMW,320,Sedan,Car,CYM-988,2004,313000,Manual,Petrol,Rear wheel,3200,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15359089.html,Toyota,Yaris,Hatchback,Car,OTN-190,2013,82000,Manual,Petrol,Front wheel,8700,0.0,123,Pirkanmaan Autokeskus,Pirkkala,Dealer,Pirkkala,Pirkanmaa
+15368822.html,Smart,Forfour,Station Wagon,Car,HUZ-749,2004,179500,Automatic,Petrol,Front wheel,2500,0.0,,,,Seller,Pöytyä,Varsinais-Suomi
+15369063.html,Audi,A6,Sedan,Car,AAZ-826,2000,299800,Automatic,Petrol,Four wheel,2500,0.0,,,,Seller,Pieksämäki,Etelä-Savo
+15365581.html,Kia,Ceed,MPV,Car,ZLY-684,2007,194000,Manual,Petrol,Front wheel,2900,6.4,152,Vaihtokaara Pori,Pori,Dealer,Pori,Satakunta
+15367413.html,Nissan,Almera Tino,MPV,Car,RJF-193,2005,305000,Manual,Petrol,Front wheel,1050,0.0,,,,Seller,Muurame,Keski-Suomi
+15374917.html,Chevrolet,Express,Middle long - Low,Van,JHT-229,1997,190000,Automatic,Petrol,Rear wheel,3250,0.0,,,,Seller,Rovaniemi,Lappi
+15375469.html,Volvo,V70,Station Wagon,Car,ROG-494,2008,511000,Manual,Diesel,Front wheel,2000,4.6,157,,,Seller,Hankasalmi,Keski-Suomi
+15367624.html,Toyota,Yaris,Hatchback,Car,BYS-371,2001,212000,Manual,Petrol,Front wheel,1950,6.0,144,,,Seller,Helsinki,Uusimaa
+15359566.html,Mitsubishi,Outlander PHEV,All-terrain SUV,Car,BXL-256,2019,124200,Automatic,Petrol,Four wheel,19000,0.0,,,,Seller,Rovaniemi,Lappi
+15371737.html,Mercedes-Benz,Sprinter,MPV,Car,BIN-217,1998,295000,Manual,Diesel,Four wheel,5000,0.0,,,,Seller,Hollola,Päijät-Häme
+15371283.html,Chevrolet,Astro,Short - Semihigh,Van,JBC-55,1987,95505,Automatic,Petrol,Rear wheel,2000,0.0,,,,Seller,Isokyrö,Etelä-Pohjanmaa
+15359446.html,Lexus,IS,Sedan,Car,CMS-880,2014,232000,Automatic,Petrol,Rear wheel,16890,4.4,103,"JDM Outlet, Kaarina",Kaarina,Dealer,Kaarina,Varsinais-Suomi
+15364057.html,Tesla,Model 3,Sedan,Car,TES-003,2019,124900,Automatic,Electric,Four wheel,22990,0.0,,Ace Trading,Tuusula,Dealer,Tuusula,Uusimaa
+15358647.html,Peugeot,3008,Hatchback,Car,RPR-423,2010,198000,Automatic,Diesel,Front wheel,3880,4.9,130,Kuninkaanportin Auto,Porvoo,Dealer,Porvoo,Uusimaa
+15371440.html,Nissan,Almera,Hatchback,Car,XMG-735,2003,279000,Manual,Petrol,Front wheel,1450,0.0,160,,,Seller,Mikkeli,Etelä-Savo
+15361246.html,Mercedes-Benz,E,Station Wagon,Car,LCI-723,2003,637888,Automatic,Diesel,Rear wheel,1565,0.0,,,,Seller,Maaninka,Pohjois-Savo
+15367062.html,Volvo,S40,Sedan,Car,RJG-517,2007,120000,Manual,Petrol,Front wheel,6700,0.0,172,,,Seller,Veteli,Keski-Pohjanmaa
+15365150.html,Iveco,Daily,Long - High,Light truck,JIT-423,2013,354600,Manual,Diesel,Rear wheel,8500,0.0,,,,Seller,Sotkamo,Kainuu
+15364344.html,Volkswagen,Jetta,Sedan,Car,TTZ-766,2006,229672,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15366505.html,Toyota,Crown,Sedan,Car,XRV-253,2008,135100,Automatic,Hybrid (petrol/electric),Rear wheel,12600,0.0,,,,Seller,Helsinki,Uusimaa
+15373407.html,Peugeot,208,Hatchback,Car,RRV-889,2015,144000,Manual,Petrol,Front wheel,2500,4.3,99,Saka Finland Oy Kouvola,Kouvola,Dealer,Kouvola,Kymenlaakso
+15364778.html,Mitsubishi,L200,Pickup,Van,IFJ-650,1993,166500,Manual,Petrol,Four wheel,3200,0.0,,,,Seller,Vesanto,Pohjois-Savo
+15368579.html,Volvo,V70,Station Wagon,Car,CYM-237,2005,353000,Manual,Petrol,Front wheel,1750,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15373920.html,Suzuki,Grand Vitara,All-terrain SUV,Car,OVP-492,2008,271000,Manual,Diesel,Four wheel,4995,0.0,,,,Seller,Nokia,Pirkanmaa
+15358842.html,Audi,A6,Station Wagon,Car,GIC-434,2008,233261,Automatic,Diesel,Front wheel,4900,6.7,178,,,Seller,Suonenjoki,Pohjois-Savo
+15360077.html,Ford,Mondeo,Station Wagon,Car,IKV-554,2012,415000,Automatic,Diesel,Front wheel,1100,0.0,149,,,Seller,Eurajoki,Satakunta
+15370179.html,Mercedes-Benz,Vito,Other,Van,LNL-205,2016,191000,Automatic,Diesel,Four wheel,27000,0.0,174,,,Seller,Lieto,Varsinais-Suomi
+15363302.html,Mercedes-Benz,ML,All-terrain SUV,Car,IRG-858,2000,126000,Automatic,Petrol,Four wheel,5990,0.0,,,,Seller,Hyvinkää,Uusimaa
+15359671.html,Mercedes-Benz,Sprinter,Extension cabin,Car,VEY-606,2005,535000,Manual,Diesel,Rear wheel,3000,0.0,,,,Seller,Laukaa,Keski-Suomi
+15365830.html,Suzuki,Vitara,All-terrain SUV,Car,AVZ-406,1991,11111,Manual,Petrol,Four wheel,2200,0.0,,,,Seller,Ii,Pohjois-Pohjanmaa
+15372556.html,Ford,Fiesta,Hatchback,Car,ECY-861,2009,238000,Manual,Petrol,Front wheel,2900,5.7,133,Kelpo Kaara Oy,Kangasala,Dealer,Kangasala,Pirkanmaa
+15363596.html,Skoda,Octavia,Station Wagon,Car,MMO-500,2016,219000,Automatic,Diesel,Four wheel,13300,0.0,129,,,Seller,Hamina,Kymenlaakso
+15363940.html,Volvo,S90,Sedan,Car,XUF-600,1998,315000,Automatic,Petrol,Rear wheel,6490,0.0,,Jaremotors Oy,Piikkiö,Dealer,Piikkiö,Varsinais-Suomi
+15364722.html,Hyundai,i20,Hatchback,Car,ETJ-716,2020,85141,Manual,Petrol,Front wheel,11000,0.0,,,,Seller,Säkylä,Satakunta
+15367735.html,Volvo,V70,Station Wagon,Car,OKZ-815,2009,400000,Manual,Diesel,Front wheel,2490,4.9,129,JSV-Auto,Lahti,Dealer,Lahti,Päijät-Häme
+15367600.html,Kia,Sportage,All-terrain SUV,Car,BAI-932,2006,271372,Manual,Petrol,Four wheel,3000,0.0,194,,,Seller,Lappeenranta,Etelä-Karjala
+15364539.html,Volkswagen,Golf,Hatchback,Car,GCV-239,1998,180000,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Raahe,Pohjois-Pohjanmaa
+15358456.html,Volkswagen,Golf,Station Wagon,Van,TYP-688,2000,540000,Manual,Diesel,Front wheel,1400,5.0,,,,Seller,Nurmijärvi,Uusimaa
+15366047.html,Kia,Picanto,Hatchback,Car,MKO-312,2011,181000,Manual,Petrol,Front wheel,3900,4.1,95,Vaihtokaara Hyvinkää,Hyvinkää,Dealer,Hyvinkää,Uusimaa
+15366012.html,Audi,A6 Allroad,Station Wagon,Car,FOL-133,2012,200000,Automatic,Diesel,Four wheel,23870,6.7,176,Autolähde Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15358551.html,Honda,Civic,Sedan,Car,BEZ-670,2008,310000,Automatic,Petrol,Front wheel,1000,0.0,109,,,Seller,Sipoo,Uusimaa
+15365122.html,Seat,Leon ST,Station Wagon,Car,GNP-641,2015,169000,Automatic,Petrol,Front wheel,19900,0.0,160,,,Seller,Joensuu,Pohjois-Karjala
+15368012.html,Toyota,Avensis,Sedan,Car,VLG-737,2004,253400,Manual,Petrol,Front wheel,2900,0.0,172,,,Seller,Kokkola,Keski-Pohjanmaa
+15361177.html,Mazda,5,MPV,Car,EVF-264,2010,256289,Manual,Petrol,Front wheel,3590,0.0,187,,,Seller,Rovaniemi,Lappi
+15367243.html,Toyota,Corolla,Sedan,Car,IHU-697,2008,246000,Automatic,Petrol,Front wheel,5890,6.7,157,CWR Garage,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15360035.html,Mercedes-Benz,A,Sedan,Car,KTT-783,2014,186319,Automatic,Petrol,Front wheel,17680,6.4,148,Autotalo Leppiniemi Oy,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15365715.html,Tesla,Model 3,Sedan,Car,KVN-667,2021,126600,Automatic,Electric,Four wheel,23700,0.0,,,,Seller,Muurame,Keski-Suomi
+15374502.html,Ford,Mondeo,Station Wagon,Car,RSC-350,2011,441000,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Tampere,Pirkanmaa
+15374329.html,Toyota,Avensis,Station Wagon,Car,EFM-880,2003,323000,Automatic,Petrol,Front wheel,3000,0.0,,,,Seller,Rovaniemi,Lappi
+15368777.html,Mercedes-Benz,E,Sedan,Car,CJA-804,1994,,Automatic,Petrol,Rear wheel,2390,0.0,,,,Seller,Kotka,Kymenlaakso
+15367680.html,Hyundai,i20,MPV,Car,VPZ-310,2014,141000,Manual,Petrol,Front wheel,5450,4.9,114,Kylmälä Oy,Kaarina,Dealer,Kaarina,Varsinais-Suomi
+15362350.html,Nissan,Qashqai,All-terrain SUV,Car,ILH-316,2013,175000,Manual,Petrol,Front wheel,6900,5.9,139,Vaihtokaara Hyvinkää,Hyvinkää,Dealer,Hyvinkää,Uusimaa
+15362960.html,Land Rover,Discovery,All-terrain SUV,Car,JFX-75,2002,420000,Manual,Diesel,Four wheel,3000,0.0,,,,Seller,Helsinki,Uusimaa
+15361243.html,Volkswagen,Passat,Station Wagon,Car,LZO-140,2012,412000,Automatic,Diesel,Front wheel,3050,5.0,119,,,Seller,Kurikka,Etelä-Pohjanmaa
+15361194.html,Mercedes-Benz,C,Station Wagon,Car,RVY-257,2004,272000,Manual,Petrol,Rear wheel,2490,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15374051.html,Mercedes-Benz,E,Station Wagon,Car,YKA-419,2010,320000,Automatic,Diesel,Rear wheel,5500,0.0,,,,Seller,Sastamala,Pirkanmaa
+15368721.html,Mercedes-Benz,CLA,Station Wagon,Car,NNP-561,2023,72144,Automatic,Hybrid (petrol/electric),Front wheel,25900,1.1,20,,,Seller,Jyväskylä,Keski-Suomi
+15372007.html,Peugeot,207,Hatchback,Car,TUI-406,2007,150500,Manual,Petrol,Front wheel,2200,0.0,152,,,Seller,Hattula,Kanta-Häme
+15361152.html,Volkswagen,Caravelle,Other,Van,CCF-784,1997,319883,Manual,Diesel,Four wheel,1900,0.0,,,,Seller,Lappeenranta,Etelä-Karjala
+15364573.html,Mercedes-Benz,Vito,Middle long - Low,Van,LNK-500,2016,288000,Automatic,Diesel,Four wheel,21980,6.6,174,Järvenpään Autokulma Oy,Järvenpää,Dealer,Järvenpää,Uusimaa
+15362173.html,Toyota,Corolla,Station Wagon,Car,ZJI-283,2006,151480,Manual,Petrol,Front wheel,4900,0.0,172,,,Seller,Oulu,Pohjois-Pohjanmaa
+15371804.html,Nissan,Qashqai,MPV,Car,BSH-523,2012,339000,Manual,Petrol,Front wheel,2950,0.0,139,,,Seller,Lappeenranta,Etelä-Karjala
+15371765.html,Mercedes-Benz,B,MPV,Car,,2007,256535,Automatic,Diesel,Front wheel,3200,6.0,161,,,Seller,Siilinjärvi,Pohjois-Savo
+15358802.html,Mercedes-Benz,EQC,All-terrain SUV,Car,NNP-175,2023,29600,Automatic,Electric,Four wheel,42800,0.0,,,,Seller,Tuusula,Uusimaa
+15374339.html,Audi,A6,Station Wagon,Car,YHT-820,2006,411000,Automatic,Diesel,Four wheel,1350,0.0,,,,Seller,Kuusamo,Pohjois-Pohjanmaa
+15359898.html,Audi,A3,Hatchback,Car,LYN-877,2000,366500,Manual,Petrol,Front wheel,1100,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15371201.html,Mitsubishi,Lancer,Station Wagon,Car,IUG-554,2004,320000,Manual,Petrol,Front wheel,1370,0.0,,,,Seller,Kontiolahti,Pohjois-Karjala
+15363732.html,Ford,Ranger,Pickup,Van,MHY-950,2008,375456,Manual,Diesel,Four wheel,6700,0.0,244,,,Seller,Lempäälä,Pirkanmaa
+15360477.html,Mercedes-Benz,E,Sedan,Car,NFF-634,2003,360000,Manual,Diesel,Rear wheel,1500,0.0,,,,Seller,Rauma,Satakunta
+15367066.html,Volkswagen,Polo,Hatchback,Car,LAI-724,2005,232300,Manual,Petrol,Front wheel,1380,6.5,156,Autotalo Loiste Oy,Kaarina,Dealer,Kaarina,Varsinais-Suomi
+15366002.html,Dacia,Duster,All-terrain SUV,Car,CIL-469,2011,220000,Manual,Diesel,Four wheel,5990,5.6,145,Etelän Autoliike - Porvoo,Porvoo,Dealer,Porvoo,Uusimaa
+15363923.html,Seat,Ateca,All-terrain SUV,Car,JLA-757,2019,107000,Automatic,Diesel,Front wheel,15900,4.5,,,,Seller,Järvenpää,Uusimaa
+15366595.html,BMW,118,Hatchback,Car,TPY-415,2008,419654,Automatic,Diesel,Rear wheel,2550,0.0,144,PureBuild Oy,Iitti,Dealer,Iitti,Päijät-Häme
+15369918.html,Volkswagen,Polo,Hatchback,Car,XSF-724,2003,244899,Manual,Petrol,Front wheel,1250,0.0,,,,Seller,Kaustinen,Keski-Pohjanmaa
+15375928.html,Toyota,RAV4,All-terrain SUV,Car,YEH-326,2002,385797,Manual,Petrol,Four wheel,2600,0.0,,,,Seller,Polvijärvi,Pohjois-Karjala
+15366451.html,Mercedes-Benz,220,Sedan,Car,IYX-331,2007,330,Automatic,Diesel,Rear wheel,5400,6.2,,,,Seller,Tuusula,Uusimaa
+15366790.html,Volkswagen,Golf Plus,MPV,Car,KRM-901,2012,159000,Automatic,Petrol,Front wheel,6900,5.9,139,AutoLinkki Kempele,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15371856.html,Ford,S-MAX,MPV,Car,JGZ-531,2007,404500,Manual,Petrol,Front wheel,2390,7.5,192,,,Seller,Imatra,Etelä-Karjala
+15365902.html,Fiat,Scudo,Long - Low,Van,UPZ-756,2012,215000,Manual,Diesel,Front wheel,3780,0.0,179,,,Seller,Tuusula,Uusimaa
+15368507.html,Mercedes-Benz,E,Station Wagon,Car,79615,2018,188000,Automatic,Diesel,Four wheel,39990,6.6,174,Parrotz Järvenpää,Järvenpää,Dealer,Järvenpää,Uusimaa
+15366562.html,Toyota,Corolla,Hatchback,Car,XNG-628,2005,300200,Manual,Petrol,Front wheel,1450,7.0,168,,,Seller,Espoo,Uusimaa
+15375692.html,Mazda,3,Hatchback,Car,XHG-637,2005,189000,Manual,Petrol,Front wheel,1300,0.0,172,,,Seller,Polvijärvi,Pohjois-Karjala
+15373216.html,Ford,Focus,Hatchback,Car,ZKB-846,2012,79259,Manual,Petrol,Front wheel,5500,0.0,114,,,Seller,Naantali,Varsinais-Suomi
+15367227.html,Volvo,S60,Sedan,Car,RSJ-843,2016,299000,Automatic,Diesel,Front wheel,8800,0.0,109,,,Seller,Espoo,Uusimaa
+15364207.html,Renault,Trafic,A separate load area,Van,YLM-772,2022,30000,Manual,Diesel,Front wheel,21900,7.6,191,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15361310.html,Honda,CR-V,Hatchback,Car,JEJ-371,2001,255000,Automatic,Petrol,Four wheel,2900,0.0,235,,,Seller,Taipalsaari,Etelä-Karjala
+15365424.html,Audi,A6,Station Wagon,Car,JJJ-651,2013,247000,Automatic,Diesel,Front wheel,11500,0.0,,Nurmijärven Laatuauto Oy,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15366826.html,Mercedes-Benz,190,Sedan,Car,HZS410,1990,350000,Manual,Petrol,Rear wheel,1500,10.0,,,,Seller,Tampere,Pirkanmaa
+15360234.html,Volvo,V50,Station Wagon,Car,BHI-700,2006,296000,Manual,Petrol,Front wheel,2300,0.0,,,,Seller,Joensuu,Pohjois-Karjala
+15358529.html,Skoda,Octavia,Station Wagon,Van,OUY-385,2008,342000,Manual,Diesel,Front wheel,1590,6.0,,,,Seller,Kajaani,Kainuu
+15359003.html,Fiat,Punto Evo,Station Wagon,Car,OPZ-421,2010,189000,Manual,Petrol,Front wheel,1850,5.7,135,,,Seller,Akaa,Pirkanmaa
+15362917.html,Volkswagen,Golf,Hatchback,Car,GLN-710,2015,280000,Manual,Diesel,Front wheel,6450,0.0,99,Automyynti Sahili Oy,Salo,Dealer,Salo,Varsinais-Suomi
+15376842.html,Nissan,Almera,Sedan,Car,YCV-766,2000,271350,Automatic,Petrol,Front wheel,1150,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15359587.html,Nissan,Micra,Hatchback,Car,CYN-576,2005,210000,Manual,Petrol,Front wheel,2390,5.9,139,,,Seller,Kaarina,Varsinais-Suomi
+15363893.html,Volkswagen,Golf,Hatchback,Car,BBG-274,2005,255077,Manual,Petrol,Front wheel,2250,0.0,,,,Seller,Ylivieska,Pohjois-Pohjanmaa
+15366227.html,Honda,CR-V,All-terrain SUV,Car,AUI-643,2007,472500,Manual,Diesel,Four wheel,2000,6.5,173,,,Seller,Juva,Etelä-Savo
+15371120.html,Mercedes-Benz,Sprinter,Extension cabin,Car,OOZ-381,2007,287000,Manual,Diesel,Rear wheel,6500,0.0,,,,Seller,Joutseno,Etelä-Karjala
+15374043.html,Mercedes-Benz,A,Hatchback,Car,GMT-264,2008,311000,Manual,Diesel,Front wheel,1450,4.9,,,,Seller,Helsinki,Uusimaa
+15368417.html,Toyota,Corolla,Sedan,Car,LHS-360,1984,253000,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Kemijärvi,Lappi
+15366703.html,Opel,Combo,MPV,Van,MMM-947,2016,216900,Manual,Diesel,Front wheel,4490,0.0,129,,,Seller,Helsinki,Uusimaa
+15360429.html,Skoda,Superb,Sedan,Car,XMP-813,2010,309000,Manual,Diesel,Front wheel,2500,0.0,129,AutoHouse,Espoo,Dealer,Espoo,Uusimaa
+15358434.html,Volkswagen,ID.4,Station Wagon,Car,FNU-989,2022,45618,Automatic,Electric,Four wheel,35000,0.0,,,,Seller,Naantali,Varsinais-Suomi
+15375670.html,Toyota,Hiace,Short - Low,Van,JCY-732,1999,371000,Manual,Diesel,Four wheel,3500,0.0,,,,Seller,Salo,Varsinais-Suomi
+15364582.html,Ford,Focus,Station Wagon,Car,BYV-347,2001,326000,Manual,Petrol,Front wheel,1190,6.8,163,Bilkim,Porvoo,Dealer,Porvoo,Uusimaa
+15361259.html,Volvo,S40,Sedan,Car,EIH-956,1998,333000,Manual,Petrol,Front wheel,2199,0.0,,,,Seller,Ilmajoki,Etelä-Pohjanmaa
+15369478.html,Toyota,Hiace,Long - Low,Van,EJF-460,2006,415000,Manual,Diesel,Four wheel,2000,0.0,,,,Seller,Rovaniemi,Lappi
+15360996.html,Toyota,Land Cruiser,All-terrain SUV,Car,OVB-489,2005,358000,Automatic,Diesel,Four wheel,13490,0.0,,Miukin Kone,Tornio,Dealer,Tornio,Lappi
+15373107.html,Citroen,C4 Picasso,MPV,Car,ANY-705,2007,283000,Automatic,Diesel,Front wheel,1000,0.0,150,,,Seller,Vantaa,Uusimaa
+15364197.html,BMW,116,Hatchback,Car,VUI-226,2006,180000,Manual,Petrol,Rear wheel,1000,0.0,,,,Seller,Taipalsaari,Etelä-Karjala
+15367332.html,Skoda,Octavia,Hatchback,Car,SXF-374,2003,319000,Manual,Petrol,Front wheel,1500,0.0,192,,,Seller,Ypäjä,Kanta-Häme
+15358810.html,Fiat,Panda,All-terrain SUV,Car,BUF-310,2004,154000,Manual,Petrol,Front wheel,2650,5.8,138,HuippuAuto,Vantaa,Dealer,Vantaa,Uusimaa
+15368488.html,Audi,A4,Sedan,Car,XPL-809,2021,45000,Automatic,Petrol,Four wheel,34490,0.0,132,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15361473.html,Volvo,V90,Station Wagon,Car,OIG-650,1997,449000,Automatic,Petrol,Rear wheel,1950,0.0,,,,Seller,Vantaa,Uusimaa
+15361697.html,Toyota,Yaris,Hatchback,Car,RYK-364,2001,346000,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Turku,Varsinais-Suomi
+15361244.html,Toyota,Hiace,Long - Low,Van,EHI-917,2009,309000,Manual,Diesel,Four wheel,13990,0.0,,,,Seller,Kontiolahti,Pohjois-Karjala
+15358999.html,BMW,330,Station Wagon,Car,BOS-989,2006,466000,Automatic,Diesel,Rear wheel,4000,0.0,,,,Seller,Ilmajoki,Etelä-Pohjanmaa
+15365677.html,Volkswagen,Golf,Station Wagon,Car,SLR-911,2015,380000,Automatic,Diesel,Front wheel,5990,4.5,,Bilkom,Nurmijärvi,Dealer,Nurmijärvi,Uusimaa
+15363126.html,Opel,Vivaro,MPV,Van,RKY-930,2004,360000,Manual,Diesel,Front wheel,2650,0.0,,,,Seller,Pälkäne,Pirkanmaa
+15360738.html,Suzuki,Vitara,All-terrain SUV,Car,HFV-101,1992,100000,Manual,Petrol,Four wheel,2250,0.0,,,,Seller,Nokia,Pirkanmaa
+15365957.html,Ford,Mondeo,Station Wagon,Car,NFV-965,2007,281700,Manual,Petrol,Front wheel,1190,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15362148.html,Ford,Focus,Station Wagon,Car,SNZ-756,2010,215000,Manual,Petrol,Front wheel,1200,0.0,159,,,Seller,Kaarina,Varsinais-Suomi
+15374865.html,Nissan,Qashqai,All-terrain SUV,Car,ZME-447,2018,135000,Automatic,Petrol,Front wheel,11950,5.6,129,MenoBil Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15362003.html,Volvo,S60,Sedan,Car,EAZ-500,2009,469000,Automatic,Diesel,Front wheel,2200,0.0,199,,,Seller,Saarijärvi,Keski-Suomi
+15370991.html,Mercedes-Benz,E,Sedan,Car,IJV-173,2006,492000,Manual,Diesel,Rear wheel,2500,7.1,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15358260.html,Skoda,Octavia,Station Wagon,Car,YHJ-644,2009,281000,Automatic,Petrol,Front wheel,2550,6.4,147,,,Seller,Espoo,Uusimaa
+15358913.html,Toyota,Corolla,Sedan,Car,VEF-552,2002,197000,Manual,Petrol,Front wheel,1900,0.0,159,,,Seller,Kangasala,Pirkanmaa
+15359800.html,Toyota,Avensis,Sedan,Car,NHO-934,2007,239800,Manual,Petrol,Front wheel,3900,0.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15366174.html,Citroen,Xsara Picasso,MPV,Car,JGH-765,2003,220000,Manual,Petrol,Front wheel,1100,8.0,178,,,Seller,Vantaa,Uusimaa
+15362091.html,Volkswagen,Crafter,Extension cabin,Car,NLJ-238,2019,113000,Manual,Diesel,Front wheel,41900,0.0,,Tampereen Hyötyauto Oy,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15371901.html,Volvo,V60,Station Wagon,Car,CNR-303,2017,145000,Automatic,Diesel,Four wheel,14100,0.0,48,,,Seller,Kouvola,Kymenlaakso
+15372593.html,BMW,225,MPV,Car,FOC-299,2018,79000,Automatic,Hybrid (petrol/electric),Four wheel,14790,0.0,,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15360058.html,Mitsubishi,Lancer,Hatchback,Car,GII-942,2009,300000,Manual,Petrol,Front wheel,2750,7.0,188,,,Seller,Tampere,Pirkanmaa
+15360934.html,Volkswagen,Caddy Maxi,MPV,Van,CDY-9,2017,63000,Automatic,Gas,Front wheel,13900,6.5,123,VT AUTOSTYLE,Kangasala,Dealer,Kangasala,Pirkanmaa
+15359933.html,MINI,Cooper,Hatchback,Car,IHP-899,2009,262000,Manual,Diesel,Front wheel,1490,0.0,104,JKCars Oy,Hattula,Dealer,Hattula,Kanta-Häme
+15359395.html,Dacia,Duster,All-terrain SUV,Car,ZKN-154,2015,233000,Manual,Diesel,Four wheel,6900,5.3,135,,,Seller,Joensuu,Pohjois-Karjala
+15368763.html,Opel,Astra,Station Wagon,Car,ZJO-997,2012,266000,Manual,Diesel,Front wheel,3950,4.5,119,Autolandia,Kokkola,Dealer,Kokkola,Keski-Pohjanmaa
+15365447.html,Renault,Master,Long - Semihigh,Van,IMM-990,2016,170000,Manual,Diesel,Front wheel,14380,7.0,184,Autokonttori Oy,Vantaa,Dealer,Vantaa,Uusimaa
+15362970.html,Skoda,Octavia,Station Wagon,Car,OUY-435,2008,346347,Manual,Diesel,Four wheel,2550,0.0,173,,,Seller,Lapinlahti,Pohjois-Savo
+15376579.html,Opel,Astra,Station Wagon,Car,IKK-623,2011,410000,Automatic,Diesel,Front wheel,1580,6.0,156,,,Seller,Rauma,Satakunta
+15365252.html,Peugeot,3008,Hatchback,Car,GLA-520,2014,230959,Manual,Diesel,Front wheel,6599,4.8,125,Autoliike Leimu Oy,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15360329.html,Ford,Transit,Other,Van,MNT-267,2008,232000,Manual,Diesel,Front wheel,3300,0.0,,,,Seller,Nilsiä,Pohjois-Savo
+15363785.html,BMW,318,Station Wagon,Car,XOJ-390,2013,230000,Automatic,Diesel,Rear wheel,12990,0.0,,TKC-Automyynti,Kerava,Dealer,Kerava,Uusimaa
+15374646.html,Subaru,Forester,All-terrain SUV,Car,CJB-415,2013,178000,Automatic,Petrol,Four wheel,14990,0.0,150,,,Seller,Oulu,Pohjois-Pohjanmaa
+15358606.html,Mercedes-Benz,C,Station Wagon,Car,FJB-649,2008,640000,Automatic,Diesel,Rear wheel,1850,0.0,,,,Seller,Tampere,Pirkanmaa
+15375657.html,Audi,A4,Sedan,Car,HZC-857,2002,330000,Automatic,Petrol,Front wheel,1000,0.0,,,,Seller,Tampere,Pirkanmaa
+15360594.html,BMW,325,Sedan,Car,CNX-135,2005,355387,Automatic,Petrol,Rear wheel,3500,0.0,,,,Seller,Rautavaara,Pohjois-Savo
+15372912.html,Mercedes-Benz,250,Sedan,Car,KBY-391,1990,732000,Manual,Diesel,Rear wheel,3700,0.0,,,,Seller,Äänekoski,Keski-Suomi
+15365454.html,Ford,Mondeo,Station Wagon,Car,SLV-532,2016,214000,Automatic,Diesel,Front wheel,9900,0.0,128,,,Seller,Iisalmi,Pohjois-Savo
+15362827.html,Volkswagen,ID.4,All-terrain SUV,Car,SZB-778,2021,59000,Automatic,Electric,Four wheel,31800,0.0,,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15374598.html,Nissan,Qashqai,MPV,Car,XUM-442,2008,337300,Manual,Diesel,Four wheel,2100,0.0,,,,Seller,Espoo,Uusimaa
+15375474.html,Mercedes-Benz,R,MPV,Car,FMF-863,2006,340000,Automatic,Diesel,Four wheel,3100,0.0,,,,Seller,Porvoo,Uusimaa
+15360918.html,Volvo,V70,Station Wagon,Car,ZHU-866,2009,440000,Manual,Diesel,Front wheel,2950,0.0,157,Akaan Auto-Center Oy,Akaa,Dealer,Akaa,Pirkanmaa
+15362008.html,Audi,A4,Sedan,Car,OMF-761,2002,159047,Manual,Petrol,Front wheel,3200,0.0,,,,Seller,Keminmaa,Lappi
+15361038.html,Saab,900,Convertible,Car,KNS-400,1995,252000,Manual,Petrol,Front wheel,1800,0.0,,,,Seller,Raasepori,Uusimaa
+15359756.html,Seat,Ibiza,Hatchback,Car,CMX-318,2019,115500,Automatic,Petrol,Front wheel,8250,0.0,,,,Seller,Lahti,Päijät-Häme
+15370692.html,Mercedes-Benz,E,Sedan,Car,SSI-964,2004,344000,Automatic,Petrol,Rear wheel,4650,0.0,,,,Seller,Tuusula,Uusimaa
+15368724.html,Mercedes-Benz,200,Sedan,Car,VLP-197,1979,523000,Manual,Diesel,Rear wheel,1650,0.0,,Harri Ruuti,Laihia,Dealer,Laihia,Pohjanmaa
+15360716.html,Opel,Astra,Hatchback,Car,JFZ-756,2005,242400,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15363217.html,Volvo,240,Station Wagon,Car,RFC-299,1989,505000,Manual,Petrol,Rear wheel,2190,0.0,,JKCars Oy,Hattula,Dealer,Hattula,Kanta-Häme
+15364932.html,Opel,Kadett,Coupé,Car,ADG-135,1977,,Manual,Petrol,Rear wheel,2200,0.0,,,,Seller,Hirvensalmi,Etelä-Savo
+15373106.html,Pontiac,Parisienne,Station Wagon,Car,NJB-595,1986,,Automatic,Petrol,Rear wheel,3900,0.0,,,,Seller,Savonlinna,Etelä-Savo
+15360164.html,Mercedes-Benz,CLS 63 AMG,Sedan,Car,CHF-726,2005,248200,Automatic,Petrol,Rear wheel,3900,0.0,,,,Seller,Anjalankoski,Kymenlaakso
+15363290.html,Kia,Picanto,Hatchback,Car,OUZ-175,2016,29000,Manual,Petrol,Front wheel,8980,4.6,106,Cardeal Group,Tampere,Dealer,Ylöjärvi,Pirkanmaa
+15374421.html,Audi,A6 Allroad,Station Wagon,Car,OEY-363,2006,430000,Automatic,Diesel,Four wheel,1700,8.8,232,,,Seller,Vimpeli,Etelä-Pohjanmaa
+15359562.html,Subaru,XV,Station Wagon,Car,VZS-314,2018,203000,Automatic,Petrol,Four wheel,18490,6.9,155,Salon Autotalo,Salo,Dealer,Salo,Varsinais-Suomi
+15358351.html,Mazda,3,Hatchback,Car,RUU-841,2006,113000,Automatic,Petrol,Front wheel,5650,0.0,191,Nokian Autokulma,Nokia,Dealer,Nokia,Pirkanmaa
+15364646.html,Volkswagen,Transporter,Middle long - Low,Van,IAF-962,2001,479000,Manual,Diesel,Front wheel,1500,0.0,,JVK CARS,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15364164.html,Volkswagen,Crafter,Semilong - High,Van,bdvrag7ed4,2024,,Automatic,Diesel,Four wheel,73900,0.0,,Work Cars Jyväskylä,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15361109.html,Volkswagen,Polo,Hatchback,Car,EMA-839,2000,180000,Manual,Petrol,Front wheel,2000,0.0,,,,Seller,Vantaa,Uusimaa
+15358914.html,Nissan,King Cab,Pickup,Van,NGY-743,1991,450000,Manual,Diesel,Four wheel,1500,0.0,,,,Seller,Porvoo,Uusimaa
+15360167.html,Opel,Astra,Hatchback,Car,CYB-339,2004,249200,Manual,Petrol,Front wheel,1290,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15361389.html,Peugeot,207,Hatchback,Car,FHU-485,2005,193330,Manual,Petrol,Front wheel,1000,0.0,152,,,Seller,Akaa,Pirkanmaa
+15361228.html,Volkswagen,Caddy,MPV,Car,JHJ-869,2007,286000,Automatic,Diesel,Front wheel,3780,0.0,,,,Seller,Espoo,Uusimaa
+15366148.html,Volkswagen,Golf,Station Wagon,Car,OEI-443,2004,462000,Manual,Diesel,Front wheel,1200,0.0,,,,Seller,Kiuruvesi,Pohjois-Savo
+15368814.html,Opel,Astra,Hatchback,Car,FKN-908,2011,171700,Manual,Petrol,Front wheel,3700,5.9,138,,,Seller,Vantaa,Uusimaa
+15368329.html,Skoda,Octavia,Station Wagon,Car,MAZ-381,2010,236000,Manual,Diesel,Four wheel,7990,5.4,141,Autotalo Lahtinen Oy,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15374771.html,Skoda,Octavia,Station Wagon,Car,HKZ-209,2009,262198,Manual,Petrol,Front wheel,2390,0.0,148,,,Seller,Jyväskylä,Keski-Suomi
+15360182.html,Nissan,Micra,Hatchback,Car,CGE-474,2003,255166,Manual,Petrol,Front wheel,1000,0.0,143,,,Seller,Kankaanpää,Satakunta
+15373708.html,Nissan,X-Trail,All-terrain SUV,Car,TSG-400,2004,289000,Automatic,Petrol,Four wheel,2850,0.0,,,,Seller,Salo,Varsinais-Suomi
+15370145.html,Toyota,Yaris Verso,Station Wagon,Car,TAF-152,2001,193000,Manual,Petrol,Front wheel,1860,0.0,157,,,Seller,Kerava,Uusimaa
+15364963.html,BMW,320 Gran Turismo,Sedan,Car,GLT-954,2016,166000,Automatic,Diesel,Four wheel,14900,4.5,119,Kupen Auto Vantaa,Vantaa,Dealer,Vantaa,Uusimaa
+15360225.html,Citroen,C4 Picasso,MPV,Car,BAZ-938,2007,235000,Automatic,Diesel,Front wheel,1250,0.0,150,,,Seller,Kankaanpää,Satakunta
+15359363.html,Ford,Focus,Station Wagon,Car,FFG-102,2002,88000,Manual,Petrol,Front wheel,2590,6.8,163,Lacar Oy,Kokkola,Dealer,Kokkola,Keski-Pohjanmaa
+15363916.html,Volkswagen,Golf,Hatchback,Car,UKG-283,2011,224200,Automatic,Petrol,Front wheel,4650,0.0,139,,,Seller,Pori,Satakunta
+15364348.html,Volkswagen,Tiguan,All-terrain SUV,Car,IHL-872,2009,227000,Automatic,Diesel,Four wheel,5900,0.0,186,,,Seller,Kuopio,Pohjois-Savo
+15375858.html,Ford,Mondeo,Station Wagon,Car,KRE-802,2011,280000,Manual,Petrol,Front wheel,1500,0.0,149,,,Seller,Vantaa,Uusimaa
+15375116.html,Volvo,S80,Sedan,Car,WES491,2005,350000,Manual,Diesel,Front wheel,3200,0.0,,,,Seller,Raahe,Pohjois-Pohjanmaa
+15358346.html,Land Rover,Range Rover Evoque,All-terrain SUV,Car,LPS-313,2015,153000,Automatic,Diesel,Four wheel,21900,5.1,134,AutoMussalo Oy,Hollola,Dealer,Hollola,Päijät-Häme
+15359584.html,Ford,Focus,Station Wagon,Car,UCY-720,2005,293302,Manual,Petrol,Front wheel,1000,0.0,163,,,Seller,Ylitornio,Lappi
+15360383.html,Volkswagen,Crafter,Extension cabin,Car,BON-730,2007,574000,Manual,Diesel,Rear wheel,6500,0.0,,,,Seller,Siilinjärvi,Pohjois-Savo
+15363399.html,Mercedes-Benz,E,Sedan,Car,CGM-345,2002,264638,Automatic,Petrol,Rear wheel,1200,0.0,,,,Seller,Taivalkoski,Pohjois-Pohjanmaa
+15363259.html,Mercedes-Benz,Sprinter,Extension cabin,Light truck,XJF-871,2002,416000,Manual,Diesel,Rear wheel,2300,0.0,,,,Seller,Imatra,Etelä-Karjala
+15368646.html,Volvo,850,Sedan,Car,UPI-578,1993,466780,Manual,Petrol,Front wheel,1200,0.0,,,,Seller,Laukaa,Keski-Suomi
+15364804.html,Skoda,Enyaq,All-terrain SUV,Car,IRU-617,2022,125000,Automatic,Electric,Rear wheel,26890,0.0,,WS Motors,Aura,Dealer,Aura,Varsinais-Suomi
+15371006.html,Ford,Mondeo,Station Wagon,Car,EJI-263,2009,339198,Manual,Petrol,Front wheel,1300,0.0,189,,,Seller,Helsinki,Uusimaa
+15366686.html,Peugeot,207,Hatchback,Car,FHU-485,2006,193000,Manual,Petrol,Front wheel,2250,0.0,,Akaan realisointi,Akaa,Dealer,Akaa,Pirkanmaa
+15363726.html,Volvo,V40,Station Wagon,Car,YFI-320,2004,228556,Automatic,Petrol,Front wheel,2190,0.0,,,,Seller,Tampere,Pirkanmaa
+15371249.html,Toyota,Corolla,Sedan,Car,HJL-999,1977,,Manual,Petrol,Rear wheel,3000,0.0,,,,Seller,Kaarina,Varsinais-Suomi
+15363395.html,Fiat,Punto,Hatchback,Car,ZAI-321,2005,91000,Manual,Petrol,Front wheel,1590,0.0,136,,,Seller,Kokkola,Keski-Pohjanmaa
+15359070.html,Mazda,6,Station Wagon,Car,TEG-442,2003,238000,Automatic,Petrol,Front wheel,1300,0.0,215,,,Seller,Rovaniemi,Lappi
+15358717.html,Audi,A3,Hatchback,Car,KBI-626,2000,334000,Manual,Petrol,Front wheel,1450,0.0,,Mika Tuiskunen,Nummela,Dealer,Nummela,Uusimaa
+15359628.html,Toyota,Corolla,Hatchback,Car,BXJ-353,2019,61200,Automatic,Petrol,Front wheel,20500,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15364875.html,Toyota,Corolla,Hatchback,Car,EFX-242,1990,140000,Manual,Petrol,Front wheel,1450,0.0,,,,Seller,Orimattila,Päijät-Häme
+15368649.html,Mercedes-Benz,E,Sedan,Car,NFF634,2004,358268,Manual,Diesel,Rear wheel,2500,6.0,,,,Seller,Pöytyä,Varsinais-Suomi
+15361101.html,Mitsubishi,L200,Pickup,Van,EIU-810,1998,542000,Manual,Diesel,Four wheel,3300,0.0,,,,Seller,Parkano,Pirkanmaa
+15361460.html,Honda,Accord,Sedan,Car,HIO-788,1998,354000,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Kittilä,Lappi
+15359162.html,Toyota,Corolla,Hatchback,Car,MFR-831,1992,317000,Manual,Petrol,Front wheel,2900,0.0,,,,Seller,Helsinki,Uusimaa
+15371641.html,Nissan,X-Trail,All-terrain SUV,Car,FGO-185,2005,309000,Manual,Petrol,Four wheel,1400,0.0,,Tmi Olli Karttunen,Joensuu,Dealer,Joensuu,Pohjois-Karjala
+15359250.html,Toyota,Avensis,Station Wagon,Car,FFX-748,2004,280000,Manual,Petrol,Front wheel,2990,0.0,173,BilBox Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15364166.html,Skoda,Octavia,Hatchback,Car,RRU-243,2014,320000,Automatic,Diesel,Front wheel,5500,4.5,102,,,Seller,Helsinki,Uusimaa
+15360692.html,Toyota,Hiace,Other,Van,OVE-960,2005,400300,Manual,Diesel,Four wheel,5200,0.0,,,,Seller,Rovaniemi,Lappi
+15359595.html,Kia,ProCeed,Station Wagon,Car,YKO-148,2020,48000,Automatic,Petrol,Front wheel,24870,7.1,163,Autolähde Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15362298.html,Toyota,Corolla Verso,MPV,Car,XCI-567,2006,305000,Automatic,Petrol,Front wheel,3200,0.0,184,,,Seller,Pori,Satakunta
+15361175.html,Skoda,Superb,Hatchback,Car,KPC-191,2009,483,Automatic,Diesel,Front wheel,2350,0.0,177,,,Seller,Nokia,Pirkanmaa
+15361096.html,Peugeot,206,Hatchback,Car,TMG-111,2004,219465,Manual,Petrol,Front wheel,1290,0.0,,,,Seller,Lahti,Päijät-Häme
+15372886.html,Peugeot,Expert,Short - Low,Van,VTI-975,2006,325000,Manual,Diesel,Front wheel,1999,0.0,,,,Seller,Iisalmi,Pohjois-Savo
+15365113.html,Fiat,Punto,Hatchback,Car,YFC-178,2003,96839,Manual,Petrol,Front wheel,1990,0.0,136,,,Seller,Turku,Varsinais-Suomi
+15369142.html,Volvo,XC60,All-terrain SUV,Car,IJP-705,2011,260000,Automatic,Diesel,Four wheel,11500,0.0,184,,,Seller,Nokia,Pirkanmaa
+15370397.html,Volkswagen,Kupla,Coupé,Car,HYM-3,1970,26200,Manual,Petrol,Rear wheel,3500,0.0,,,,Seller,Tuusula,Uusimaa
+15361251.html,Kia,Sorento,All-terrain SUV,Car,MHY-975,2008,374984,Automatic,Diesel,Four wheel,2100,8.6,,,,Seller,Nurmijärvi,Uusimaa
+15359265.html,BMW,318,Station Wagon,Car,FOC-439,2007,217000,Manual,Petrol,Rear wheel,4450,5.5,,,,Seller,Pedersöre,Pohjanmaa
+15363320.html,Hyundai,i30,Station Wagon,Car,ZAZ-395,2011,340000,Automatic,Diesel,Front wheel,1400,6.0,,,,Seller,Vantaa,Uusimaa
+15371097.html,Volvo,940,Sedan,Car,IIK-702,1997,366701,Manual,Petrol,Rear wheel,3600,0.0,,,,Seller,Kotka,Kymenlaakso
+15373932.html,Fiat,Ducato,Normal,Light truck,KSY-838,2004,360000,Manual,Diesel,Front wheel,1500,0.0,,,,Seller,Ylihärmä,Etelä-Pohjanmaa
+15369361.html,Subaru,Outback,Station Wagon,Car,THG-135,2004,303000,Automatic,Petrol,Four wheel,1650,0.0,203,,,Seller,Jyväskylä,Keski-Suomi
+15364055.html,Mercedes-Benz,C,Station Wagon,Car,OZC-623,2016,285000,Automatic,Petrol,Rear wheel,8250,0.0,,Ace Trading,Tuusula,Dealer,Tuusula,Uusimaa
+15370641.html,Tesla,Model 3,Sedan,Car,KXH-785,2025,11000,Automatic,Electric,Rear wheel,43990,0.0,,KIESI Helsinki Konala,Helsinki,Dealer,Helsinki,Uusimaa
+15362225.html,Ford,Mondeo,Station Wagon,Car,COR-761,2003,330000,Manual,Petrol,Front wheel,1100,0.0,,,,Seller,Leppävirta,Pohjois-Savo
+15366511.html,BMW,116,Hatchback,Car,IJU-244,2009,164000,Manual,Diesel,Rear wheel,3990,0.0,,TarjousAutot.fi,Helsinki,Dealer,Helsinki,Uusimaa
+15360912.html,Toyota,Corolla,Station Wagon,Car,ZSG-968,2004,301000,Manual,Petrol,Front wheel,1950,0.0,172,,,Seller,Janakkala,Kanta-Häme
+15373232.html,Mitsubishi,L200,Pickup,Car,VIE-887,1998,567956,Manual,Diesel,Four wheel,2000,0.0,,,,Seller,Pori,Satakunta
+15359542.html,Toyota,Corolla,Hatchback,Car,KUY-398,2003,172800,Manual,Petrol,Front wheel,2950,0.0,168,,,Seller,Kontiolahti,Pohjois-Karjala
+15366975.html,Honda,CR-V,All-terrain SUV,Car,ISY-804,2006,449000,Manual,Diesel,Four wheel,1500,0.0,,Kiwat Autot Hämeenlinna,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15361261.html,Volkswagen,Golf,Hatchback,Car,YFL-156,2004,195000,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Valkeakoski,Pirkanmaa
+15362149.html,Ford,Transit,Semilong - High,Van,YXM-595,2016,174000,Manual,Diesel,Front wheel,15990,7.4,196,Suomen Työauto,Lieto,Dealer,Lieto,Varsinais-Suomi
+15360905.html,Volkswagen,Polo,Hatchback,Car,CMO-309,2019,52600,Manual,Petrol,Front wheel,10250,0.0,,,,Seller,Forssa,Kanta-Häme
+15361064.html,Mercedes-Benz,Sprinter,Semilong - Semihigh,Van,GHF-877,2006,183150,Automatic,Diesel,Front wheel,2700,0.0,,,,Seller,Helsinki,Uusimaa
+15361161.html,Volkswagen,Golf Plus,MPV,Car,YGK736,2006,359200,Manual,Petrol,Front wheel,1400,0.0,,,,Seller,Kurikka,Etelä-Pohjanmaa
+15358575.html,Ford,Transit Connect,Other,Van,CLX-904,2018,82000,Manual,Diesel,Front wheel,12800,0.0,123,PJ-Auto,Peräseinäjoki,Dealer,Peräseinäjoki,Etelä-Pohjanmaa
+15364888.html,Ford,Transit,Semilong - Semihigh,Van,YVJ-555,2008,368946,Manual,Diesel,Front wheel,4900,0.0,,,,Seller,Raisio,Varsinais-Suomi
+15376276.html,Toyota,Corolla,Hatchback,Car,LNG-155,2004,356000,Manual,Petrol,Front wheel,1800,7.0,168,Autovälitys Peltoniemi Oy,Kajaani,Dealer,Kajaani,Kainuu
+15371180.html,BMW,316,Station Wagon,Car,OAI-298,2004,295900,Manual,Petrol,Rear wheel,1500,7.5,177,,,Seller,Joensuu,Pohjois-Karjala
+15364890.html,Volkswagen,Touran,MPV,Car,GIB-385,2008,349500,Manual,Diesel,Front wheel,1900,0.0,156,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360385.html,Toyota,Land Cruiser,All-terrain SUV,Car,VTE-579,1988,253000,Manual,Diesel,Four wheel,15000,10.0,,,,Seller,Kotka,Kymenlaakso
+15374228.html,Mercedes-Benz,E,Station Wagon,Car,GJO-830,2011,570000,Automatic,Diesel,Rear wheel,5150,0.0,159,,,Seller,Hamina,Kymenlaakso
+15361025.html,Peugeot,Boxer,Pickup,Van,KHI-1,2008,220000,Manual,Diesel,Front wheel,6890,0.0,,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15368790.html,BMW,X5,All-terrain SUV,Car,NHM-727,2007,424500,Automatic,Diesel,Four wheel,5700,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360777.html,Mercedes-Benz,S,Sedan,Car,XYC-875,2000,357500,Automatic,Diesel,Rear wheel,1500,0.0,,,,Seller,Rovaniemi,Lappi
+15369864.html,Opel,Combo,Long - Low,Van,ERC-383,2019,126000,Manual,Diesel,Front wheel,9990,0.0,110,AutoQ Oy,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15368796.html,Volvo,V70,Station Wagon,Car,LYL-105,2001,385845,Automatic,Petrol,Front wheel,1500,0.0,,,,Seller,Aura,Varsinais-Suomi
+15365231.html,Ford,Mustang,Coupé,Car,SOR-348,1965,,Manual,Petrol,Rear wheel,22900,0.0,,,,Seller,Lahti,Päijät-Häme
+15364476.html,Mitsubishi,L200,Pickup,Van,CTM-465,2010,259000,Manual,Diesel,Four wheel,11490,0.0,228,Autotalo Sollo Oy,Lappeenranta,Dealer,Lappeenranta,Etelä-Karjala
+15358722.html,Honda,Civic,Hatchback,Car,ZMC-781,2007,211000,Manual,Petrol,Front wheel,4150,6.6,156,HuippuAuto,Vantaa,Dealer,Vantaa,Uusimaa
+15362440.html,Audi,A6 Allroad,Station Wagon,Car,FPH-390,2006,370000,Automatic,Diesel,Four wheel,1700,7.5,,,,Seller,Vantaa,Uusimaa
+15368832.html,Volkswagen,Caddy Maxi,MPV,Car,LOL-647,2018,246000,Automatic,Diesel,Front wheel,14500,0.0,133,,,Seller,Lumijoki,Pohjois-Pohjanmaa
+15373665.html,BMW,320,Station Wagon,Car,NLB-129,2008,310000,Automatic,Diesel,Four wheel,5990,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15368729.html,BMW,518,Station Wagon,Car,BXV-787,2020,310000,Automatic,Diesel,Rear wheel,14890,0.0,123,Cardeal Group,Tampere,Dealer,Ylöjärvi,Pirkanmaa
+15365450.html,Toyota,Yaris,Hatchback,Car,HBI-638,2007,293000,Manual,Petrol,Front wheel,2550,0.0,141,,,Seller,Petäjävesi,Keski-Suomi
+15360131.html,Volvo,V70,Station Wagon,Car,FGB-518,1998,553000,Automatic,Diesel,Front wheel,1000,0.0,,,,Seller,Iitti,Päijät-Häme
+15361428.html,Mitsubishi,Colt,Hatchback,Car,CMV-351,2003,113000,Manual,Petrol,Front wheel,1650,0.0,156,,,Seller,Lappeenranta,Etelä-Karjala
+15374166.html,Audi,A4,Station Wagon,Car,BZZ-493,2002,,Manual,Petrol,Four wheel,2100,0.0,,,,Seller,Oulunsalo,Pohjois-Pohjanmaa
+15360304.html,Volkswagen,Golf,Hatchback,Car,NFN-261,1999,211000,Manual,Petrol,Front wheel,3650,0.0,,,,Seller,Huittinen,Satakunta
+15360714.html,Suzuki,Liana,Hatchback,Car,HYZ-588,2002,131000,Manual,Petrol,Four wheel,1320,0.0,,,,Seller,Tyrnävä,Pohjois-Pohjanmaa
+15365108.html,Fiat,500,Hatchback,Car,VXM-815,2014,132000,Manual,Petrol,Front wheel,5190,0.0,113,,,Seller,Mäntsälä,Uusimaa
+15364773.html,Citroen,C3,Hatchback,Car,NHF-590,2007,182100,Manual,Petrol,Front wheel,1200,0.0,155,,,Seller,Joensuu,Pohjois-Karjala
+15366364.html,Nissan,King Cab,Pickup,Car,YCK-605,1999,480000,Manual,Diesel,Four wheel,1500,0.0,,,,Seller,Virrat,Pirkanmaa
+15359987.html,Citroen,Jumpy,Short - Low,Van,OSY-635,2007,425777,Manual,Diesel,Front wheel,1200,0.0,,,,Seller,Huittinen,Satakunta
+15364241.html,Ford,Mondeo,Sedan,Car,SOF-933,2002,179000,Manual,Petrol,Front wheel,2450,7.5,180,PH Auto,Joensuu,Dealer,Joensuu,Pohjois-Karjala
+15359161.html,Jeep,Grand Cherokee,All-terrain SUV,Car,VLF-121,1999,157800,Automatic,Petrol,Four wheel,4900,0.0,,,,Seller,Asikkala,Päijät-Häme
+15372453.html,Mercedes-Benz,C,Sedan,Car,HEZ-351,1993,425000,Manual,Petrol,Rear wheel,3499,0.0,,,,Seller,Loppi,Kanta-Häme
+15360698.html,Skoda,Octavia,Hatchback,Car,IHN-257,2008,328000,Manual,Diesel,Front wheel,1590,6.0,130,,,Seller,Mäntsälä,Uusimaa
+15375115.html,Audi,A4,Sedan,Car,SHZ-391,2009,205300,Automatic,Petrol,Front wheel,3900,6.6,169,,,Seller,Kemiönsaari,Varsinais-Suomi
+15372042.html,Audi,A1,Hatchback,Car,EUK-415,2011,110000,Automatic,Petrol,Front wheel,8490,5.3,122,Etelän Autoliike - Porvoo,Porvoo,Dealer,Porvoo,Uusimaa
+15375637.html,Volkswagen,Golf,Hatchback,Car,BOF-237,2004,269589,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Korsnäs,Pohjanmaa
+15359081.html,Opel,Astra,Station Wagon,Car,YHO-375,2011,312000,Manual,Petrol,Front wheel,2200,0.0,144,,,Seller,Vantaa,Uusimaa
+15363781.html,Cadillac,De Ville,Sedan,Car,JOI-42,1969,,Automatic,Petrol,Rear wheel,12600,0.0,,,,Seller,Pälkäne,Pirkanmaa
+15375804.html,Toyota,Auris,Hatchback,Car,GLJ-378,2014,207000,Automatic,Petrol,Front wheel,10500,5.7,134,,,Seller,Jyväskylä,Keski-Suomi
+15358314.html,Polestar,2,Hatchback,Car,NV-5462,2024,19000,Automatic,Electric,Rear wheel,40990,0.0,,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15370262.html,Audi,A4,Sedan,Car,MBG-882,2003,280000,Automatic,Petrol,Front wheel,1180,0.0,,,,Seller,Nakkila,Satakunta
+15371022.html,Hyundai,i30,Station Wagon,Car,VRY-143,2008,386000,Manual,Diesel,Front wheel,1300,4.7,128,,,Seller,Joensuu,Pohjois-Karjala
+15358885.html,Mitsubishi,Outlander,Station Wagon,Car,IPG-690,2004,356000,Automatic,Petrol,Four wheel,2888,0.0,240,,,Seller,Hämeenlinna,Kanta-Häme
+15373046.html,Ford,Focus,Station Wagon,Car,ILS-868,2014,215000,Manual,Petrol,Front wheel,5900,5.1,117,Saka Finland Oy Kouvola,Kouvola,Dealer,Kouvola,Kymenlaakso
+15358945.html,Renault,Twingo,Hatchback,Car,YEL-641,2002,113800,Manual,Petrol,Front wheel,1250,0.0,,,,Seller,Uusikaupunki,Varsinais-Suomi
+15368052.html,Toyota,Yaris Verso,MPV,Car,VVK-273,2002,304000,Manual,Petrol,Front wheel,1450,0.0,,Paiturin Autotalo,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15358763.html,Nissan,Micra,Hatchback,Car,GEF-173,2000,184519,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Kemi,Lappi
+15363117.html,Honda,Accord,Station Wagon,Van,IXY-461,2007,416000,Manual,Diesel,Front wheel,1690,5.9,155,Autosi,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15363559.html,Chevrolet,Silverado,Extension cabin,Light truck,APY-467,2002,186000,Automatic,Diesel,Four wheel,14500,0.0,,,,Seller,Lappeenranta,Etelä-Karjala
+15363846.html,Volvo,V70,Station Wagon,Car,ZNC-924,2015,317610,Automatic,Petrol,Front wheel,10900,6.8,121,AutoLinkki Kempele,Kempele,Dealer,Kempele,Pohjois-Pohjanmaa
+15359380.html,Opel,Vivaro,Long - Low,Van,FMR-702,2018,163000,Manual,Diesel,Front wheel,9980,0.0,,SKA Motors,Valkeakoski,Dealer,Valkeakoski,Pirkanmaa
+15358984.html,Citroen,C5,Station Wagon,Car,EKY-970,2010,292000,Manual,Diesel,Front wheel,2000,5.3,130,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15368792.html,Ford,Mondeo,Hatchback,Car,XVN-458,2014,179200,Manual,Petrol,Front wheel,7200,0.0,149,,,Seller,Espoo,Uusimaa
+15373512.html,Toyota,Avensis,Station Wagon,Car,CTK-962,2015,154500,Automatic,Petrol,Front wheel,15500,0.0,154,,,Seller,Turku,Varsinais-Suomi
+15365857.html,Mercedes-Benz,C,Station Wagon,Car,YIN-249,2011,413000,Automatic,Diesel,Rear wheel,6000,6.0,,,,Seller,Ilmajoki,Etelä-Pohjanmaa
+15371080.html,Nissan,Almera,Hatchback,Car,VAY-174,2007,142000,Manual,Petrol,Front wheel,3200,0.0,160,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15360635.html,Volvo,740,Sedan,Car,MGZ-605,1989,299000,Manual,Petrol,Rear wheel,1500,0.0,,,,Seller,Pelkosenniemi,Lappi
+15360490.html,Ford,Transit,Extension cabin,Light truck,LCF-979,2001,506000,Manual,Diesel,Rear wheel,3500,0.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15358726.html,Hyundai,i20,Hatchback,Car,OUH-675,2014,69000,Manual,Petrol,Front wheel,6450,4.9,114,MenoBil Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15370697.html,Toyota,Corolla,Station Wagon,Car,YCA-451,1998,414000,Manual,Petrol,Front wheel,1350,0.0,,Kylmälä Oy,Kaarina,Dealer,Kaarina,Varsinais-Suomi
+15361324.html,Volkswagen,Passat,Station Wagon,Car,KAZ-829,2003,334000,Manual,Petrol,Four wheel,1800,0.0,,,,Seller,Espoo,Uusimaa
+15358612.html,Kia,Sportage,All-terrain SUV,Car,NGK-219,2005,349000,Automatic,Petrol,Four wheel,1600,0.0,,,,Seller,Pori,Satakunta
+15361445.html,Toyota,Avensis,Sedan,Car,VGY-564,1998,252334,Manual,Petrol,Front wheel,1800,0.0,,,,Seller,Mäntyharju,Etelä-Savo
+15371907.html,Volkswagen,Transporter,MPV,Van,BUS-973,2018,240468,Manual,Diesel,Front wheel,15700,0.0,174,,,Seller,Siilinjärvi,Pohjois-Savo
+15368245.html,Opel,Corsa-e,Hatchback,Car,MZI-237,2021,84000,Automatic,Electric,Front wheel,13490,0.0,,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15377655.html,Skoda,Superb,Hatchback,Car,TTY-827,2009,,Manual,Diesel,Front wheel,1600,0.0,150,,,Seller,Vantaa,Uusimaa
+15369174.html,MINI,Cooper S,Station Wagon,Car,LYU-808,2009,203000,Manual,Petrol,Front wheel,6900,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15368671.html,Volkswagen,Passat,Sedan,Car,ZPI-105,2006,310000,Manual,Petrol,Front wheel,1105,0.0,,,,Seller,Kajaani,Kainuu
+15361432.html,Volkswagen,Transporter,Long - Low,Van,GHE-199,2006,405000,Manual,Diesel,Four wheel,6200,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15360297.html,Toyota,Hilux,Pickup,Van,ZJA-341,2009,254000,Manual,Diesel,Four wheel,19900,0.0,219,,,Seller,Vaasa,Pohjanmaa
+15358839.html,BMW,318,Station Wagon,Car,ZZC-846,2008,375000,Manual,Petrol,Rear wheel,1450,0.0,,,,Seller,Rauma,Satakunta
+15365848.html,BMW,530,Sedan,Car,CKA-291,2005,284000,Automatic,Petrol,Rear wheel,6000,10.0,,,,Seller,Heinola,Päijät-Häme
+15364712.html,BMW,523,Sedan,Car,MIT-251,1999,462000,Automatic,Petrol,Rear wheel,2299,0.0,,,,Seller,Sastamala,Pirkanmaa
+15367053.html,Citroen,C5,Station Wagon,Car,BPK-129,2011,279503,Automatic,Petrol,Front wheel,1200,6.0,169,,,Seller,Vaasa,Pohjanmaa
+15367427.html,Mitsubishi,Outlander PHEV,All-terrain SUV,Car,VZY-966,2014,124000,Automatic,Hybrid (petrol/electric),Four wheel,9500,1.8,44,,,Seller,Espoo,Uusimaa
+15375709.html,Toyota,Corolla,Hatchback,Car,VNF-396,2002,262000,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Turku,Varsinais-Suomi
+15375484.html,Toyota,Verso,Other,Car,YEV-251,2003,273000,Manual,Petrol,Front wheel,1450,0.0,157,,,Seller,Savonlinna,Etelä-Savo
+15370023.html,Volvo,740,Sedan,Car,UXC-744,1984,,Manual,E85/petrol,Rear wheel,7300,0.0,,,,Seller,Vantaa,Uusimaa
+15375008.html,Renault,Grand Scenic,MPV,Car,LHY-282,2007,254683,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Kemi,Lappi
+15364570.html,Polestar,2,Hatchback,Car,NV-5465,2021,65000,Automatic,Electric,Four wheel,31690,0.0,,KIESI Espoo Koskelo,Espoo,Dealer,Espoo,Uusimaa
+15365137.html,Honda,Stream,MPV,Car,CFJ-142,2001,328000,Manual,Petrol,Front wheel,1270,0.0,,,,Seller,Kankaanpää,Satakunta
+15372953.html,Ford,Focus,Sedan,Car,SHI-666,2006,286000,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Rauma,Satakunta
+15359943.html,Volvo,V60,Station Wagon,Car,ZJM-445,2012,329600,Automatic,Diesel,Front wheel,5950,5.7,149,,,Seller,Hyvinkää,Uusimaa
+15366416.html,Opel,Astra,Racing vehicle,Car,,1994,,Manual,Petrol,Front wheel,9900,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15363123.html,Nissan,X-Trail,All-terrain SUV,Car,XOJ-716,2017,213000,Automatic,Diesel,Front wheel,9800,0.0,139,,,Seller,Mikkeli,Etelä-Savo
+15368434.html,Mercedes-Benz,CLK,Coupé,Car,GMV-617,2003,222700,Automatic,Petrol,Rear wheel,4490,10.4,250,Autohalli.Com Raisio,Raisio,Dealer,Raisio,Varsinais-Suomi
+15367290.html,Volvo,V70,Station Wagon,Car,XRG-562,2005,319346,Manual,Petrol,Front wheel,3290,0.0,220,,,Seller,Vantaa,Uusimaa
+15368508.html,Mitsubishi,Pajero,All-terrain SUV,Car,NAG-95,1990,495000,Manual,Diesel,Four wheel,1500,0.0,,,,Seller,Liminka,Pohjois-Pohjanmaa
+15361472.html,Audi,A6 Allroad,Station Wagon,Car,JBF-94,2001,239000,Automatic,Petrol,Four wheel,3800,0.0,,,,Seller,Keminmaa,Lappi
+15365464.html,Mercedes-Benz,Sprinter,Other,Car,CJN-134,2009,678000,Automatic,Diesel,Rear wheel,8950,0.0,,,,Seller,Janakkala,Kanta-Häme
+15360350.html,Toyota,Yaris,Hatchback,Car,VXX-706,2015,174000,Manual,Petrol,Front wheel,8700,4.9,114,,,Seller,Pöytyä,Varsinais-Suomi
+15372120.html,Volkswagen,Golf,Hatchback,Car,IOZ-333,2008,191000,Automatic,Petrol,Front wheel,3950,0.0,169,,,Seller,Pöytyä,Varsinais-Suomi
+15369540.html,Ford,Focus,Sedan,Car,MKK-554,2013,130000,Manual,Petrol,Front wheel,7490,6.0,139,Autotalo Lahtinen Oy,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15370829.html,Tesla,Model 3,Sedan,Car,COR-733,2020,157500,Automatic,Electric,Four wheel,23400,0.0,,,,Seller,Kotka,Kymenlaakso
+15373671.html,Hyundai,i30,Station Wagon,Car,EOI-583,2011,3130000,Manual,Diesel,Front wheel,1490,0.0,119,,,Seller,Kauhajoki,Etelä-Pohjanmaa
+15359714.html,Volkswagen,Golf,Hatchback,Car,BRC-701,2013,196000,Manual,Petrol,Front wheel,5200,0.0,113,,,Seller,Pirkkala,Pirkanmaa
+15362744.html,Ford,Focus,Station Wagon,Car,UOF-873,2011,265345,Manual,Petrol,Front wheel,2490,6.8,159,,,Seller,Hamina,Kymenlaakso
+15368680.html,Dodge,Journey,MPV,Car,YVJ-921,2008,272414,Automatic,Diesel,Front wheel,1700,0.0,186,,,Seller,Helsinki,Uusimaa
+15362850.html,Skoda,Octavia,Hatchback,Car,EPZ-423,2004,257000,Manual,Petrol,Front wheel,1490,0.0,168,,,Seller,Isokyrö,Etelä-Pohjanmaa
+15363756.html,Ford,Focus,Hatchback,Car,IOI-115,2005,195000,Manual,Petrol,Front wheel,1700,0.0,161,,,Seller,Kuopio,Pohjois-Savo
+15360159.html,Volkswagen,Golf,Hatchback,Car,KAF-632,2005,315000,Manual,Petrol,Front wheel,1600,7.0,,,,Seller,Lahti,Päijät-Häme
+15361282.html,BMW,320,Coupé,Car,TNY-568,2008,470000,Automatic,Diesel,Rear wheel,5800,0.0,,,,Seller,Tervola,Lappi
+15364708.html,Skoda,Octavia,Sedan,Car,FJF-971,2009,245000,Manual,Petrol,Front wheel,3750,6.3,148,JVK CARS,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15372649.html,Toyota,Avensis,Station Wagon,Car,LEG-217,2003,270000,Manual,Petrol,Front wheel,1500,0.0,,,,Seller,Ylöjärvi,Pirkanmaa
+15372713.html,Toyota,Land Cruiser,All-terrain SUV,Car,KOV-658,1997,362000,Manual,Diesel,Four wheel,6200,0.0,,,,Seller,Pyhäntä,Pohjois-Pohjanmaa
+15358526.html,Ford,Fiesta,Hatchback,Car,GKY-594,2013,203000,Manual,Petrol,Front wheel,3250,0.0,99,,,Seller,Tuusula,Uusimaa
+15367952.html,Toyota,Corolla,Hatchback,Car,RSI-358,2002,365000,Manual,Petrol,Front wheel,1500,7.0,159,,,Seller,Keuruu,Keski-Suomi
+15367117.html,Volvo,240,Station Wagon,Car,XFE-331,1990,146000,Automatic,Petrol,Rear wheel,4650,0.0,,Malisen mekaniikka,Alajärvi,Dealer,Alajärvi,Etelä-Pohjanmaa
+15373752.html,Alfa Romeo,Mito,Hatchback,Car,ULF-746,2010,206000,Automatic,Petrol,Front wheel,2600,0.0,126,,,Seller,Riihimäki,Kanta-Häme
+15362024.html,Mercedes-Benz,Sprinter,Extension cabin,Light truck,MLP-759,2007,490000,Manual,Diesel,Rear wheel,3200,0.0,,,,Seller,Savitaipale,Etelä-Karjala
+15371789.html,Volkswagen,Transporter,Middle long - Low,Van,SYL-335,2001,440000,Manual,Diesel,Front wheel,1400,0.0,,,,Seller,Oulu,Pohjois-Pohjanmaa
+15368664.html,Toyota,Avensis,Station Wagon,Car,SRI-525,2006,438500,Manual,Diesel,Front wheel,2100,0.0,158,,,Seller,Pirkkala,Pirkanmaa
+15372675.html,Nissan,Almera,Sedan,Car,XAF-568,2002,268000,Manual,Petrol,Front wheel,1350,0.0,183,,,Seller,Ähtäri,Etelä-Pohjanmaa
+15363903.html,Toyota,Corolla Verso,MPV,Car,JGA-239,2005,325000,Manual,Petrol,Front wheel,1590,0.0,178,Ayman mohamed,Karkkila,Dealer,Karkkila,Uusimaa
+15363438.html,Mitsubishi,Pajero,All-terrain SUV,Car,NZF-9,1994,298000,Manual,Diesel,Four wheel,1300,9.0,20,,,Seller,Kaavi,Pohjois-Savo
+15360792.html,Hyundai,i20,Hatchback,Car,CIS-334,2013,132000,Manual,Petrol,Front wheel,1400,5.5,114,,,Seller,Paimio,Varsinais-Suomi
+15366963.html,Toyota,Hiace,Short - Low,Van,VLP-148,1982,,Manual,Diesel,Rear wheel,3500,0.0,,,,Seller,Jämsä,Keski-Suomi
+15361567.html,Isuzu,D-Max,Pickup,Van,MTH-028,2016,212000,Automatic,Diesel,Four wheel,21990,0.0,,Jonnismotor Oy,Kokkola,Dealer,Kokkola,Keski-Pohjanmaa
+15358898.html,Ford,Mondeo,Station Wagon,Car,HKY-973,2010,460000,Automatic,Diesel,Front wheel,1250,0.0,187,,,Seller,Vaasa,Pohjanmaa
+15359157.html,Mercedes-Benz,E,Sedan,Car,HGY-786,1995,570000,Manual,Diesel,Rear wheel,2500,0.0,,,,Seller,Kalajoki,Pohjois-Pohjanmaa
+15363366.html,Renault,Master,A separate load area,Van,ZNR-1,2021,121000,Manual,Diesel,Front wheel,29890,7.3,191,Auto7,Tuusula,Dealer,Tuusula,Uusimaa
+15368723.html,MINI,One,Hatchback,Car,BRC-909,2008,145000,Manual,Petrol,Front wheel,2500,5.4,,,,Seller,Kirkkonummi,Uusimaa
+15370565.html,Skoda,Superb,Station Wagon,Car,MLT-236,2014,303579,Automatic,Diesel,Front wheel,1000,0.0,122,,,Seller,Nokia,Pirkanmaa
+15363762.html,BMW,530,Sedan,Car,CGN844,2008,530000,Automatic,Diesel,Four wheel,4290,0.0,,Samlas avoin yhtiö,Ilmajoki,Dealer,Ilmajoki,Etelä-Pohjanmaa
+15372784.html,Mercedes-Benz,C,Sedan,Car,AOY-118,2008,235000,Manual,Diesel,Rear wheel,6400,5.7,149,Saimaan Autopiste,Mikkeli,Dealer,Mikkeli,Etelä-Savo
+15374664.html,Audi,A6,Sedan,Car,AGZ-769,1996,549000,Automatic,E85/petrol,Four wheel,1650,0.0,,,,Seller,Lahti,Päijät-Häme
+15360972.html,Toyota,Celica,Hatchback,Car,SUF-481,1990,314000,Manual,Petrol,Front wheel,4250,0.0,,,,Seller,Iisalmi,Pohjois-Savo
+15361669.html,Skoda,Karoq,All-terrain SUV,Car,ZNM-937,2020,95000,Automatic,Petrol,Front wheel,22900,6.4,145,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15371545.html,Citroen,C3,Hatchback,Car,GIK-377,2009,139500,Manual,Petrol,Front wheel,1350,0.0,145,,,Seller,Nastola,Päijät-Häme
+15363767.html,Opel,Astra,Station Wagon,Car,XRY-349,2011,218943,Manual,Petrol,Front wheel,1000,0.0,158,,,Seller,Turku,Varsinais-Suomi
+15368726.html,Volvo,PV,Sedan,Car,VEP-30,1964,,Manual,Petrol,Rear wheel,1600,0.0,,,,Seller,Ikaalinen,Pirkanmaa
+15359858.html,Toyota,Corolla,Station Wagon,Car,YKL-799,2020,92000,Automatic,Hybrid (petrol/electric),Front wheel,21900,5.0,89,,,Seller,Kangasala,Pirkanmaa
+15360602.html,BMW,330,Sedan,Car,NIC-815,2006,376000,Manual,Petrol,Rear wheel,6200,0.0,,,,Seller,Helsinki,Uusimaa
+15361372.html,Volvo,V50,Station Wagon,Car,MLG-832,2005,339000,Automatic,Petrol,Front wheel,2180,0.0,,,,Seller,Alahärmä,Etelä-Pohjanmaa
+15362163.html,Suzuki,SX4,Hatchback,Car,OTK-526,2016,78000,Manual,Petrol,Four wheel,16990,5.9,135,Autoliikkeelle Oy,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15365634.html,Toyota,Corolla Verso,MPV,Car,VSI-439,2006,315000,Manual,Petrol,Front wheel,2990,7.7,184,AutoQ Oy,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15363843.html,Fiat,Punto,Hatchback,Car,ZAI-321,2005,91000,Manual,Petrol,Front wheel,1590,0.0,136,,,Seller,Kokkola,Keski-Pohjanmaa
+15359241.html,Opel,Astra,Station Wagon,Car,HXF-306,2006,325000,Manual,Petrol,Front wheel,1280,6.7,161,Auto-Kuopio Oy,Kuopio,Dealer,Kuopio,Pohjois-Savo
+15365878.html,Peugeot,307,Station Wagon,Car,XBG-912,2004,315000,Manual,Petrol,Front wheel,1250,6.0,178,,,Seller,Kankaanpää,Satakunta
+15366784.html,Ford,Focus,Station Wagon,Car,NHX-815,2011,323000,Manual,Diesel,Front wheel,2890,4.2,109,Autoliike Laajarinne Oy,Lahti,Dealer,Lahti,Päijät-Häme
+15375243.html,Toyota,Hiace,Other,Car,XYO-723,2002,418000,Manual,Diesel,Four wheel,6350,9.3,246,,,Seller,Turku,Varsinais-Suomi
+15370258.html,Peugeot,406,Sedan,Car,AIG-740,1997,325000,Automatic,Petrol,Front wheel,1390,0.0,,Auto ja Kone Alanojat,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme
+15361126.html,Toyota,Yaris,Hatchback,Car,ZJR-988,2012,134000,Automatic,Petrol,Front wheel,9000,0.0,118,,,Seller,Jyväskylä,Keski-Suomi
+15371803.html,Toyota,Auris,Hatchback,Car,ZKY-225,2009,169146,Manual,Petrol,Front wheel,5000,0.0,,,,Seller,Lahti,Päijät-Häme
+15360173.html,Ford,Focus,Station Wagon,Car,HPF-163,2005,344004,Manual,Petrol,Front wheel,1000,0.0,,,,Seller,Hamina,Kymenlaakso
+15368798.html,Volvo,V40,Hatchback,Car,CJZ-548,2015,169000,Manual,Diesel,Front wheel,11000,0.0,88,,,Seller,Salo,Varsinais-Suomi
+15362425.html,BMW,530,Station Wagon,Car,CZH-781,2006,453000,Automatic,Diesel,Four wheel,2300,0.0,227,,,Seller,Haapavesi,Pohjois-Pohjanmaa
+15368674.html,Mercedes-Benz,C,Station Wagon,Car,YIA-222,2009,370000,Automatic,Diesel,Rear wheel,5200,0.0,170,,,Seller,Ylöjärvi,Pirkanmaa
+15360925.html,Nissan,Primera,Station Wagon,Car,LJY-712,2006,308600,Manual,Petrol,Front wheel,1290,0.0,177,,,Seller,Espoo,Uusimaa
+15366888.html,BMW,320,Station Wagon,Car,GLH-599,2006,392000,Manual,Diesel,Rear wheel,2750,0.0,,,,Seller,Eura,Satakunta
+15360424.html,Mercedes-Benz,C,Sedan,Car,CIN-525,2012,165000,Manual,Diesel,Rear wheel,8900,0.0,127,,,Seller,Kuopio,Pohjois-Savo
+15375730.html,Volkswagen,Transporter,Semilong - High,Van,UIV-776,2000,501000,Manual,Diesel,Front wheel,1000,0.0,,,,Seller,Taivalkoski,Pohjois-Pohjanmaa
+15358762.html,Jaguar,XE,Sedan,Car,IOP-866,2018,179000,Automatic,Diesel,Rear wheel,12870,4.1,106,Autolähde Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15363474.html,BMW,320,Sedan,Car,HJY-404,1997,250000,Manual,Petrol,Rear wheel,1200,0.0,,,,Seller,Kemi,Lappi
+15359488.html,Ford,Focus,Station Wagon,Car,EOX-554,2017,156000,Automatic,Petrol,Front wheel,9880,5.5,125,"Laatuautot.fi, Lohja",Lohja,Dealer,Lohja,Uusimaa
+15370868.html,Peugeot,3008,All-terrain SUV,Car,KUH-225,2020,82000,Automatic,Petrol,Four wheel,20500,0.0,,,,Seller,Tampere,Pirkanmaa
+15368192.html,Honda,Civic,Station Wagon,Car,NKG-493,2015,134500,Automatic,Petrol,Front wheel,13500,0.0,155,,,Seller,Kalajoki,Pohjois-Pohjanmaa
+15368691.html,Peugeot,206,Hatchback,Car,AZC-336,2001,143000,Manual,Petrol,Front wheel,1050,0.0,149,,,Seller,Oulu,Pohjois-Pohjanmaa
+15371354.html,Skoda,Enyaq,All-terrain SUV,Car,MOP-921,2022,108000,Automatic,Electric,Rear wheel,29900,0.0,,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15368159.html,Citroen,DS4,Hatchback,Car,GKG-556,2011,58700,Automatic,Petrol,Front wheel,6400,0.0,149,,,Seller,Espoo,Uusimaa
+15361155.html,Mercedes-Benz,E,Sedan,Car,YJH-501,2003,288000,Manual,Petrol,Rear wheel,6000,8.0,,,,Seller,Ulvila,Satakunta
+15360221.html,Ford,Focus,Station Wagon,Car,CYC-201,2004,307750,Manual,Petrol,Front wheel,1000,6.8,163,,,Seller,Valkeala,Kymenlaakso
+15365946.html,Mercedes-Benz,C,Station Wagon,Car,NEX-248,2000,640432,Automatic,Diesel,Rear wheel,1500,6.0,136,,,Seller,Kotka,Kymenlaakso
+15365573.html,Toyota,Yaris,Hatchback,Car,TVY-453,2008,105000,Automatic,Petrol,Front wheel,2800,0.0,136,,,Seller,Helsinki,Uusimaa
+15365028.html,Chevrolet,Astro,Short - Low,Van,NJI-81,1990,222000,Automatic,Petrol,Rear wheel,4900,0.0,,TOUCAR,Lempäälä,Dealer,Lempäälä,Pirkanmaa
+15370628.html,Citroen,C3,Hatchback,Car,FIP-515,2008,166180,Manual,Petrol,Front wheel,1890,0.0,145,,,Seller,Riihimäki,Kanta-Häme
+15370704.html,Mercedes-Benz,C,Sedan,Car,AYR-170,2001,355000,Automatic,Petrol,Rear wheel,1500,0.0,,,,Seller,Seinäjoki,Etelä-Pohjanmaa
+15360557.html,MINI,Cooper,Hatchback,Car,OKZ-260,2010,215467,Automatic,Diesel,Front wheel,5200,0.0,134,,,Seller,Hyvinkää,Uusimaa
+15359374.html,Nissan,Micra,Hatchback,Car,GMF-719,2016,84000,Manual,Petrol,Front wheel,6590,5.0,115,Optimal Car Center,Tuusula,Dealer,Tuusula,Uusimaa
+15368611.html,Nissan,Note,MPV,Car,ATY-479,2008,275500,Manual,Petrol,Front wheel,1300,0.0,,,,Seller,Helsinki,Uusimaa
+15371215.html,Nissan,Primera,Station Wagon,Car,CYL-887,2005,359000,Manual,Petrol,Front wheel,1490,0.0,173,,,Seller,Lahti,Päijät-Häme
+15359214.html,Mercury,Monterey,Coupé,Car,ACB-129,1954,,Manual,Petrol,Rear wheel,6950,0.0,,,,Seller,Tammela,Kanta-Häme
+15369447.html,Suzuki,Vitara,All-terrain SUV,Car,VFH-472,1991,,Manual,Petrol,Four wheel,2650,0.0,,,,Seller,Rovaniemi,Lappi
+15367370.html,Kia,Ceed,Station Wagon,Car,JMT-172,2022,36000,Automatic,Hybrid (petrol/electric),Front wheel,24900,1.2,29,Future Store Drivalia,Vantaa,Dealer,Vantaa,Uusimaa
+15371327.html,Skoda,Octavia,Sedan,Car,HLZ-591,2010,222000,Manual,Petrol,Front wheel,3490,6.3,148,Visa-Auto Oy,Raisio,Dealer,Raisio,Varsinais-Suomi
+15362752.html,Honda,CR-V,All-terrain SUV,Car,EYJ-295,2000,424000,Automatic,Petrol,Four wheel,1890,0.0,,TMI TERO IMMONEN,Ylöjärvi,Dealer,Ylöjärvi,Pirkanmaa
+15373414.html,Volkswagen,Golf,Hatchback,Car,FEG-928,1999,270000,Manual,Petrol,Front wheel,1350,0.0,,,,Seller,Kotka,Kymenlaakso
+15358863.html,Volkswagen,Transporter,MPV,Car,GKY-287,2014,498000,Automatic,Diesel,Front wheel,8000,0.0,198,,,Seller,Suonenjoki,Pohjois-Savo
+15362853.html,Volkswagen,Transporter,Long - Low,Van,OVL-111,2016,255000,Manual,Diesel,Front wheel,15990,6.3,164,Suomen Työauto,Lieto,Dealer,Lieto,Varsinais-Suomi
+15374365.html,Mazda,6,Hatchback,Car,ZRY-405,2008,295000,Automatic,Petrol,Front wheel,2800,0.0,182,,,Seller,Vantaa,Uusimaa
+15364677.html,Toyota,Proace,Short - Low,Van,FMX-919,2017,231000,Manual,Diesel,Front wheel,10850,5.3,139,"Laatuautot.fi, Lohja",Lohja,Dealer,Lohja,Uusimaa
+15359110.html,Opel,Vivaro,Long - Low,Van,XUY-138,2011,199000,Manual,Diesel,Front wheel,8990,0.0,229,BilBox Oy,Tampere,Dealer,Tampere,Pirkanmaa
+15362883.html,Mercedes-Benz,200,Station Wagon,Car,EVA-556,2011,183700,Automatic,Petrol,Rear wheel,13950,8.1,188,Auto-CenterElo,Nokia,Dealer,Nokia,Pirkanmaa
+15373214.html,Nissan,Terrano II,All-terrain SUV,Car,,2003,316000,Manual,Diesel,Four wheel,2900,0.0,,,,Seller,Äänekoski,Keski-Suomi
+15364720.html,Mercedes-Benz,Sprinter,Extension cabin,Car,SOV-943,2022,112000,Automatic,Diesel,Four wheel,74900,9.9,261,Work Cars Jyväskylä,Jyväskylä,Dealer,Jyväskylä,Keski-Suomi
+15376331.html,Volkswagen,Polo,Hatchback,Car,EXH-548,2005,157800,Manual,Petrol,Front wheel,1000,0.0,154,,,Seller,Helsinki,Uusimaa
+15360658.html,Ford,Fiesta,Sedan,Car,HMF-563,2005,271500,Manual,Petrol,Front wheel,1900,0.0,,,,Seller,Kuopio,Pohjois-Savo
+15362513.html,Kia,Ceed,Station Wagon,Car,LZC-329,2010,218000,Manual,Petrol,Front wheel,4990,6.0,142,MK Automyynti Oy,Rovaniemi,Dealer,Rovaniemi,Lappi
+15367907.html,Toyota,Corolla,Sedan,Car,HIM-454,1998,249000,Manual,Petrol,Front wheel,2450,0.0,,"AutoOlli , Tuulensuoja Oy",Iisalmi,Dealer,Iisalmi,Pohjois-Savo
+15375133.html,Mercedes-Benz,C,Sedan,Car,OUT-187,2015,199000,Automatic,Diesel,Rear wheel,13990,0.0,116,,,Seller,Espoo,Uusimaa
+15370929.html,Mercedes-Benz,Citan,Other,Van,MB-150,2013,238000,Manual,Diesel,Front wheel,8900,0.0,123,AUTO PAIKKA,Helsinki,Dealer,Helsinki,Uusimaa
+15363977.html,BMW,525,Station Wagon,Car,ABF-287,2003,347000,Automatic,Petrol,Rear wheel,2700,0.0,,,,Seller,Helsinki,Uusimaa
+15368745.html,Hyundai,Sonata,Sedan,Car,AEI-681,2007,199000,Automatic,Petrol,Front wheel,2950,0.0,,,,Seller,Imatra,Etelä-Karjala
+15374900.html,Volkswagen,Touran,MPV,Car,ECF-190,2006,398590,Manual,Diesel,Front wheel,1900,5.0,,,,Seller,Hämeenlinna,Kanta-Häme
+15375004.html,Ford,Focus,Station Wagon,Car,ZBZ-161,2008,226000,Manual,Diesel,Front wheel,1500,0.0,118,,,Seller,Lappeenranta,Etelä-Karjala
+15364527.html,Volvo,XC70,Station Wagon,Car,VJF-231,2002,470000,Automatic,Petrol,Four wheel,1300,0.0,,,,Seller,Kokkola,Keski-Pohjanmaa
+15361760.html,Volvo,XC70,Station Wagon,Car,RLG-994,2008,,Automatic,Diesel,Four wheel,4800,0.0,277,,,Seller,Raahe,Pohjois-Pohjanmaa
+15365404.html,Volvo,V60,Station Wagon,Car,CJP-517,2015,255000,Manual,Diesel,Front wheel,2000,0.0,,,,Seller,Nokia,Pirkanmaa
+15364849.html,Nissan,X-Trail,All-terrain SUV,Car,ORI-972,2005,300450,Manual,Petrol,Four wheel,2290,0.0,,,,Seller,Jyväskylä,Keski-Suomi
+15370680.html,Peugeot,308,Station Wagon,Car,GMG-730,2016,92000,Manual,Petrol,Front wheel,7450,0.0,,AUTOLIIKE MIKA NIEMINEN,Uusikaupunki,Dealer,Uusikaupunki,Varsinais-Suomi
+15358549.html,Nissan,Qashqai,MPV,Car,YVS-115,2010,185000,Manual,Petrol,Front wheel,5490,6.6,155,AutoQ Oy,Hämeenlinna,Dealer,Hämeenlinna,Kanta-Häme

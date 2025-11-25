@@ -7,14 +7,14 @@ import os
 
 # Plot price of unique car models with at least n data points
 # With respect to given variable ie. productionDate, mileageFromOdometer etc
-def plot_price(variable, data_points_required):
-    df = pd.read_csv('data/input/csv/json_data.csv')
+def plot_price(variable, data_points_required, input, output):
+    df = pd.read_csv(input)
     df[variable] = pd.to_numeric(df[variable], errors='coerce')
     df['basePrice'] = pd.to_numeric(df['basePrice'], errors='coerce')
     df_clean = df.dropna(subset=[variable, 'basePrice'])
     grouped = df_clean.groupby(['vehicleBrand', 'vehicleModel', 'vehicleVariant'])
 
-    output_path="data/output/png/price/{}".format(variable)
+    output_path="{}/price/{}".format(output, variable)
 
     if not os.path.exists(output_path):
         os.makedirs(output_path)
@@ -35,5 +35,10 @@ def plot_price(variable, data_points_required):
         plt.savefig("{}/{}".format(output_path, filename), dpi=100, bbox_inches='tight')
         plt.close()
 
-plot_price("productionDate", 100)
-plot_price("mileageFromOdometer", 100)
+# Plots for entire dataset
+plot_price("productionDate", 100, 'data/input/csv/json_data.csv', 'data/output/png')
+plot_price("mileageFromOdometer", 100, 'data/input/csv/json_data.csv', 'data/output/png')
+
+# Plots for labels
+plot_price("productionDate", 10, 'data/input/csv/labels.csv', 'data/output/png/labels')
+plot_price("mileageFromOdometer", 10, 'data/input/csv/labels.csv', 'data/output/png/labels')
